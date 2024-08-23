@@ -55,10 +55,14 @@
     - [Mongolian](#mongolian)
     - [Tibetan](#tibetan)
   - [South Asia](#south-asia)
-    - [Hindu](#hindu)
     - [Buddhist](#buddhist)
     - [Jain](#jain)
     - [Sikh](#sikh)
+    - [Hindu](#hindu)
+    - [South Indian](#south-indian)
+    - [West Indian (Caribbean influence)](#west-indian-caribbean-influence)
+    - [Central Indian](#central-indian)
+    - [Northeast Indian](#northeast-indian)
   - [Southeast Asia](#southeast-asia)
     - [Filipino](#filipino)
     - [Indonesian](#indonesian)
@@ -118,6 +122,24 @@
     - [Gnosticism](#gnosticism)
     - [Hermeticism](#hermeticism)
     - [Abrahmic](#abrahmic)
+  - [Astrological Goddesses](#astrological-goddesses)
+    - [Zodiac Goddesses](#zodiac-goddesses)
+    - [Planetary Goddesses](#planetary-goddesses)
+    - [Asteroid Goddesses](#asteroid-goddesses)
+    - [Fixed Star Goddesses](#fixed-star-goddesses)
+    - [Other Celestial Goddesses](#other-celestial-goddesses)
+  - [Legendary Lost Continents](#legendary-lost-continents)
+    - [Lemurian Goddesses](#lemurian-goddesses)
+    - [Atlantean Goddesses](#atlantean-goddesses)
+  - [Neolithic and Early Bronze Age Traditions](#neolithic-and-early-bronze-age-traditions)
+    - [Old Europe (6500-3500 BCE)](#old-europe-6500-3500-bce)
+    - [Çatalhöyük (7500-5700 BCE)](#çatalhöyük-7500-5700-bce)
+    - [Malta (3600-2500 BCE)](#malta-3600-2500-bce)
+  - [Ancient Serpent Worship](#ancient-serpent-worship)
+    - [Old Europe](#old-europe)
+    - [Africa](#africa)
+    - [Asia](#asia)
+    - [Americas](#americas)
 
 ## Western Europe
 ### Greek
@@ -1660,3 +1682,94 @@
 - Eve: First woman in Genesis, sometimes seen as embodying feminine divine potential.
 - Sarah: Wife of Abraham, representing divine feminine aspects of faith and motherhood.
 - Miriam: Prophetess and sister of Moses, associated with leadership and divine inspiration.
+
+## Astrological Goddesses
+### Zodiac Goddesses
+- Aries: Athena (Greek), Minerva (Roman) - goddesses of war and strategy
+- Taurus: Hathor (Egyptian), Aphrodite (Greek), Venus (Roman) - goddesses of love and beauty
+- Gemini: Artemis and Apollo's sister aspect (Greek), Diana (Roman) - goddesses of duality
+- Cancer: Selene (Greek), Luna (Roman), Ix Chel (Mayan) - moon goddesses
+- Leo: Sekhmet (Egyptian), Bast (Egyptian) - lioness goddesses associated with the sun
+- Virgo: Astraea (Greek), Isis (Egyptian), Demeter (Greek), Ceres (Roman) - harvest and purity goddesses
+- Libra: Themis (Greek), Maat (Egyptian), Justitia (Roman) - goddesses of justice and balance
+- Scorpio: Hekate (Greek), Kali (Hindu), Nephthys (Egyptian) - goddesses of transformation and the underworld
+- Sagittarius: Artemis (Greek), Diana (Roman) - goddesses of the hunt and freedom
+- Capricorn: Hestia (Greek), Vesta (Roman) - goddesses of hearth and structure
+- Aquarius: Hera (Greek), Juno (Roman), Saraswati (Hindu) - goddesses of higher wisdom
+- Pisces: Amphitrite (Greek), Tiamat (Babylonian), Yemaya (Yoruba) - ocean goddesses
+
+### Planetary Goddesses
+- Sun: Amaterasu (Japanese), Sekhmet (Egyptian), Sunna (Norse)
+- Moon: Selene (Greek), Luna (Roman), Chang'e (Chinese), Tsukuyomi (Japanese)
+- Mercury: Iris (Greek), Rosmerta (Celtic), Saraswati (Hindu)
+- Venus: Inanna (Sumerian), Ishtar (Babylonian), Hathor (Egyptian), Lakshmi (Hindu)
+- Mars: Anat (Canaanite), Durga (Hindu), Bellona (Roman)
+- Jupiter: Juno (Roman), Hera (Greek), Frigg (Norse)
+- Saturn: Rhea (Greek), Ops (Roman), Shakti (Hindu)
+- Uranus: Urania (Greek), Varuni (Hindu), Nut (Egyptian)
+- Neptune: Amphitrite (Greek), Salacia (Roman), Tethys (Greek)
+- Pluto: Persephone (Greek), Proserpina (Roman), Ereshkigal (Sumerian)
+
+### Asteroid Goddesses
+- Ceres: Demeter (Greek), Ceres (Roman) - nurturing and agriculture
+- Pallas: Athena/Pallas Athena (Greek), Minerva (Roman) - wisdom and strategy
+- Juno: Hera (Greek), Juno (Roman) - marriage and commitment
+- Vesta: Hestia (Greek), Vesta (Roman) - sacred flame and devotion
+- Chiron (while not a goddess, often associated with feminine healing energy): Hygeia (Greek), Airmid (Celtic)
+
+### Fixed Star Goddesses
+- Sirius: Sopdet (Egyptian), Satais (Greek)
+- Pleiades: Seven Sisters in various mythologies (Greek, Native American, Japanese)
+- Algol: Medusa (Greek), Lilith (Hebrew)
+- Spica: Shala (Babylonian), Ceres (Roman)
+- Antares: Hera (Greek), Juno (Roman) in some interpretations
+
+### Other Celestial Goddesses
+- Milky Way: Nut (Egyptian), Arianrhod (Welsh), Amalur (Basque)
+- Cosmic Egg: Aditi (Hindu), Eurynome (Greek), Nammu (Sumerian)
+- Dark Moon: Lilith (Hebrew), Kali (Hindu), Hekate (Greek)
+- Eclipses: Rahu and Ketu's feminine aspects (Hindu), Ix Chel (Mayan)
+- Comets: Ishtar (Babylonian), Pele (Hawaiian) in some interpretations
+
+## Legendary Lost Continents
+### Lemurian Goddesses
+- Amlee: Goddess of wisdom and spiritual enlightenment
+- Zaara: Goddess of nature and elemental forces
+- Naia: Goddess of healing and crystal energy
+
+### Atlantean Goddesses
+- Cleito: Mortal woman who became the first queen of Atlantis
+- Leucothea: Sea goddess associated with Atlantean sailors
+- Atabey: Goddess of fresh water and fertility (sometimes linked to Atlantean origins)
+
+## Neolithic and Early Bronze Age Traditions
+### Old Europe (6500-3500 BCE)
+- Gimbutas' "Mother Goddess" figurines: Representations of female divinity found across Neolithic Europe
+- Bird Goddess: Associated with regeneration and the soul
+- Snake Goddess: Linked to renewal and the underworld
+- Bear Mother: Symbol of motherhood and protection
+
+### Çatalhöyük (7500-5700 BCE)
+- Seated Mother Goddess: Fertility figure often depicted with leopards
+- Bull Goddess: Associated with strength and fertility
+
+### Malta (3600-2500 BCE)
+- Fat Ladies of Malta: Corpulent goddess figures representing abundance and fertility
+- Sleeping Lady: Unique reclining goddess figure, possibly representing death or rebirth
+
+## Ancient Serpent Worship
+### Old Europe
+- Serpent Goddess of Crete: Associated with the Minoan civilization (2700-1450 BCE)
+- Sheela-na-gig: Figurative carvings of naked women displaying enlarged vulvas, found in medieval European churches
+
+### Africa
+- Mami Wata: Water spirit venerated in West, Central, and Southern Africa, often depicted with a snake
+- Wadjet: Egyptian cobra goddess, protector of Lower Egypt
+
+### Asia
+- Nüwa: Chinese goddess of creation, often depicted with a snake's tail
+- Manasa: Hindu snake goddess, protector against snakebites and disease
+
+### Americas
+- Cihuacoatl: Aztec goddess, whose name means "Snake Woman"
+- Coatlicue: Aztec goddess, mother of the gods, often depicted with a skirt of snakes
