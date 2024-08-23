@@ -117,21 +117,12 @@
     - [Rapa Nui (Easter Island)](#rapa-nui-easter-island)
     - [Muisca](#muisca)
     - [Fijian](#fijian)
-    - [Dreamtime - Australian Aboriginal](#dreamtime---australian-aboriginal)
+    - [Dreamtime (Australian)](#dreamtime-australian)
   - [Syncretic and Modern Movements](#syncretic-and-modern-movements)
     - [Gnosticism](#gnosticism)
     - [Hermeticism](#hermeticism)
     - [Abrahmic](#abrahmic)
-  - [Astrological Goddesses](#astrological-goddesses)
-    - [Zodiac Goddesses](#zodiac-goddesses)
-    - [Planetary Goddesses](#planetary-goddesses)
-    - [Asteroid Goddesses](#asteroid-goddesses)
-    - [Fixed Star Goddesses](#fixed-star-goddesses)
-    - [Other Celestial Goddesses](#other-celestial-goddesses)
-  - [Legendary Lost Continents](#legendary-lost-continents)
-    - [Lemurian Goddesses](#lemurian-goddesses)
-    - [Atlantean Goddesses](#atlantean-goddesses)
-  - [Neolithic and Early Bronze Age Traditions](#neolithic-and-early-bronze-age-traditions)
+  - [Neolithic and Early Bronze Age](#neolithic-and-early-bronze-age)
     - [Old Europe (6500-3500 BCE)](#old-europe-6500-3500-bce)
     - [Çatalhöyük (7500-5700 BCE)](#çatalhöyük-7500-5700-bce)
     - [Malta (3600-2500 BCE)](#malta-3600-2500-bce)
@@ -140,6 +131,15 @@
     - [Africa](#africa)
     - [Asia](#asia)
     - [Americas](#americas)
+  - [Legendary Lost Continents](#legendary-lost-continents)
+    - [Lemurian Goddesses](#lemurian-goddesses)
+    - [Atlantean Goddesses](#atlantean-goddesses)
+  - [Astrological Goddesses](#astrological-goddesses)
+    - [Zodiac Goddesses](#zodiac-goddesses)
+    - [Planetary Goddesses](#planetary-goddesses)
+    - [Asteroid Goddesses](#asteroid-goddesses)
+    - [Fixed Star Goddesses](#fixed-star-goddesses)
+    - [Other Celestial Goddesses](#other-celestial-goddesses)
 
 ## Western Europe
 ### Greek
@@ -1556,7 +1556,7 @@
 - **Naivilawasa**: of traditional medicine and healing practices.
 - **Adi Senitoa**: of beauty and love, often invoked in courtship rituals.
 
-### Dreamtime - Australian Aboriginal
+### Dreamtime (Australian)
 - **Yhi**: Sun goddess of the Karraur people, associated with creation and light.
 - **Anjea**: Fertility goddess of the Karraur people, responsible for creating children from mud.
 - **Kunapipi**: Mother goddess and creator figure in Arnhem Land traditions.
@@ -1605,6 +1605,49 @@
 - **Sarah**: Wife of Abraham, representing divine feminine aspects of faith and motherhood.
 - **Miriam**: Prophetess and sister of Moses, associated with leadership and divine inspiration.
 
+## Neolithic and Early Bronze Age
+### Old Europe (6500-3500 BCE)
+- **Gimbutas' "Mother Goddess"**: Representations of female divinity found across Neolithic Europe
+- **Bird Goddess**: Associated with regeneration and the soul
+- **Snake Goddess**: Linked to renewal and the underworld
+- **Bear Mother**: Symbol of motherhood and protection
+
+### Çatalhöyük (7500-5700 BCE)
+- **Seated Mother Goddess**: Fertility figure often depicted with leopards
+- **Bull Goddess**: Associated with strength and fertility
+
+### Malta (3600-2500 BCE)
+- **Fat Ladies of Malta**: Corpulent goddess figures representing abundance and fertility
+- **Sleeping Lady**: Unique reclining goddess figure, possibly representing death or rebirth
+
+## Ancient Serpent Worship
+### Old Europe
+- **Serpent Goddess of Crete**: Associated with the Minoan civilization (2700-1450 BCE)
+- **Sheela-na-gig**: Figurative carvings of naked women displaying enlarged vulvas, found in medieval European churches
+
+### Africa
+- **Mami Wata**: Water spirit venerated in West, Central, and Southern Africa, often depicted with a snake
+- **Wadjet**: Egyptian cobra goddess, protector of Lower Egypt
+
+### Asia
+- **Nüwa**: Chinese goddess of creation, often depicted with a snake's tail
+- **Manasa**: Hindu snake goddess, protector against snakebites and disease
+
+### Americas
+- **Cihuacoatl**: Aztec goddess, whose name means "Snake Woman"
+- **Coatlicue**: Aztec goddess, mother of the gods, often depicted with a skirt of snakes
+
+## Legendary Lost Continents
+### Lemurian Goddesses
+- **Amlee**: of wisdom and spiritual enlightenment
+- **Zaara**: of nature and elemental forces
+- **Naia**: of healing and crystal energy
+
+### Atlantean Goddesses
+- **Cleito**: Mortal woman who became the first queen of Atlantis
+- **Leucothea**: Sea goddess associated with Atlantean sailors
+- **Atabey**: of fresh water and fertility (sometimes linked to Atlantean origins)
+
 ## Astrological Goddesses
 ### Zodiac Goddesses
 - **Aries**: Athena (Greek), Minerva (Roman) - goddesses of war and strategy
@@ -1652,46 +1695,3 @@
 - **Dark Moon**: Lilith (Hebrew), Kali (Hindu), Hekate (Greek)
 - **Eclipses**: Rahu and Ketu's feminine aspects (Hindu), Ix Chel (Mayan)
 - **Comets**: Ishtar (Babylonian), Pele (Hawaiian) in some interpretations
-
-## Legendary Lost Continents
-### Lemurian Goddesses
-- **Amlee**: of wisdom and spiritual enlightenment
-- **Zaara**: of nature and elemental forces
-- **Naia**: of healing and crystal energy
-
-### Atlantean Goddesses
-- **Cleito**: Mortal woman who became the first queen of Atlantis
-- **Leucothea**: Sea goddess associated with Atlantean sailors
-- **Atabey**: of fresh water and fertility (sometimes linked to Atlantean origins)
-
-## Neolithic and Early Bronze Age Traditions
-### Old Europe (6500-3500 BCE)
-- **Gimbutas' "Mother Goddess"**: Representations of female divinity found across Neolithic Europe
-- **Bird Goddess**: Associated with regeneration and the soul
-- **Snake Goddess**: Linked to renewal and the underworld
-- **Bear Mother**: Symbol of motherhood and protection
-
-### Çatalhöyük (7500-5700 BCE)
-- **Seated Mother Goddess**: Fertility figure often depicted with leopards
-- **Bull Goddess**: Associated with strength and fertility
-
-### Malta (3600-2500 BCE)
-- **Fat Ladies of Malta**: Corpulent goddess figures representing abundance and fertility
-- **Sleeping Lady**: Unique reclining goddess figure, possibly representing death or rebirth
-
-## Ancient Serpent Worship
-### Old Europe
-- **Serpent Goddess of Crete**: Associated with the Minoan civilization (2700-1450 BCE)
-- **Sheela-na-gig**: Figurative carvings of naked women displaying enlarged vulvas, found in medieval European churches
-
-### Africa
-- **Mami Wata**: Water spirit venerated in West, Central, and Southern Africa, often depicted with a snake
-- **Wadjet**: Egyptian cobra goddess, protector of Lower Egypt
-
-### Asia
-- **Nüwa**: Chinese goddess of creation, often depicted with a snake's tail
-- **Manasa**: Hindu snake goddess, protector against snakebites and disease
-
-### Americas
-- **Cihuacoatl**: Aztec goddess, whose name means "Snake Woman"
-- **Coatlicue**: Aztec goddess, mother of the gods, often depicted with a skirt of snakes
