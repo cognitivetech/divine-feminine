@@ -1,6 +1,10 @@
 # Represenatations of the Divine Feminine
 
+The astrological correspondences are speculative, based on the attributes and domains of the goddesses, drawing parallels with planetary symbolism in Western astrology.
+
+## Contents
 - [Represenatations of the Divine Feminine](#represenatations-of-the-divine-feminine)
+  - [Contents](#contents)
   - [Western Europe](#western-europe)
     - [Greek](#greek)
     - [Roman](#roman)
@@ -60,7 +64,7 @@
     - [Sikh](#sikh)
     - [Hindu](#hindu)
     - [South Indian](#south-indian)
-    - [West Indian (Caribbean influence)](#west-indian-caribbean-influence)
+    - [West Indian](#west-indian)
     - [Central Indian](#central-indian)
     - [Northeast Indian](#northeast-indian)
   - [Southeast Asia](#southeast-asia)
@@ -122,7 +126,13 @@
     - [Gnosticism](#gnosticism)
     - [Hermeticism](#hermeticism)
     - [Abrahmic](#abrahmic)
-  - [Neolithic and Early Bronze Age](#neolithic-and-early-bronze-age)
+  - [Astrological Goddesses](#astrological-goddesses)
+    - [Zodiac Goddesses](#zodiac-goddesses)
+    - [Planetary Goddesses](#planetary-goddesses)
+    - [Asteroid Goddesses](#asteroid-goddesses)
+    - [Fixed Star Goddesses](#fixed-star-goddesses)
+    - [Other Celestial Goddesses](#other-celestial-goddesses)
+  - [Ancient World](#ancient-world)
     - [Old Europe (6500-3500 BCE)](#old-europe-6500-3500-bce)
     - [Çatalhöyük (7500-5700 BCE)](#çatalhöyük-7500-5700-bce)
     - [Malta (3600-2500 BCE)](#malta-3600-2500-bce)
@@ -134,1537 +144,1485 @@
   - [Legendary Lost Continents](#legendary-lost-continents)
     - [Lemurian Goddesses](#lemurian-goddesses)
     - [Atlantean Goddesses](#atlantean-goddesses)
-  - [Astrological Goddesses](#astrological-goddesses)
-    - [Zodiac Goddesses](#zodiac-goddesses)
-    - [Planetary Goddesses](#planetary-goddesses)
-    - [Asteroid Goddesses](#asteroid-goddesses)
-    - [Fixed Star Goddesses](#fixed-star-goddesses)
-    - [Other Celestial Goddesses](#other-celestial-goddesses)
 
 ## Western Europe
 ### Greek
-- **Athena**: of wisdom, war, and crafts
-- **Aphrodite**: of love, beauty, and desire
-- **Hera**: Queen of the gods, goddess of marriage and family
-- **Demeter**: of agriculture, harvest, and fertility
-- **Artemis**: of the hunt, wilderness, and childbirth
-- **Hestia**: of the hearth, home, and domesticity
-- **Persephone**: of spring and queen of the underworld
-- **Hecate**: of magic, witchcraft, and crossroads
-- **Nemesis**: of retribution and divine justice
-- **Iris**: of the rainbow and messenger of the gods
-- **Nike**: of victory
-- **Eris**: of strife and discord
-- **Themis**: of divine law and order
-- **Nyx**: Primordial goddess of the night
-- **Selene**: of the moon
-- **Eos**: of the dawn
-- **Gaia**: Primordial goddess of the earth
-- **Rhea**: Titan goddess of fertility and motherhood
-- **Leto**: Titan goddess of motherhood and modesty
-- **Mnemosyne**: Titan goddess of memory and remembrance
-- **Tethys**: Titan goddess of fresh water and nursing
-- **Theia**: Titan goddess of sight and the shining light of the clear blue sky
-- **Phoebe**: Titan goddess of prophecy and oracular intellect
-- **Metis**: Titan goddess of wisdom, prudence, and deep thought
-- **Amphitrite**: of the sea, wife of Poseidon
-- **Chloris**: of flowers and spring
-- **Eirene**: of peace
-- **Enyo**: of war and destruction
-- **Hebe**: of youth
-- **Tyche**: of fortune and chance
+- **Athena**: of wisdom, war, and crafts (Mercury)
+- **Aphrodite**: of love, beauty, and desire (Venus)
+- **Hera**: Queen of the gods, goddess of marriage and family (Jupiter)
+- **Demeter**: of agriculture, harvest, and fertility (Earth)
+- **Artemis**: of the hunt, wilderness, and childbirth (Moon)
+- **Hestia**: of the hearth, home, and domesticity (Vesta)
+- **Persephone**: of spring and queen of the underworld (Pluto)
+- **Hecate**: of magic, witchcraft, and crossroads (Pluto)
+- **Nemesis**: of retribution and divine justice (Saturn)
+- **Iris**: of the rainbow and messenger of the gods (Mercury)
+- **Nike**: of victory (Jupiter)
+- **Eris**: of strife and discord (Pluto)
+- **Themis**: of divine law and order (Saturn)
+- **Nyx**: Primordial goddess of the night (Saturn)
+- **Selene**: of the moon (Moon)
+- **Eos**: of the dawn (Venus)
+- **Gaia**: Primordial goddess of the earth (Earth)
+- **Rhea**: Titan goddess of fertility and motherhood (Saturn)
+- **Leto**: Titan goddess of motherhood and modesty (Moon)
+- **Mnemosyne**: Titan goddess of memory and remembrance (Mercury)
+- **Tethys**: Titan goddess of fresh water and nursing (Neptune)
+- **Theia**: Titan goddess of sight and the shining light of the clear blue sky (Sun)
+- **Phoebe**: Titan goddess of prophecy and oracular intellect (Moon)
+- **Metis**: Titan goddess of wisdom, prudence, and deep thought (Mercury)
+- **Amphitrite**: of the sea, wife of Poseidon (Neptune)
+- **Chloris**: of flowers and spring (Venus)
+- **Eirene**: of peace (Venus)
+- **Enyo**: of war and destruction (Mars)
+- **Hebe**: of youth (Jupiter)
+- **Tyche**: of fortune and chance (Jupiter)
 
 ### Roman
-- **Minerva**: of wisdom, strategic warfare, and the arts
-- **Venus**: of love, beauty, and fertility
-- **Juno**: Queen of the gods, goddess of marriage and childbirth
-- **Ceres**: of agriculture, grain crops, and motherly relationships
-- **Diana**: of the hunt, the moon, and childbirth
-- **Vesta**: of the hearth, home, and family
-- **Bellona**: of war
-- **Fortuna**: of fortune, luck, and fate
-- **Aurora**: of the dawn
-- **Flora**: of flowers and spring
-- **Proserpina (Persephone)**: Queen of the underworld, associated with spring and vegetation
-- **Bona Dea**: of fertility, healing, and chastity
-- **Pax**: of peace
-- **Salacia**: of salt water and the consort of Neptune
-- **Trivia**: of magic, crossroads, and ghosts
-- **Pomona**: of fruit trees, gardens, and orchards
-- **Carmenta**: of childbirth and prophecy
-- **Libertas**: of freedom
-- **Concordia**: of agreement, understanding, and marital harmony
-- **Nox**: of the night
+- **Minerva**: of wisdom, strategic warfare, and the arts (Mercury)
+- **Venus**: of love, beauty, and fertility (Venus)
+- **Juno**: Queen of the gods, goddess of marriage and childbirth (Jupiter)
+- **Ceres**: of agriculture, grain crops, and motherly relationships (Earth)
+- **Diana**: of the hunt, the moon, and childbirth (Moon)
+- **Vesta**: of the hearth, home, and family (Saturn)
+- **Bellona**: of war (Mars)
+- **Fortuna**: of fortune, luck, and fate (Jupiter)
+- **Aurora**: of the dawn (Sun)
+- **Flora**: of flowers and spring (Venus)
+- **Proserpina (Persephone)**: Queen of the underworld, associated with spring and vegetation (Pluto)
+- **Bona Dea**: of fertility, healing, and chastity (Venus)
+- **Pax**: of peace (Venus)
+- **Salacia**: of salt water and the consort of Neptune (Neptune)
+- **Trivia**: of magic, crossroads, and ghosts (Mercury)
+- **Pomona**: of fruit trees, gardens, and orchards (Venus)
+- **Carmenta**: of childbirth and prophecy (Mercury)
+- **Libertas**: of freedom (Uranus)
+- **Concordia**: of agreement, understanding, and marital harmony (Venus)
+- **Nox**: of the night (Saturn)
 
 ### Celtic
-- **Brigid**: of spring, fertility, healing, poetry, and smithcraft
-- **Morrigan**: of war, fate, and death
-- **Danu**: Mother goddess, associated with fertility, wisdom, and the earth
-- **Cerridwen**: of inspiration, knowledge, and transformation
-- **Airmid**: of healing and herbal medicine
-- **Áine**: of summer, wealth, and sovereignty
-- **Clíodhna**: of love and beauty
-- **Epona**: of horses, fertility, and protection
-- **Flidais**: of the forest, wild animals, and the hunt
-- **Macha**: of war, horses, and sovereignty
-- **Medb**: of sovereignty, war, and fertility
-- **Nemain**: of war, death, and destruction
-- **Rhiannon**: of horses, birds, and the Otherworld
-- **Sheela na Gig**: of fertility and protection
-- **Sulevia**: of springs and healing waters
-- **Tailtiu**: of agriculture and the harvest
+- **Brigid**: of spring, fertility, healing, poetry, and smithcraft (Sun, Venus)
+- **Morrigan**: of war, fate, and death (Mars, Pluto)
+- **Danu**: Mother goddess, associated with fertility, wisdom, and the earth (Earth, Moon)
+- **Cerridwen**: of inspiration, knowledge, and transformation (Mercury, Uranus)
+- **Airmid**: of healing and herbal medicine (Mercury)
+- **Áine**: of summer, wealth, and sovereignty (Sun, Venus)
+- **Clíodhna**: of love and beauty (Venus)
+- **Epona**: of horses, fertility, and protection (Venus, Mars)
+- **Flidais**: of the forest, wild animals, and the hunt (Moon, Mars)
+- **Macha**: of war, horses, and sovereignty (Mars)
+- **Medb**: of sovereignty, war, and fertility (Mars, Venus)
+- **Nemain**: of war, death, and destruction (Mars, Pluto)
+- **Rhiannon**: of horses, birds, and the Otherworld (Moon)
+- **Sheela na Gig**: of fertility and protection (Venus, Saturn)
+- **Sulevia**: of springs and healing waters (Neptune)
+- **Tailtiu**: of agriculture and the harvest (Venus)
 
 ### Irish
-- **Brigid**: of poetry, healing, smithcraft, and fire, later syncretized with Saint Brigid.
-- **Morrigan**: of war, fate, and death, often appearing as a trio or shape-shifter.
-- **Danu**: Mother goddess and leader of the Tuatha Dé Danann, associated with wisdom and the earth.
-- **Airmid**: of medicinal plants and healing.
-- **Boann**: of the River Boyne, associated with fertility and inspiration.
-- **Ériu**: Goddess who gave her name to Ireland, representing sovereignty of the land.
-- **Flidais**: of wildlife, forests, and fertility.
-- **Macha**: of war, sovereignty, and horses, associated with the land of Ulster.
-- **Medb**: Warrior queen and goddess figure associated with sovereignty and intoxication.
-- **Áine**: of love, summer, wealth, and sovereignty.
-- **Clíodhna**: of love and beauty, associated with County Cork.
-- **Etain**: of transformation and rebirth, known for her great beauty.
-- **Fand**: Sea goddess and fairy queen associated with healing and otherworldly wisdom.
+- **Brigid**: of poetry, healing, smithcraft, and fire, later syncretized with Saint Brigid (Sun, Venus)
+- **Morrigan**: of war, fate, and death, often appearing as a trio or shape-shifter (Mars, Pluto)
+- **Danu**: Mother goddess and leader of the Tuatha Dé Danann, associated with wisdom and the earth (Earth, Moon)
+- **Airmid**: of medicinal plants and healing (Mercury)
+- **Boann**: of the River Boyne, associated with fertility and inspiration (Neptune, Venus)
+- **Ériu**: Goddess who gave her name to Ireland, representing sovereignty of the land (Earth)
+- **Flidais**: of wildlife, forests, and fertility (Moon, Venus)
+- **Macha**: of war, sovereignty, and horses, associated with the land of Ulster (Mars)
+- **Medb**: Warrior queen and goddess figure associated with sovereignty and intoxication (Mars, Neptune)
+- **Áine**: of love, summer, wealth, and sovereignty (Venus, Sun)
+- **Clíodhna**: of love and beauty, associated with County Cork (Venus)
+- **Etain**: of transformation and rebirth, known for her great beauty (Pluto, Venus)
+- **Fand**: Sea goddess and fairy queen associated with healing and otherworldly wisdom (Neptune, Mercury)
 
 ### Scottish
-- **Bride (Brigid)**: of poetry, healing, and smithcraft, later Christianized as St. Brigid.
-- **Cailleach**: Ancient goddess of winter, storms, and wilderness.
-- **Nicnevin**: Queen of the Fairies and witches, associated with Samhain.
-- **Scáthach**: Warrior goddess and martial arts teacher.
-- **Mórrígan**: of war, fate, and death (shared with Irish mythology).
-- **Beira**: Winter goddess and mother of all gods and goddesses in Scotland.
-- **Gentle Annie**: of the wind and sea breezes.
-- **Aikey Brae**: of prophecy and healing.
-- **Habetrot**: of spinning and weaving.
-- **Cailleach Bheur**: Blue-faced crone goddess of winter and storms.
-- **Macha**: of war, horses, and sovereignty (shared with Irish mythology).
+- **Bride (Brigid)**: of poetry, healing, and smithcraft, later Christianized as St. Brigid (Sun)
+- **Cailleach**: Ancient goddess of winter, storms, and wilderness (Saturn)
+- **Nicnevin**: Queen of the Fairies and witches, associated with Samhain (Pluto)
+- **Scáthach**: Warrior goddess and martial arts teacher (Mars)
+- **Mórrígan**: of war, fate, and death (shared with Irish mythology) (Mars/Pluto)
+- **Beira**: Winter goddess and mother of all gods and goddesses in Scotland (Saturn)
+- **Gentle Annie**: of the wind and sea breezes (Mercury)
+- **Aikey Brae**: of prophecy and healing (Neptune)
+- **Habetrot**: of spinning and weaving (Mercury)
+- **Cailleach Bheur**: Blue-faced crone goddess of winter and storms (Saturn)
+- **Macha**: of war, horses, and sovereignty (shared with Irish mythology) (Mars)
 
 ### Welsh
-- **Arianrhod**: of the moon, stars, and fate, associated with fertility and rebirth.
-- **Blodeuwedd**: Flower goddess created from flowers, later transformed into an owl.
-- **Branwen**: of love and beauty, associated with sovereignty.
-- **Ceridwen**: of inspiration, knowledge, and transformation, keeper of the cauldron of wisdom.
-- **Creiddylad**: of flowers and love, sometimes associated with May Day celebrations.
-- **Don**: Mother goddess figure, matriarch of the Welsh pantheon.
-- **Dwynwen**: of love and patron saint of lovers in Wales.
-- **Modron**: Divine mother figure, associated with the Mabinogion tales.
-- **Olwen**: of spring and fertility, whose footsteps created white flowers.
-- **Rhiannon**: Horse goddess associated with fertility, wisdom, and the Otherworld.
+- **Arianrhod**: of the moon, stars, and fate, associated with fertility and rebirth (Moon)
+- **Blodeuwedd**: Flower goddess created from flowers, later transformed into an owl (Venus)
+- **Branwen**: of love and beauty, associated with sovereignty (Venus)
+- **Ceridwen**: of inspiration, knowledge, and transformation, keeper of the cauldron of wisdom (Mercury)
+- **Creiddylad**: of flowers and love, sometimes associated with May Day celebrations (Venus)
+- **Don**: Mother goddess figure, matriarch of the Welsh pantheon (Moon)
+- **Dwynwen**: of love and patron saint of lovers in Wales (Venus)
+- **Modron**: Divine mother figure, associated with the Mabinogion tales (Moon)
+- **Olwen**: of spring and fertility, whose footsteps created white flowers (Venus)
+- **Rhiannon**: Horse goddess associated with fertility, wisdom, and the Otherworld (Moon)
 
 ### Breton
-- **Dahut**: Legendary princess of Ys, associated with the sea and sometimes considered a goddess.
-- **Morrigan**: of war, fate, and death, often depicted as a trio of sisters.
-- **Brigid**: of poetry, healing, and smithcraft, later syncretized with Saint Brigid.
-- **Sequana**: of the River Seine, associated with healing and sacred springs.
-- **Belisama**: of lakes and rivers, associated with crafts and light.
-- **Sirona**: of healing springs, often depicted with snakes and eggs.
-- **Nantosuelta**: of nature, fertility, and the home, often shown with a birdhouse or dovecote.
-- **Rosmerta**: of fertility and abundance, often paired with Mercury in Gallo-Roman religion.
-- **Epona**: of horses, fertility, and protection, popular among cavalry units.
-- **Sulis**: of hot springs, healing, and cursing, worshipped at Bath in England.
+- **Dahut**: Legendary princess of Ys, associated with the sea and sometimes considered a goddess (Neptune)
+- **Morrigan**: of war, fate, and death, often depicted as a trio of sisters (Mars, Saturn, Pluto)
+- **Brigid**: of poetry, healing, and smithcraft, later syncretized with Saint Brigid (Mercury, Sun)
+- **Sequana**: of the River Seine, associated with healing and sacred springs (Neptune)
+- **Belisama**: of lakes and rivers, associated with crafts and light (Neptune, Sun)
+- **Sirona**: of healing springs, often depicted with snakes and eggs (Mercury)
+- **Nantosuelta**: of nature, fertility, and the home, often shown with a birdhouse or dovecote (Venus, Moon)
+- **Rosmerta**: of fertility and abundance, often paired with Mercury in Gallo-Roman religion (Venus, Mercury)
+- **Epona**: of horses, fertility, and protection, popular among cavalry units (Mars, Venus)
+- **Sulis**: of hot springs, healing, and cursing, worshipped at Bath in England (Neptune, Mars)
 
 ### Frankish
-- **Nehalennia**: of seafarers and trade, associated with abundance and protection.
-- **Sirona**: Healing goddess associated with healing springs and celestial bodies.
-- **Rosmerta**: of abundance and fertility, often depicted with a cornucopia.
-- **Sequana**: River goddess of the Seine, associated with healing and prosperity.
-- **Epona**: Horse goddess, protector of cavalry, travelers, and equestrians.
-- **Nantosuelta**: of nature, fertility, and the home, often depicted with a birdhouse.
-- **Sulis**: of healing thermal springs, worshipped at Bath in England.
-- **Abnoba**: of forests and rivers in the Black Forest region.
-- **Arduinna**: of forests and hunting, associated with the Ardennes region.
-- **Nemetona**: of sacred groves and sanctuaries.
+- **Nehalennia**: of seafarers and trade, associated with abundance and protection (Neptune, Jupiter)
+- **Sirona**: Healing goddess associated with healing springs and celestial bodies (Mercury, Moon)
+- **Rosmerta**: of abundance and fertility, often depicted with a cornucopia (Venus, Jupiter)
+- **Sequana**: River goddess of the Seine, associated with healing and prosperity (Neptune, Jupiter)
+- **Epona**: Horse goddess, protector of cavalry, travelers, and equestrians (Mars)
+- **Nantosuelta**: of nature, fertility, and the home, often depicted with a birdhouse (Venus, Moon)
+- **Sulis**: of healing thermal springs, worshipped at Bath in England (Neptune)
+- **Abnoba**: of forests and rivers in the Black Forest region (Venus, Neptune)
+- **Arduinna**: of forests and hunting, associated with the Ardennes region (Diana, Mars)
+- **Nemetona**: of sacred groves and sanctuaries (Venus, Jupiter)
 
 ### Anglo-Saxon
-- **Eostre**: of spring, fertility, and dawn, associated with the Easter festival.
-- **Frigg**: of motherhood, marriage, and prophecy, wife of Odin.
-- **Hretha**: Obscure goddess associated with victory and glory.
-- **Nerthus**: Earth goddess of fertility and peace, worshipped by several Germanic tribes.
-- **Frige**: of love and fertility, possibly an alternative name for Frigg.
-- **Hreda**: of fame or glory, possibly another name for Hretha.
-- **Ricen**: Harvest goddess, associated with abundance and fertility.
-- **Beda**: Possibly a goddess of battle or victory, though information is limited.
-- **Erce**: Earth goddess or personification of Mother Earth, invoked in agricultural rituals.
-- **Wyrd**: Goddess or personification of fate, similar to the Norse Norns.
+- **Eostre**: of spring, fertility, and dawn, associated with the Easter festival (Venus)
+- **Frigg**: of motherhood, marriage, and prophecy, wife of Odin (Moon)
+- **Hretha**: Obscure goddess associated with victory and glory (Mars)
+- **Nerthus**: Earth goddess of fertility and peace, worshipped by several Germanic tribes (Earth)
+- **Frige**: of love and fertility, possibly an alternative name for Frigg (Venus)
+- **Hreda**: of fame or glory, possibly another name for Hretha (Mars)
+- **Ricen**: Harvest goddess, associated with abundance and fertility (Venus)
+- **Beda**: Possibly a goddess of battle or victory, though information is limited (Mars)
+- **Erce**: Earth goddess or personification of Mother Earth, invoked in agricultural rituals (Earth)
+- **Wyrd**: Goddess or personification of fate, similar to the Norse Norns (Saturn)
 
 ### Basque
-- **Mari**: Supreme goddess of nature, weather, and the earth, often associated with mountains.
-- **Eguzki Amandrea**: Sun goddess, mother of light and warmth.
-- **Ilargi Amandrea**: Moon goddess, associated with night and feminine cycles.
-- **Amalur**: Mother Earth goddess, personification of nature and fertility.
-- **Andere**: of abundance and prosperity, often depicted as a beautiful woman.
-- **Anbotoko Mari**: A manifestation of Mari, associated specifically with Mount Anboto.
-- **Mairi**: of witchcraft and magic, sometimes considered an aspect of Mari.
-- **Atxular**: Cave goddess, protector of underground realms and hidden treasures.
-- **Gaueko**: Nocturnal goddess, associated with the dangers and mysteries of the night.
-- **Lurbira**: Earth goddess, responsible for the fertility of the soil and crops.
+- **Mari**: Supreme goddess of nature, weather, and the earth, often associated with mountains (Earth)
+- **Eguzki Amandrea**: Sun goddess, mother of light and warmth (Sun)
+- **Ilargi Amandrea**: Moon goddess, associated with night and feminine cycles (Moon)
+- **Amalur**: Mother Earth goddess, personification of nature and fertility (Earth)
+- **Andere**: of abundance and prosperity, often depicted as a beautiful woman (Venus)
+- **Anbotoko Mari**: A manifestation of Mari, associated specifically with Mount Anboto (Earth)
+- **Mairi**: of witchcraft and magic, sometimes considered an aspect of Mari (Pluto)
+- **Atxular**: Cave goddess, protector of underground realms and hidden treasures (Pluto)
+- **Gaueko**: Nocturnal goddess, associated with the dangers and mysteries of the night (Moon)
+- **Lurbira**: Earth goddess, responsible for the fertility of the soil and crops (Earth)
 
 ## Northern Europe
 ### Norse
-- **Frigg**: Queen of the gods, goddess of love, marriage, and destiny
-- **Freyja**: of love, beauty, fertility, war, and death
-- **Sif**: of earth, fertility, and family
-- **Hel**: of the underworld
-- **Skadi**: of winter, hunting, and skiing
-- **Idun**: of youth and rejuvenation, keeper of the golden apples
-- **Sigyn**: of fidelity and loyalty
-- **Nanna**: of joy and peace
-- **Eir**: of healing and medicine
-- **Sjöfn**: of love, passion, and affection
-- **Lofn**: who brings lovers together
-- **Var**: of oaths and agreements
-- **Vor**: of wisdom and careful investigation
-- **Syn**: who guards the doors of halls and denies entry to those not entitled
-- **Snotra**: of prudence and self-control
-- **Gna**: Messenger goddess who runs errands for Frigg
-- **Fulla**: Frigg's attendant and confidante
-- **Gefjon**: associated with plowing, foreknowledge, and virginity
-- **Ran**: of the sea and storms, wife of Aegir
-- **Saga**: of poetry and history
+- **Frigg**: Queen of the gods, goddess of love, marriage, and destiny (Jupiter)
+- **Freyja**: of love, beauty, fertility, war, and death (Venus)
+- **Sif**: of earth, fertility, and family (Earth)
+- **Hel**: of the underworld (Pluto)
+- **Skadi**: of winter, hunting, and skiing (Saturn)
+- **Idun**: of youth and rejuvenation, keeper of the golden apples (Mercury)
+- **Sigyn**: of fidelity and loyalty (Moon)
+- **Nanna**: of joy and peace (Venus)
+- **Eir**: of healing and medicine (Mercury)
+- **Sjöfn**: of love, passion, and affection (Venus)
+- **Lofn**: who brings lovers together (Venus)
+- **Var**: of oaths and agreements (Saturn)
+- **Vor**: of wisdom and careful investigation (Mercury)
+- **Syn**: who guards the doors of halls and denies entry to those not entitled (Saturn)
+- **Snotra**: of prudence and self-control (Saturn)
+- **Gna**: Messenger goddess who runs errands for Frigg (Mercury)
+- **Fulla**: Frigg's attendant and confidante (Moon)
+- **Gefjon**: associated with plowing, foreknowledge, and virginity (Earth)
+- **Ran**: of the sea and storms, wife of Aegir (Neptune)
+- **Saga**: of poetry and history (Mercury)
 
 ### Finnish
-- **Ilmatar**: Primordial goddess of air and creation, mother of Väinämöinen.
-- **Louhi**: Powerful witch-goddess and ruler of Pohjola, associated with magic and the north.
-- **Mielikki**: of forests and hunting, wife of Tapio.
-- **Tellervo**: Forest goddess, daughter of Tapio and Mielikki.
-- **Rauni**: of thunder, possibly Thor's wife in Finnish adaptation of Norse myths.
-- **Akka**: Earth mother goddess, wife of Ukko the sky god.
-- **Kuutar**: of the moon, daughter of the sky god Ukko.
-- **Päivätär**: of the sun, also a daughter of Ukko.
-- **Kave**: Ancient goddess of sky, possibly an earlier version of Ilmatar.
-- **Vellamo**: of water, lakes, and seas, wife of Ahti.
-- **Kiputyttö**: of sickness and disease, daughter of Tuoni (god of death).
-- **Loviatar**: of death and disease, daughter of Tuoni and Tuonetar.
-- **Tuonetar**: of the underworld, wife of Tuoni.
-- **Suonetar**: of veins and arteries, invoked in healing rituals.
-- **Synty**: of birth and origins, invoked in creation myths.
+- **Ilmatar**: Primordial goddess of air and creation, mother of Väinämöinen (Uranus)
+- **Louhi**: Powerful witch-goddess and ruler of Pohjola, associated with magic and the north (Pluto)
+- **Mielikki**: of forests and hunting, wife of Tapio (Venus)
+- **Tellervo**: Forest goddess, daughter of Tapio and Mielikki (Mercury)
+- **Rauni**: of thunder, possibly Thor's wife in Finnish adaptation of Norse myths (Jupiter)
+- **Akka**: Earth mother goddess, wife of Ukko the sky god (Earth)
+- **Kuutar**: of the moon, daughter of the sky god Ukko (Moon)
+- **Päivätär**: of the sun, also a daughter of Ukko (Sun)
+- **Kave**: Ancient goddess of sky, possibly an earlier version of Ilmatar (Uranus)
+- **Vellamo**: of water, lakes, and seas, wife of Ahti (Neptune)
+- **Kiputyttö**: of sickness and disease, daughter of Tuoni (god of death) (Saturn)
+- **Loviatar**: of death and disease, daughter of Tuoni and Tuonetar (Pluto)
+- **Tuonetar**: of the underworld, wife of Tuoni (Pluto)
+- **Suonetar**: of veins and arteries, invoked in healing rituals (Mercury)
+- **Synty**: of birth and origins, invoked in creation myths (Saturn)
 
 ### Sami
-- **Maderakka**: Supreme mother goddess, protector of women and children.
-- **Sarakka**: Daughter of Maderakka, goddess of fertility and childbirth.
-- **Uksakka**: Daughter of Maderakka, goddess of doorways and transitions.
-- **Juksakka**: Daughter of Maderakka, goddess of boys and male children.
-- **Jabme-Akka**: of death and the underworld.
-- **Ravdna**: of fertility and springtime, associated with the return of migratory birds.
-- **Bieggolmai**: of wind and weather, often depicted as a woman with a shovel.
-- **Mattarahkko**: Mother Earth goddess, associated with fertility and the land.
-- **Akka**: Sun goddess, bringer of warmth and light.
-- **Barbmo-akka**: of breast-feeding and protection of infants.
+- **Maderakka**: Supreme mother goddess, protector of women and children (Moon)
+- **Sarakka**: Daughter of Maderakka, goddess of fertility and childbirth (Venus)
+- **Uksakka**: Daughter of Maderakka, goddess of doorways and transitions (Mercury)
+- **Juksakka**: Daughter of Maderakka, goddess of boys and male children (Mars)
+- **Jabme-Akka**: of death and the underworld (Pluto)
+- **Ravdna**: of fertility and springtime, associated with the return of migratory birds (Venus)
+- **Bieggolmai**: of wind and weather, often depicted as a woman with a shovel (Uranus)
+- **Mattarahkko**: Mother Earth goddess, associated with fertility and the land (Earth)
+- **Akka**: Sun goddess, bringer of warmth and light (Sun)
+- **Barbmo-akka**: of breast-feeding and protection of infants (Moon)
 
 ### Estonian
-- **Maaema**: Earth Mother goddess, personification of the earth and fertility.
-- **Muhu Neitsi**: Virgin goddess associated with the island of Muhu and fertility.
-- **Mereema**: Sea Mother goddess, protector of fishermen and sailors.
-- **Veteema**: Water Mother goddess, associated with lakes, rivers, and springs.
-- **Metsaema**: Forest Mother goddess, protector of forests and wild animals.
-- **Ilmatar**: Air goddess, associated with creation and the sky.
-- **Lindu**: Bird goddess, protector of birds and possibly associated with singing.
-- **Uku**: Moon goddess, associated with fertility and the lunar cycle.
-- **Äiatar**: Evil forest spirit or goddess, often depicted as a hideous old woman.
-- **Murueide**: Grass Mother goddess, associated with meadows and pastures.
-- **Külmking**: Frost goddess, associated with winter and cold weather.
-- **Pikne**: Thunder goddess, sometimes depicted as female in Estonian mythology.
-- **Salme**: Star goddess, associated with celestial bodies and navigation.
+- **Maaema**: Earth Mother goddess, personification of the earth and fertility (Earth)
+- **Muhu Neitsi**: Virgin goddess associated with the island of Muhu and fertility (Venus)
+- **Mereema**: Sea Mother goddess, protector of fishermen and sailors (Neptune)
+- **Veteema**: Water Mother goddess, associated with lakes, rivers, and springs (Neptune)
+- **Metsaema**: Forest Mother goddess, protector of forests and wild animals (Earth)
+- **Ilmatar**: Air goddess, associated with creation and the sky (Uranus)
+- **Lindu**: Bird goddess, protector of birds and possibly associated with singing (Mercury)
+- **Uku**: Moon goddess, associated with fertility and the lunar cycle (Moon)
+- **Äiatar**: Evil forest spirit or goddess, often depicted as a hideous old woman (Saturn)
+- **Murueide**: Grass Mother goddess, associated with meadows and pastures (Venus)
+- **Külmking**: Frost goddess, associated with winter and cold weather (Saturn)
+- **Pikne**: Thunder goddess, sometimes depicted as female in Estonian mythology (Jupiter)
+- **Salme**: Star goddess, associated with celestial bodies and navigation (Mercury)
 
 ### Latvian
-- **Laima**: of fate, fortune, and childbirth, one of the most important deities in Latvian mythology.
-- **Māra**: Earth goddess associated with fertility, nature, and the cycle of life and death.
-- **Dēkla**: of destiny and infants, often working alongside Laima.
-- **Kārta**: of fate and destiny, completing the triad with Laima and Dēkla.
-- **Saule**: Sun goddess representing light, warmth, fertility, and life.
-- **Jāņu Māte**: of the summer solstice celebration, associated with fertility and nature.
-- **Mēness**: Moon goddess (sometimes depicted as male) associated with time and celestial rhythms.
-- **Auseklis**: of the morning star, associated with dawn and new beginnings.
-- **Zemes Māte**: Mother Earth goddess, personification of the earth and its fertility.
-- **Meža Māte**: Forest Mother goddess, protector of forests and wild animals.
-- **Ūdens Māte**: Water Mother goddess, guardian of lakes, rivers, and seas.
-- **Vēja Māte**: Wind Mother goddess, ruler of winds and air.
-- **Veļu Māte**: of the dead and the underworld, guiding souls to the afterlife.
+- **Laima**: of fate, fortune, and childbirth, one of the most important deities in Latvian mythology (Jupiter)
+- **Māra**: Earth goddess associated with fertility, nature, and the cycle of life and death (Earth)
+- **Dēkla**: of destiny and infants, often working alongside Laima (Moon)
+- **Kārta**: of fate and destiny, completing the triad with Laima and Dēkla (Saturn)
+- **Saule**: Sun goddess representing light, warmth, fertility, and life (Sun)
+- **Jāņu Māte**: of the summer solstice celebration, associated with fertility and nature (Sun)
+- **Mēness**: Moon goddess (sometimes depicted as male) associated with time and celestial rhythms (Moon)
+- **Auseklis**: of the morning star, associated with dawn and new beginnings (Venus)
+- **Zemes Māte**: Mother Earth goddess, personification of the earth and its fertility (Earth)
+- **Meža Māte**: Forest Mother goddess, protector of forests and wild animals (Earth)
+- **Ūdens Māte**: Water Mother goddess, guardian of lakes, rivers, and seas (Neptune)
+- **Vēja Māte**: Wind Mother goddess, ruler of winds and air (Uranus)
+- **Veļu Māte**: of the dead and the underworld, guiding souls to the afterlife (Pluto)
 
 ### Lithuanian
-- **Žemyna**: Earth goddess of fertility, crops, and nature, considered the mother of all life.
-- **Laima**: of fate, fortune, and childbirth, often depicted as a trio of sisters.
-- **Gabija**: of fire and the hearth, protector of home and family.
-- **Medeina**: of forests, trees, and animals, patron of hunters.
-- **Austėja**: of bees and beekeeping, associated with hard work and community.
-- **Saulė**: Sun goddess, bringer of light, warmth, and life.
-- **Aušrinė**: of the morning star (Venus), associated with beauty and love.
-- **Milda**: of love and freedom, though her authenticity is debated by scholars.
-- **Ragana**: Goddess or female spirit associated with witchcraft and magic.
-- **Giltinė**: of death and the underworld, often depicted as a skeletal woman.
-- **Jūratė**: of the Baltic Sea, associated with amber and tragic love.
-- **Vėlina**: of the souls of the dead, guiding them to the afterlife.
-- **Krūminė**: of wild nature, forests, and bushes.
-- **Žvorūna**: of hunting and animals, sometimes identified with Medeina.
-- **Laumė**: Fairy-like goddess or nature spirit associated with weaving and childbirth.
+- **Žemyna**: Earth goddess of fertility, crops, and nature, considered the mother of all life. (Earth)
+- **Laima**: of fate, fortune, and childbirth, often depicted as a trio of sisters. (Jupiter)
+- **Gabija**: of fire and the hearth, protector of home and family. (Mars)
+- **Medeina**: of forests, trees, and animals, patron of hunters. (Earth)
+- **Austėja**: of bees and beekeeping, associated with hard work and community. (Mercury)
+- **Saulė**: Sun goddess, bringer of light, warmth, and life. (Sun)
+- **Aušrinė**: of the morning star (Venus the morning star), associated with beauty and love. (Venus)
+- **Milda**: of love and freedom, though her authenticity is debated by scholars. (Venus)
+- **Ragana**: Goddess or female spirit associated with witchcraft and magic. (Uranus)
+- **Giltinė**: of death and the underworld, often depicted as a skeletal woman. (Pluto)
+- **Jūratė**: of the Baltic Sea, associated with amber and tragic love. (Neptune)
+- **Vėlina**: of the souls of the dead, guiding them to the afterlife. (Pluto)
+- **Krūminė**: of wild nature, forests, and bushes. (Earth)
+- **Žvorūna**: of hunting and animals, sometimes identified with Medeina. (Mars)
+- **Laumė**: Fairy-like goddess or nature spirit associated with weaving and childbirth (Moon)
 
 ## Eastern Europe
 ### Russian
-- **Mokosh**: of fertility, women's work, and destiny, often associated with spinning and weaving.
-- **Lada**: of love, beauty, and marriage, sometimes considered the Slavic equivalent of Venus.
-- **Marzanna**: of winter, death, and rebirth, associated with seasonal rituals.
-- **Zorya**: Three guardian goddesses representing the morning, evening, and midnight stars.
-- **Baba Yaga**: Ambiguous forest witch-goddess, both helper and hinderer of heroes.
-- **Dodola**: of rain and fertility, invoked in drought rituals.
-- **Kostroma**: of fertility and spring, associated with grain and vegetation.
-- **Kupala**: of summer solstice, fire, water, and herbs.
-- **Rozhanitsy**: Goddesses of fate and childbirth, often depicted as a pair.
-- **Simargl**: Winged goddess (or god) associated with fire and fertility.
-- **Ziva**: of life and fertility, worshipped primarily by Western Slavs.
-- **Devana**: of the hunt and forests, sometimes equated with Diana.
-- **Zhiva**: of life and fertility, possibly another name for Ziva.
-- **Vesna**: of spring and youth, associated with new beginnings.
+- **Mokosh**: of fertility, women's work, and destiny, often associated with spinning and weaving. (Venus)
+- **Lada**: of love, beauty, and marriage, sometimes considered the Slavic equivalent of Venus. (Venus)
+- **Marzanna**: of winter, death, and rebirth, associated with seasonal rituals. (Saturn)
+- **Zorya**: Three guardian goddesses associated with the morning, evening, and midnight stars (Venus)
+- **Baba Yaga**: Ambiguous forest witch-goddess, both helper and hinderer of heroes. (Pluto)
+- **Dodola**: of rain and fertility, invoked in drought rituals. (Jupiter)
+- **Kostroma**: of fertility and spring, associated with grain and vegetation. (Venus)
+- **Kupala**: of summer solstice, fire, water, and herbs. (Sun)
+- **Rozhanitsy**: Goddesses of fate and childbirth, often depicted as a pair. (Moon)
+- **Simargl**: Winged goddess (or god) associated with fire and fertility. (Mars)
+- **Ziva**: of life and fertility, worshipped primarily by Western Slavs. (Venus)
+- **Devana**: of the hunt and forests, sometimes equated with Diana. (Moon)
+- **Zhiva**: of life and fertility, possibly another name for Ziva. (Venus)
+- **Vesna**: of spring and youth, associated with new beginnings. (Mercury)
 
 ### Ukrainian
-- **Berehynia**: of hearth and home, protector of the family.
-- **Lada**: of love, beauty, and harmony.
-- **Mokosha**: of fertility, women's work, and destiny.
-- **Dana**: Mother goddess associated with rivers and water.
-- **Zhyva**: of life and fertility.
-- **Marena**: of winter and death, associated with seasonal cycles.
-- **Rozhanytsi**: Goddesses of fate, similar to the Greek Fates.
-- **Vesna**: of spring and youth.
-- **Dazhboh's Granddaughter**: Sun goddess, bringer of warmth and light.
-- **Zorya**: of the morning star, guardian of warriors.
-- **Perunica**: of rain and thunder, wife of Perun.
-- **Lelia**: of spring and new life.
-- **Kupala**: of summer solstice, fertility, and purification.
+- **Berehynia**: of hearth and home, protector of the family. (Moon)
+- **Lada**: of love, beauty, and harmony. (Venus)
+- **Mokosha**: of fertility, women's work, and destiny. (Venus)
+- **Dana**: Mother goddess associated with rivers and water. (Neptune)
+- **Zhyva**: of life and fertility. (Venus)
+- **Marena**: of winter and death, associated with seasonal cycles. (Saturn)
+- **Rozhanytsi**: Goddesses of fate, similar to the Greek Fates. (Saturn)
+- **Vesna**: of spring and youth. (Mercury)
+- **Dazhboh's Granddaughter**: Sun goddess, bringer of warmth and light. (Sun)
+- **Zorya**: of the morning star, guardian of warriors. (Venus)
+- **Perunica**: of rain and thunder, wife of Perun. (Jupiter)
+- **Lelia**: of spring and new life. (Venus)
+- **Kupala**: of summer solstice, fertility, and purification (Sun)
 
 ### Polish
-- **Mokosh**: of fertility, earth, and women's work, associated with spinning and weaving.
-- **Dziewanna**: of wild nature, forests, and the hunt.
-- **Marzanna**: of winter, death, and rebirth, associated with seasonal rituals.
-- **Żywia**: of life and fertility, associated with the spring season.
-- **Jaga**: Forest goddess or witch, often depicted as a wise woman or healer.
-- **Łada**: of love, beauty, and marriage, though her existence is debated by some scholars.
-- **Zaria**: of beauty and the morning star, associated with the dawn.
-- **Dzidzelija**: of love and fertility, particularly revered in Kashubia.
-- **Leluja**: of spring and new life, associated with flowering plants.
-- **Dola**: of fate or destiny, similar to the Slavic Rozanica.
+- **Mokosh**: of fertility, earth, and women's work, associated with spinning and weaving. (Venus)
+- **Dziewanna**: of wild nature, forests, and the hunt. (Moon)
+- **Marzanna**: of winter, death, and rebirth, associated with seasonal rituals. (Saturn)
+- **Żywia**: of life and fertility, associated with the spring season. (Venus)
+- **Jaga**: Forest goddess or witch, often depicted as a wise woman or healer. (Mercury)
+- **Łada**: of love, beauty, and marriage, though her existence is debated by some scholars. (Venus)
+- **Zaria**: of beauty and the morning star (likely Venus), associated with the dawn. (Venus)
+- **Dzidzelija**: of love and fertility, particularly revered in Kashubia. (Venus)
+- **Leluja**: of spring and new life, associated with flowering plants. (Venus)
+- **Dola**: of fate or destiny, similar to the Slavic Rozanica. (Saturn)
 
 ### Czech
-- **Morana**: of winter, death, and rebirth, associated with seasonal cycles.
-- **Vesna**: of spring, youth, and vitality, counterpart to Morana.
-- **Živa**: of life, fertility, and love, associated with harvest and abundance.
-- **Devana**: of the hunt, forests, and wild nature, similar to Roman Diana.
-- **Lada**: of beauty, love, and harmony, often invoked in marriage ceremonies.
-- **Perun's Daughters**: Three goddesses associated with lightning, though individual names are unclear.
-- **Sudičky**: Fate goddesses similar to Greek Moirai, determining the destiny of newborns.
-- **Polednice**: Noon demon or goddess, associated with heatstroke and protection of field workers.
-- **Rusalky**: Water nymphs or goddesses associated with rivers and lakes, sometimes dangerous to humans.
-- **Meluzína**: Wind goddess or spirit, often depicted as a woman with a fish or serpent tail.
+- **Morana**: of winter, death, and rebirth, associated with seasonal cycles. (Saturn)
+- **Vesna**: of spring, youth, and vitality, counterpart to Morana. (Venus)
+- **Živa**: of life, fertility, and love, associated with harvest and abundance. (Venus)
+- **Devana**: of the hunt, forests, and wild nature, similar to Roman Diana. (Moon)
+- **Lada**: of beauty, love, and harmony, often invoked in marriage ceremonies. (Venus)
+- **Perun's Daughters**: Three goddesses associated with lightning, though individual names are unclear. (Jupiter)
+- **Sudičky**: Fate goddesses similar to Greek Moirai, determining the destiny of newborns. (Saturn)
+- **Polednice**: Noon demon or goddess, associated with heatstroke and protection of field workers. (Sun)
+- **Rusalky**: Water nymphs or goddesses associated with rivers and lakes, sometimes dangerous to humans. (Neptune)
+- **Meluzína**: Wind goddess or spirit, often depicted as a woman with a fish or serpent tail. (Uranus)
 
 ### Serbian
-- **Vesna**: of spring, youth, and vitality, associated with new growth and renewal.
-- **Morana**: of winter and death, representing the cycle of nature and rebirth.
-- **Dodola**: Rain goddess invoked during droughts, associated with fertility and agriculture.
-- **Živa**: of love, fertility, and water, often connected to the life force.
-- **Lada**: of beauty, love, and marriage, sometimes associated with spring and fertility.
-- **Perunika**: of lightning and storms, often considered the wife of Perun.
-- **Vida**: of wisdom, prophecy, and healing, associated with water sources.
-- **Zora**: of dawn and morning light, symbolizing new beginnings.
-- **Dajbaba**: Earth goddess associated with fertility and abundance.
-- **Baba Yaga**: Ambiguous forest spirit or witch, often portrayed as a wise woman or guardian.
+- **Vesna**: of spring, youth, and vitality, associated with new growth and renewal. (Venus)
+- **Morana**: of winter and death, representing the cycle of nature and rebirth. (Saturn)
+- **Dodola**: Rain goddess invoked during droughts, associated with fertility and agriculture. (Jupiter)
+- **Živa**: of love, fertility, and water, often connected to the life force. (Venus)
+- **Lada**: of beauty, love, and marriage, sometimes associated with spring and fertility. (Venus)
+- **Perunika**: of lightning and storms, often considered the wife of Perun. (Jupiter)
+- **Vida**: of wisdom, prophecy, and healing, associated with water sources. (Neptune)
+- **Zora**: of dawn and morning light, symbolizing new beginnings (Venus)
+- **Dajbaba**: Earth goddess associated with fertility and abundance. (Earth)
+- **Baba Yaga**: Ambiguous forest spirit or witch, often portrayed as a wise woman or guardian. (Saturn)
 
 ### Croatian
-- **Mokoš**: of fertility, women's affairs, and destiny, associated with spinning and weaving.
-- **Vesna**: of spring and youth, bringing vitality and new life.
-- **Lada**: of love, beauty, and marriage, often invoked in wedding ceremonies.
-- **Živa**: of life and fertility, associated with grain and harvests.
-- **Perunika**: of flowers and spring, particularly associated with the iris flower.
-- **Baba Roga**: Crone goddess or witch figure, often depicted as a wise woman or forest spirit.
-- **Morena**: of winter and death, ritually "drowned" to welcome spring.
-- **Dodola**: Rain goddess invoked in drought rituals, associated with fertility and agriculture.
-- **Zorya**: of dawn, guardian of the doomsday hound and protector against evil.
-- **Vela**: Sea goddess associated with storms and shipwrecks, sometimes depicted as a mermaid.
+- **Mokoš**: of fertility, women's affairs, and destiny, associated with spinning and weaving. (Venus)
+- **Vesna**: of spring and youth, bringing vitality and new life. (Venus)
+- **Lada**: of love, beauty, and marriage, often invoked in wedding ceremonies. (Venus)
+- **Živa**: of life and fertility, associated with grain and harvests. (Venus)
+- **Perunika**: of flowers and spring, particularly associated with the iris flower. (Venus)
+- **Baba Roga**: Crone goddess or witch figure, often depicted as a wise woman or forest spirit. (Saturn)
+- **Morena**: of winter and death, ritually "drowned" to welcome spring. (Saturn)
+- **Dodola**: Rain goddess invoked in drought rituals, associated with fertility and agriculture. (Jupiter)
+- **Zorya**: of dawn, guardian of the doomsday hound and protector against evil (Venus)
+- **Vela**: Sea goddess associated with storms and shipwrecks, sometimes depicted as a mermaid (Neptune)
 
 ### Hungarian
-- **Boldogasszony**: Great Goddess, patron of motherhood and childbirth, later syncretized with the Virgin Mary.
-- **Tündér Ilona**: Queen of the fairies, associated with love, beauty, and nature.
-- **Szépasszony**: "Fair Lady," a seductive but dangerous goddess linked to storms and whirlwinds.
-- **Nagyboldogasszony**: "Great Happy Lady," goddess of fertility and motherhood, possibly an aspect of Boldogasszony.
-- **Kisasszony**: "Little Lady," goddess of virginity and unmarried women.
-- **Hadúr**: Though typically male, sometimes depicted as a female warrior goddess of war and victory.
-- **Délibáb**: of mirages and optical illusions, associated with the Hungarian plains.
-- **Földanya**: Earth Mother goddess, personification of the fertile soil.
-- **Cifrasszony**: "Fancy Lady," a fairy-like goddess associated with forests and nature.
-- **Szélanya**: "Wind Mother," goddess of winds and air.
+- **Boldogasszony**: Great Goddess, patron of motherhood and childbirth, later syncretized with the Virgin Mary. (Moon)
+- **Tündér Ilona**: Queen of the fairies, associated with love, beauty, and nature. (Venus)
+- **Szépasszony**: "Fair Lady," a seductive but dangerous goddess linked to storms and whirlwinds. (Uranus)
+- **Nagyboldogasszony**: "Great Happy Lady," goddess of fertility and motherhood, possibly an aspect of Boldogasszony. (Moon)
+- **Kisasszony**: "Little Lady," goddess of virginity and unmarried women. (Venus)
+- **Hadúr**: Though typically male, sometimes depicted as a female warrior goddess of war and victory. (Mars)
+- **Délibáb**: of mirages and optical illusions, associated with the Hungarian plains. (Neptune)
+- **Földanya**: Earth Mother goddess, personification of the fertile soil. (Earth)
+- **Cifrasszony**: "Fancy Lady," a fairy-like goddess associated with forests and nature. (Venus)
+- **Szélanya**: "Wind Mother," goddess of winds and air. (Mercury)
 
 ### Romanian
-- **Dochia**: of winter and spring, associated with the transition between seasons.
-- **Ielele**: Group of fairy-like air spirits with seductive and vengeful attributes.
-- **Mama Padurii**: Forest goddess and protector of wildlife, often depicted as a fearsome old woman.
-- **Muma Padurii**: Another name for Mama Padurii, the mother of the forest.
+- **Dochia**: of winter and spring, associated with the transition between seasons. (Saturn/Venus)
+- **Ielele**: Group of fairy-like air spirits with seductive and vengeful attributes. (Venus/Mars)
+- **Mama Padurii**: Forest goddess and protector of wildlife, often depicted as a fearsome old woman. (Saturn)
+- **Muma Padurii**: Another name for Mama Padurii, the mother of the forest. (Saturn)
 - **Zana**: Generic term for fairies or female nature spirits with various attributes.
-- **Cosanzeana**: Beautiful fairy princess, often featured in Romanian folktales.
-- **Sanziana**: Benevolent fairy associated with summer solstice celebrations.
-- **Martolea**: Nocturnal spirit that punishes women who work at night.
-- **Samca**: Demonic female entity that threatens pregnant women and newborns.
-- **Rusalii**: Water spirits of drowned maidens, associated with fertility and vegetation.
+- **Cosanzeana**: Beautiful fairy princess, often featured in Romanian folktales. (Venus)
+- **Sanziana**: Benevolent fairy associated with summer solstice celebrations. (Sun)
+- **Martolea**: Nocturnal spirit that punishes women who work at night. (Saturn)
+- **Samca**: Demonic female entity that threatens pregnant women and newborns. (Pluto)
+- **Rusalii**: Water spirits of drowned maidens, associated with fertility and vegetation (Neptune/Venus)
 
 ## Southern Europe
-
 ### Etruscan
-- **Uni**: Supreme goddess, equivalent to Roman Juno, associated with motherhood and fertility.
-- **Turan**: of love and vitality, equivalent to Roman Venus.
-- **Menrva**: of wisdom, war, art, and health, equivalent to Roman Minerva.
-- **Thesan**: of dawn, equivalent to Roman Aurora.
-- **Cel**: Earth goddess, associated with the underworld and prophecy.
-- **Alpan**: of love and the underworld, often depicted as a winged figure.
-- **Culsu**: Underworld goddess who guards the gateway between the living and the dead.
-- **Nortia**: of fate and fortune, associated with the ritual of nail-driving.
-- **Vegoia**: Prophetic nymph or goddess associated with sacred writings and boundaries.
-- **Voltumna**: of nature, seasons, and agriculture.
-- **Artume**: of night and death, equivalent to Greek Artemis.
-- **Acca**: Fertility goddess associated with nurturing and childbirth.
-- **Feronia**: of wildlife, fertility, and abundance.
-- **Horta**: of agriculture and gardens.
-- **Selvans**: of woodlands and boundaries.
+- **Uni**: Supreme goddess, equivalent to Roman Juno, associated with motherhood and fertility. (Moon)
+- **Turan**: of love and vitality, equivalent to Roman Venus. (Venus)
+- **Menrva**: of wisdom, war, art, and health, equivalent to Roman Minerva. (Mercury)
+- **Thesan**: of dawn, equivalent to Roman Aurora (possibly Venus as the morning star). (Venus)
+- **Cel**: Earth goddess, associated with the underworld and prophecy. (Earth)
+- **Alpan**: of love and the underworld, often depicted as a winged figure. (Venus)
+- **Culsu**: Underworld goddess who guards the gateway between the living and the dead. (Pluto)
+- **Nortia**: of fate and fortune, associated with the ritual of nail-driving. (Jupiter)
+- **Vegoia**: Prophetic nymph or goddess associated with sacred writings and boundaries. (Mercury)
+- **Voltumna**: of nature, seasons, and agriculture. (Saturn)
+- **Artume**: of night and death, equivalent to Greek Artemis. (Moon)
+- **Acca**: Fertility goddess associated with nurturing and childbirth. (Venus)
+- **Feronia**: of wildlife, fertility, and abundance. (Venus)
+- **Horta**: of agriculture and gardens. (Venus)
+- **Selvans**: of woodlands and boundaries (Mercury)
 
 ## North Africa
 ### Berber
-- **Tanit**: of fertility, love, and war. Often associated with the moon and worshipped in North Africa.
+- **Tanit**: of fertility, love, and war. Often associated with the moon and worshipped in North Africa. (Moon)
 - **Tinjis**: Mythical queen and goddess associated with the founding of Tangier, Morocco.
-- **Tiddukla**: of love and fertility, particularly revered in the Aurès Mountains of Algeria.
-- **Talallit**: of springs and water sources, believed to protect and purify water.
-- **Tislit**: Bride goddess associated with rain and fertility, prominent in Moroccan folklore.
-- **Taburt**: Guardian goddess of doors and entrances, protector of homes.
-- **Tamza**: Ogress goddess, often portrayed as a powerful and fearsome female figure in Berber folktales.
-- **Thabrast**: of domestic life and household duties, protector of the home.
-- **Tanezruft**: Desert goddess, associated with mirages and the harsh beauty of the Sahara.
-- **Tatet**: Fire goddess, keeper of the hearth and protector of the family.
-- **Tafukt**: Sun goddess, bringer of light and warmth, central to many Berber creation myths.
-- **Tagurramt**: Harvest goddess, associated with agricultural abundance and seasonal cycles.
-- **Tazumart**: of healing and medicinal plants, often invoked for protection against illness.
-- **Tamesna**: Earth goddess, embodiment of the fertile land and natural abundance.
-- **Tiziri**: Moonlight goddess, associated with nocturnal beauty and inspiration.
+- **Tiddukla**: of love and fertility, particularly revered in the Aurès Mountains of Algeria. (Venus)
+- **Talallit**: of springs and water sources, believed to protect and purify water. (Neptune)
+- **Tislit**: Bride goddess associated with rain and fertility, prominent in Moroccan folklore. (Venus)
+- **Taburt**: Guardian goddess of doors and entrances, protector of homes. (Saturn)
+- **Tamza**: Ogress goddess, often portrayed as a powerful and fearsome female figure in Berber folktales. (Pluto)
+- **Thabrast**: of domestic life and household duties, protector of the home. (Moon)
+- **Tanezruft**: Desert goddess, associated with mirages and the harsh beauty of the Sahara. (Mars)
+- **Tatet**: Fire goddess, keeper of the hearth and protector of the family. (Mars)
+- **Tafukt**: Sun goddess, bringer of light and warmth, central to many Berber creation myths. (Sun)
+- **Tagurramt**: Harvest goddess, associated with agricultural abundance and seasonal cycles. (Venus)
+- **Tazumart**: of healing and medicinal plants, often invoked for protection against illness. (Mercury)
+- **Tamesna**: Earth goddess, embodiment of the fertile land and natural abundance. (Earth)
+- **Tiziri**: Moonlight goddess, associated with nocturnal beauty and inspiration. (Moon)
 
 ### Egyptian 
-- **Isis**: of magic, motherhood, and healing
-- **Hathor**: of love, beauty, music, and fertility
-- **Bastet**: of cats, protection, and childbirth
-- **Sekhmet**: of war, destruction, and healing
-- **Neith**: of war, hunting, and weaving
-- **Nut**: of the sky, stars, and cosmos
-- **Nephthys**: of mourning, death, and protection
-- **Maat**: of truth, justice, and cosmic order
-- **Tefnut**: of moisture, dew, and rain
-- **Satet**: of the Nile River's floods and fertility
-- **Seshat**: of writing, astronomy, and mathematics
-- **Taweret**: of childbirth and fertility
-- **Renenutet**: of nourishment, the harvest, and fertility
-- **Wadjet**: of protection, childbirth, and the Nile Delta
-- **Meretseger**: of the Valley of the Kings and protector of royal tombs
-- **Qebhet**: of purification and freshwater
-- **Serket**: of scorpions, medicine, and magic
-- **Ammit**: who devoured the souls of the unworthy dead
-- **Heqet**: of fertility and childbirth, associated with frogs
-- **Mut**: Mother goddess, consort of Amun, associated with queenship
+- **Isis**: of magic, motherhood, and healing (Moon)
+- **Hathor**: of love, beauty, music, and fertility (Venus)
+- **Bastet**: of cats, protection, and childbirth (Moon)
+- **Sekhmet**: of war, destruction, and healing (Mars)
+- **Neith**: of war, hunting, and weaving (Mars)
+- **Nut**: of the sky, stars, and cosmos (Uranus)
+- **Nephthys**: of mourning, death, and protection (Pluto)
+- **Maat**: of truth, justice, and cosmic order (Saturn)
+- **Tefnut**: of moisture, dew, and rain (Neptune)
+- **Satet**: of the Nile River's floods and fertility (Jupiter)
+- **Seshat**: of writing, astronomy, and mathematics (Mercury)
+- **Taweret**: of childbirth and fertility (Venus)
+- **Renenutet**: of nourishment, the harvest, and fertility (Venus)
+- **Wadjet**: of protection, childbirth, and the Nile Delta (Mars)
+- **Meretseger**: of the Valley of the Kings and protector of royal tombs (Saturn)
+- **Qebhet**: of purification and freshwater (Neptune)
+- **Serket**: of scorpions, medicine, and magic (Pluto)
+- **Ammit**: who devoured the souls of the unworthy dead (Pluto)
+- **Heqet**: of fertility and childbirth, associated with frogs (Moon)
+- **Mut**: Mother goddess, consort of Amun, associated with queenship (Jupiter)
 
 ## West Africa 
 ### Yoruba (Orisha)
-- **Yemoja**: of the ocean, motherhood, and fertility
-- **Oshun**: of love, intimacy, beauty, and fertility
-- **Oya**: of winds, storms, and change
-- **Obba**: of domesticity, family, and marriage
-- **Aje**: of wealth, abundance, and marketplace
-- **Olokun**: of the deep ocean, wisdom, and divination
-- **Ayao**: of the air, trade winds, and communication
-- **Oba**: of marriage, fidelity, and domesticity
-- **Yewa**: of the Yewa River, fertility, and children
-- **Osun**: of divination, prophecy, and intuition
-- **Nana Buluku**: Primordial mother goddess, associated with creation and fertility
-- **Dada**: of vegetation, newborn babies, and youth
-- **Moremi**: Legendary heroine and goddess, associated with bravery and sacrifice
-- **Ibeji**: Twin goddesses, protectors of twins and children
-- **Oshumare**: of the rainbow, divination, and prosperity
-- **Iyami Aje**: Collective of powerful female spirits, associated with motherhood and spiritual authority
+- **Yemoja**: of the ocean, motherhood, and fertility (Moon)
+- **Oshun**: of love, intimacy, beauty, and fertility (Venus)
+- **Oya**: of winds, storms, and change (Uranus)
+- **Obba**: of domesticity, family, and marriage (Saturn)
+- **Aje**: of wealth, abundance, and marketplace (Jupiter)
+- **Olokun**: of the deep ocean, wisdom, and divination (Neptune)
+- **Ayao**: of the air, trade winds, and communication (Mercury)
+- **Oba**: of marriage, fidelity, and domesticity (Venus)
+- **Yewa**: of the Yewa River, fertility, and children (Moon)
+- **Osun**: of divination, prophecy, and intuition (Mercury)
+- **Nana Buluku**: Primordial mother goddess, associated with creation and fertility (Earth)
+- **Dada**: of vegetation, newborn babies, and youth (Sun)
+- **Moremi**: Legendary heroine and goddess, associated with bravery and sacrifice (Mars)
+- **Ibeji**: Twin goddesses, protectors of twins and children (Mercury)
+- **Oshumare**: of the rainbow, divination, and prosperity (Jupiter)
+- **Iyami Aje**: Collective of powerful female spirits, associated with motherhood and spiritual authority (Pluto)
 
 ### Igbo
-- **Ala (aka. Ani)**: Earth goddess, fertility deity, and moral guardian
-- **Anyanwu**: Sun goddess associated with morality, time, and productivity
-- **Idemili**: of water bodies and fertility
-- **Ogwugwu**: of health and divination
-- **Udo Eze**: of boundaries and justice
-- **Ahia Njoku**: Yam goddess and protector of crops
-- **Nne Mmiri**: Water goddess and protector of fishermen
-- **Agwu**: of health and divination (sometimes considered male)
-- **Eke**: of creation and destiny (sometimes considered male)
-- **Imo Mmiri**: River goddess associated with fertility and abundance
+- **Ala (aka. Ani)**: Earth goddess, fertility deity, and moral guardian (Earth)
+- **Anyanwu**: Sun goddess associated with morality, time, and productivity (Sun)
+- **Idemili**: of water bodies and fertility (Neptune)
+- **Ogwugwu**: of health and divination (Mercury)
+- **Udo Eze**: of boundaries and justice (Saturn)
+- **Ahia Njoku**: Yam goddess and protector of crops (Venus)
+- **Nne Mmiri**: Water goddess and protector of fishermen (Neptune)
+- **Agwu**: of health and divination (sometimes considered male) (Mercury)
+- **Eke**: of creation and destiny (sometimes considered male) (Jupiter)
+- **Imo Mmiri**: River goddess associated with fertility and abundance (Venus)
 
 ### Akan
-- **Asase Yaa**: Earth goddess, associated with fertility and the day Thursday
-- **Aberewa**: Old woman goddess, associated with wisdom and the moon
-- **Akua'ba**: Fertility goddess, represented by wooden dolls used in rituals
-- **Mame Water**: Water goddess, associated with beauty, wealth, and seduction
-- **Nyame Bea**: Daughter of the supreme god Nyame, associated with the moon and fertility
-- **Abenaa**: of morality and social order
-- **Asuo Gyebi**: River goddess, protector of the Tano River
-- **Tano**: River goddess, associated with healing and protection
-- **Esi**: of the marketplace and commerce
-- **Akonnedi**: of justice and revenge
+- **Asase Yaa**: Earth goddess, associated with fertility and the day Thursday (Jupiter)
+- **Aberewa**: Old woman goddess, associated with wisdom and the moon (Moon)
+- **Akua'ba**: Fertility goddess, represented by wooden dolls used in rituals (Venus)
+- **Mame Water**: Water goddess, associated with beauty, wealth, and seduction (Venus, Neptune)
+- **Nyame Bea**: Daughter of the supreme god Nyame, associated with the moon and fertility (Moon)
+- **Abenaa**: of morality and social order (Saturn)
+- **Asuo Gyebi**: River goddess, protector of the Tano River (Neptune)
+- **Tano**: River goddess, associated with healing and protection (Neptune)
+- **Esi**: of the marketplace and commerce (Mercury)
+- **Akonnedi**: of justice and revenge (Mars)
 
 ### Efik
-- **Abasi Isong**: Earth goddess, wife of Abasi Enyong, associated with fertility and abundance.
-- **Anansa**: Water goddess, protector of fishermen and sailors.
-- **Atai Ibom**: Daughter of Abasi, messenger between the divine and human realms.
-- **Eka Abasi**: Mother goddess, wife of Abasi Ibom, associated with creation and nurturing.
-- **Isong**: Earth goddess, responsible for agricultural fertility and harvests.
-- **Ndem**: Water spirit goddess, associated with rivers and streams.
-- **Uman Isong**: of the land, protector of the Efik people and their territory.
+- **Abasi Isong**: Earth goddess, wife of Abasi Enyong, associated with fertility and abundance. (Earth)
+- **Anansa**: Water goddess, protector of fishermen and sailors. (Neptune)
+- **Atai Ibom**: Daughter of Abasi, messenger between the divine and human realms. (Mercury)
+- **Eka Abasi**: Mother goddess, wife of Abasi Ibom, associated with creation and nurturing. (Moon)
+- **Isong**: Earth goddess, responsible for agricultural fertility and harvests. (Venus)
+- **Ndem**: Water spirit goddess, associated with rivers and streams. (Neptune)
+- **Uman Isong**: of the land, protector of the Efik people and their territory. (Saturn)
 
 ### Fon (Vodun)
-- **Mawu**: Supreme creator goddess, often paired with Lisa, associated with the moon, night, and wisdom
-- **Nana Buluku (Nana Buruku)**: Ancient primordial goddess, mother of Mawu-Lisa, associated with earth and wisdom
-- **Ezili (Erzulie)**: of love, beauty, and femininity, with various aspects including Freda and Dantor
-- **Ayizan**: of the marketplace and commerce, protector of traders and initiates
-- **Marinette**: Fierce goddess of violence, retribution, justice, and vengeance, associated with werewolves
-- **Mami Wata (Mama Wata)**: Water spirit goddess associated with healing, fertility, beauty, and wealth
-- **Oya**: of winds, storms, transformation, and guardian of the cemetery
-- **Yemoja**: Mother goddess of the ocean, protector of women and children
-- **Oshun**: of fresh water, love, beauty, and fertility
-- **Aziri (La Sirene)**: Mermaid goddess of the sea, fresh water, wealth, and music
-- **Gbadu**: of fate and destiny, daughter of Mawu-Lisa
+- **Mawu**: Supreme creator goddess, often paired with Lisa, associated with the moon, night, and wisdom (Moon)
+- **Nana Buluku (Nana Buruku)**: Ancient primordial goddess, mother of Mawu-Lisa, associated with earth and wisdom (Saturn)
+- **Ezili (Erzulie)**: of love, beauty, and femininity, with various aspects including Freda and Dantor (Venus)
+- **Ayizan**: of the marketplace and commerce, protector of traders and initiates (Mercury)
+- **Marinette**: Fierce goddess of violence, retribution, justice, and vengeance, associated with werewolves (Mars)
+- **Mami Wata (Mama Wata)**: Water spirit goddess associated with healing, fertility, beauty, and wealth (Neptune)
+- **Oya**: of winds, storms, transformation, and guardian of the cemetery (Uranus)
+- **Yemoja**: Mother goddess of the ocean, protector of women and children (Moon)
+- **Oshun**: of fresh water, love, beauty, and fertility (Venus)
+- **Aziri (La Sirene)**: Mermaid goddess of the sea, fresh water, wealth, and music (Neptune)
+- **Gbadu**: of fate and destiny, daughter of Mawu-Lisa (Pluto)
 
 ## Central Africa
 ### Bushongo
-- **Mbombe**: Sky goddess and wife of the creator god Bumba, associated with the heavens.
-- **Nchienge**: Water goddess, often depicted as a serpent or mermaid, associated with rivers and lakes.
-- **Mokulu**: Earth goddess, responsible for fertility and agriculture.
-- **Buanga**: of rain and storms, crucial for agricultural success.
-- **Mboze**: of hunting and wild animals, patron of hunters.
-- **Nkongolo**: Rainbow goddess, associated with peace and harmony.
+- **Mbombe**: Sky goddess and wife of the creator god Bumba, associated with the heavens. (Uranus)
+- **Nchienge**: Water goddess, often depicted as a serpent or mermaid, associated with rivers and lakes. (Neptune)
+- **Mokulu**: Earth goddess, responsible for fertility and agriculture. (Earth)
+- **Buanga**: of rain and storms, crucial for agricultural success. (Jupiter)
+- **Mboze**: of hunting and wild animals, patron of hunters. (Mars)
+- **Nkongolo**: Rainbow goddess, associated with peace and harmony. (Venus)
 
 ## East Africa
 ### Maasai
-- **Enkai (Engai)**: Supreme creator goddess, associated with the sky, rain, and fertility.
-- **Nampa**: of rivers and water sources, protector of livestock.
-- **Neiero**: of love and fertility, associated with childbirth and marriage.
-- **Olapa**: Moon goddess, linked to time-keeping and menstrual cycles.
-- **Sidan**: of herbalism and healing, patron of traditional medicine practitioners.
-- **Naiteru-kop**: of the earth and nature, associated with environmental protection.
-- **Naserian**: of peace and harmony, invoked during conflict resolution.
-- **Nalepo**: of wisdom and knowledge, patron of elders and storytellers.
-- **Namorutunga**: Star goddess, associated with navigation and celestial guidance.
-- **Esoit**: Mountain goddess, protector of sacred sites and spiritual retreats.
+- **Enkai (Engai)**: Supreme creator goddess, associated with the sky, rain, and fertility. (Jupiter)
+- **Nampa**: of rivers and water sources, protector of livestock. (Neptune)
+- **Neiero**: of love and fertility, associated with childbirth and marriage. (Venus)
+- **Olapa**: Moon goddess, linked to time-keeping and menstrual cycles. (Moon)
+- **Sidan**: of herbalism and healing, patron of traditional medicine practitioners. (Mercury)
+- **Naiteru-kop**: of the earth and nature, associated with environmental protection. (Earth)
+- **Naserian**: of peace and harmony, invoked during conflict resolution. (Venus)
+- **Nalepo**: of wisdom and knowledge, patron of elders and storytellers. (Mercury)
+- **Namorutunga**: Star goddess, associated with navigation and celestial guidance. (North Star/Polaris)
+- **Esoit**: Mountain goddess, protector of sacred sites and spiritual retreats. (Saturn)
 
 ### Dinka
-- **Abuk**: Primordial mother goddess, wife of Garang, associated with fertility and agriculture.
-- **Buk**: of the river and fertility, often associated with the Nile.
-- **Candit**: of the moon, associated with femininity and childbirth.
-- **Macardit**: of rainfall and abundance, important for agricultural prosperity.
-- **Nyankhour**: of love and beauty, patron of young women.
-- **Adhieng**: of domestic life and family harmony.
-- **Nyalitch**: of wisdom and knowledge, often invoked for guidance.
-- **Akuol**: of healing and medicine, protector against diseases.
-- **Alek**: of fate and destiny, believed to influence human lives.
-- **Nyakai**: River goddess associated with purification and cleansing rituals.
+- **Abuk**: Primordial mother goddess, wife of Garang, associated with fertility and agriculture. (Earth)
+- **Buk**: of the river and fertility, often associated with the Nile. (Neptune)
+- **Candit**: of the moon, associated with femininity and childbirth. (Moon)
+- **Macardit**: of rainfall and abundance, important for agricultural prosperity. (Jupiter)
+- **Nyankhour**: of love and beauty, patron of young women. (Venus)
+- **Adhieng**: of domestic life and family harmony. (Moon)
+- **Nyalitch**: of wisdom and knowledge, often invoked for guidance. (Mercury)
+- **Akuol**: of healing and medicine, protector against diseases. (Mercury)
+- **Alek**: of fate and destiny, believed to influence human lives. (Saturn)
+- **Nyakai**: River goddess associated with purification and cleansing rituals. (Neptune)
 
 ## South Africa
 ### Zulu
-- **Nomkhubulwane**: of agriculture, rain, fertility, and rainbows
-- **Mamlambo**: associated with wealth and good fortune
-- **Inkosazana yezulu**: Protector of medicinal plants and crops
-- **uNomkhubulwana**: of fertility and agriculture
-- **Mbaba Mwana Waresa**: of female brewers and farming; fertility and abundance
-- **iNyanga**: Moon goddess linked to menstrual cycles and women's health
+- **Nomkhubulwane**: of agriculture, rain, fertility, and rainbows (Venus)
+- **Mamlambo**: associated with wealth and good fortune (Jupiter)
+- **Inkosazana yezulu**: Protector of medicinal plants and crops (Mercury)
+- **uNomkhubulwana**: of fertility and agriculture (Venus)
+- **Mbaba Mwana Waresa**: of female brewers and farming; fertility and abundance (Venus)
+- **iNyanga**: Moon goddess linked to menstrual cycles and women's health (Moon)
 
 ## East Asia
 ### Chinese
-- **Nuwa (Nüwa)**: Creator goddess, associated with marriage, fertility, and repairing the pillars of heaven
-- **Guanyin (Cundī)**: of mercy, compassion, and kindness
-- **Xi Wangmu (Xiwangmu)**: Queen Mother of the West, goddess of immortality and enlightenment
-- **Chang'e**: of the moon
-- **Mazu (Tian Fei)**: of the sea, protector of sailors and fishermen
-- **Sun Shangxiang**: of archery and war
-- **Zhinu**: of weaving and the star Vega
-- **Jiutian Xuannü**: of war, sex, and longevity
-- **Bixia Yuanjun**: of childbirth, fertility, and destiny
-- **Sunü**: of fertility, pregnancy, and childbirth
-- **Zigu**: of toilets and latrines, associated with fertility and safe childbirth
-- **Doumu**: Mother of the Big Dipper, goddess of the seven stars and longevity
-- **Longmu**: Dragon Mother, goddess of dragons and the sea
-- **Qi Xi**: of marriage and love
-- **Sao Qing Niang**: of smallpox and disease
-- **Wusheng Laomu**: Eternal Venerable Mother, creator goddess and mother of all deities
-- **Yaoji**: of health and healing
-- **Yue-Lao**: Old Man Under the Moon, god of marriage and love
-- **Zhu Rong**: of fire and the hearth
-- **Xuan Nu**: Dark Lady, goddess of war and sexuality, teacher of the Yellow Emperor
-- **Cihang Zhenren**: Compassion Travel Perfected One, goddess of mercy and navigation
-- **Sheng Mu**: Holy Mother, goddess of fertility and childbirth
-- **Yunxiao Guniang**: Cloud-Dwelling Maiden, goddess of clouds and weather
+- **Nuwa (Nüwa)**: Creator goddess, associated with marriage, fertility, and repairing the pillars of heaven (Venus)
+- **Guanyin (Cundī)**: of mercy, compassion, and kindness (Neptune)
+- **Xi Wangmu (Xiwangmu)**: Queen Mother of the West, goddess of immortality and enlightenment (Jupiter)
+- **Chang'e**: of the moon (Moon)
+- **Mazu (Tian Fei)**: of the sea, protector of sailors and fishermen (Neptune)
+- **Sun Shangxiang**: of archery and war (Mars)
+- **Zhinu**: of weaving and the star Vega (Venus)
+- **Jiutian Xuannü**: of war, sex, and longevity (Mars)
+- **Bixia Yuanjun**: of childbirth, fertility, and destiny (Moon)
+- **Sunü**: of fertility, pregnancy, and childbirth (Venus)
+- **Zigu**: of toilets and latrines, associated with fertility and safe childbirth (Pluto)
+- **Doumu**: Mother of the Big Dipper, goddess of the seven stars and longevity (Uranus)
+- **Longmu**: Dragon Mother, goddess of dragons and the sea (Neptune)
+- **Qi Xi**: of marriage and love (Venus)
+- **Sao Qing Niang**: of smallpox and disease (Saturn)
+- **Wusheng Laomu**: Eternal Venerable Mother, creator goddess and mother of all deities (Saturn)
+- **Yaoji**: of health and healing (Mercury)
+- **Yue-Lao**: Old Man Under the Moon, god of marriage and love (Venus)
+- **Zhu Rong**: of fire and the hearth (Mars)
+- **Xuan Nu**: Dark Lady, goddess of war and sexuality, teacher of the Yellow Emperor (Mars)
+- **Cihang Zhenren**: Compassion Travel Perfected One, goddess of mercy and navigation (Neptune)
+- **Sheng Mu**: Holy Mother, goddess of fertility and childbirth (Moon)
+- **Yunxiao Guniang**: Cloud-Dwelling Maiden, goddess of clouds and weather (Jupiter)
 
 ### Japanese
-- **Amaterasu**: Supreme sun goddess, ruler of the universe and heavens, source of imperial lineage.
-- **Ame-no-Uzume**: of dawn, mirth, and revelry, known for luring Amaterasu from her cave.
-- **Benzaiten**: of knowledge, art, beauty, and everything that flows (water, words, music).
-- **Inari**: Deity of rice, fertility, agriculture, and foxes, often portrayed as female.
-- **Izanami**: Primordial goddess of creation and death, wife of Izanagi, also recognized in Tenrikyo.
-- **Kisshōten (Laksmi)**: of beauty, fertility, luck, and fortune.
-- **Konohanasakuya-hime (Sengen)**: of Mount Fuji, flowering trees, and cherry blossoms.
+- **Amaterasu**: Supreme sun goddess, ruler of the universe and heavens, source of imperial lineage. (Sun)
+- **Ame-no-Uzume**: of dawn, mirth, and revelry, known for luring Amaterasu from her cave. (Venus)
+- **Benzaiten**: of knowledge, art, beauty, and everything that flows (water, words, music). (Mercury)
+- **Inari**: Deity of rice, fertility, agriculture, and foxes, often portrayed as female. (Venus)
+- **Izanami**: Primordial goddess of creation and death, wife of Izanagi, also recognized in Tenrikyo. (Pluto)
+- **Kisshōten (Laksmi)**: of beauty, fertility, luck, and fortune. (Venus)
+- **Konohanasakuya-hime (Sengen)**: of Mount Fuji, flowering trees, and cherry blossoms. (Venus)
 - **Kukurihime**: of the Void.
-- **Kuraokami**: of rain and snow.
-- **Marishi-ten**: of light, heaven, and the sun.
-- **Nai-no-Kami**: Goddesses of earthquakes.
-- **Ōgetsuhime**: of food and the hearth.
-- **Otohime**: of the sea.
-- **Suijin**: of water.
-- **Suseribime**: of birth and child-rearing.
-- **Tatsuta-hime**: of autumn and the wind.
-- **Toyouke-Ōmikami**: of agriculture, industry, and food, enshrined at Ise's Outer Shrine.
-- **Ukemochi (Uke Mochi)**: of food, agriculture, and rice.
-- **Wakahirume**: of the rising sun.
-- **Yama-no-Kami**: Goddesses of mountains and valleys.
-- **Kannon**: of mercy and compassion (from Buddhist bodhisattva Avalokiteśvara).
-- **Tamayori-hime**: Sea goddess and mother of Emperor Jimmu, the legendary first emperor of Japan.
+- **Kuraokami**: of rain and snow. (Neptune)
+- **Marishi-ten**: of light, heaven, and the sun. (Sun)
+- **Nai-no-Kami**: Goddesses of earthquakes. (Uranus)
+- **Ōgetsuhime**: of food and the hearth. (Moon)
+- **Otohime**: of the sea. (Neptune)
+- **Suijin**: of water. (Neptune)
+- **Suseribime**: of birth and child-rearing. (Moon)
+- **Tatsuta-hime**: of autumn and the wind. (Mercury)
+- **Toyouke-Ōmikami**: of agriculture, industry, and food, enshrined at Ise's Outer Shrine. (Venus)
+- **Ukemochi (Uke Mochi)**: of food, agriculture, and rice. (Venus)
+- **Wakahirume**: of the rising sun. (Sun)
+- **Yama-no-Kami**: Goddesses of mountains and valleys. (Saturn)
+- **Kannon**: of mercy and compassion (from Buddhist bodhisattva Avalokiteśvara). (Neptune)
+- **Tamayori-hime**: Sea goddess and mother of Emperor Jimmu, the legendary first emperor of Japan. (Neptune)
 - **Oyagami**: Central deity of Tenrikyo, considered both male and female, often referred to as "God the Parent".
 - **Nakayama Miki**: Foundress of Tenrikyo, considered a living goddess and the "Shrine of Tsukihi".
 - **Kokan**: Daughter of Nakayama Miki, regarded as a model of the divine virtue of sincerity in Tenrikyo.
 
 ### Korean
 - **Mago**: Primordial goddess, creator of the universe and mother of all gods.
-- **Samshin Halmoni**: Triple goddess of childbirth, fertility, and fate.
-- **Yuhwa**: of willow trees and motherhood, mother of Jumong.
-- **Seohwa**: of flowers and love, associated with spring and beauty.
-- **Yondung Halmoni**: of wind and sea, protector of fishermen and seafarers.
-- **Jacheongbi**: of agriculture and weaving, wife of Cheonjiwang.
-- **Ungnyeo**: Bear-woman goddess, progenitor of the Korean people.
-- **Bari Gongju**: of healing and shamanism, patron of Korean shamans.
-- **Gameunjang Aegi**: of fate and destiny, weaver of life threads.
-- **Yeongdeung Halmoni**: of the winds, particularly the warm southern winds.
-- **Samsin Halmeoni**: Grandmother goddess of childbirth and child-rearing.
-- **Chilseong Shin**: of the Big Dipper, associated with fate and fortune.
-- **Yuhwangssi**: of creation and fertility, wife of Hwanin.
-
+- **Samshin Halmoni**: Triple goddess of childbirth, fertility, and fate. (Moon)
+- **Yuhwa**: of willow trees and motherhood, mother of Jumong. (Venus)
+- **Seohwa**: of flowers and love, associated with spring and beauty. (Venus)
+- **Yondung Halmoni**: of wind and sea, protector of fishermen and seafarers. (Neptune)
+- **Jacheongbi**: of agriculture and weaving, wife of Cheonjiwang. (Venus)
+- **Ungnyeo**: Bear-woman goddess, progenitor of the Korean people. (Earth)
+- **Bari Gongju**: of healing and shamanism, patron of Korean shamans. (Neptune)
+- **Gameunjang Aegi**: of fate and destiny, weaver of life threads. (Saturn)
+- **Yeongdeung Halmoni**: of the winds, particularly the warm southern winds. (Jupiter)
+- **Samsin Halmeoni**: Grandmother goddess of childbirth and child-rearing. (Moon)
+- **Chilseong Shin**: of the Big Dipper, associated with fate and fortune. (Uranus)
+- **Yuhwangssi**: of creation and fertility, wife of Hwanin (Venus)
 ## Central Asia
 ### Turkic
-- **Umay**: of fertility, childbirth, and protection of women and children.
-- **Ayisit**: of fertility, childbirth, and creator of souls.
-- **Ak Ana**: White mother goddess associated with creation and fertility.
-- **Kün Ana**: Sun goddess, mother of light and warmth.
-- **Yer Ana**: Earth mother goddess, associated with fertility and abundance.
-- **Od Ana**: Fire goddess, protector of the hearth and family.
-- **Su Ana**: Water goddess, associated with purification and life.
-- **Alaz**: Fire goddess, protector against evil spirits.
-- **Umai**: of virginity and childbirth (variant of Umay in some traditions).
+- **Umay**: of fertility, childbirth, and protection of women and children. (Moon)
+- **Ayisit**: of fertility, childbirth, and creator of souls. (Moon)
+- **Ak Ana**: White mother goddess associated with creation and fertility. (Venus)
+- **Kün Ana**: Sun goddess, mother of light and warmth. (Sun)
+- **Yer Ana**: Earth mother goddess, associated with fertility and abundance. (Earth)
+- **Od Ana**: Fire goddess, protector of the hearth and family. (Mars)
+- **Su Ana**: Water goddess, associated with purification and life. (Neptune)
+- **Alaz**: Fire goddess, protector against evil spirits. (Mars)
+- **Umai**: of virginity and childbirth (variant of Umay in some traditions). (Moon)
 - **Ak Kizlar**: White maidens, celestial spirits associated with purity and protection.
-- **Yel Ana**: Wind goddess, associated with air and breath of life.
-- **Katun**: River goddess, protector of water sources.
-- **Gün Ana**: Daylight goddess, bringer of dawn and new beginnings.
+- **Yel Ana**: Wind goddess, associated with air and breath of life. (Mercury)
+- **Katun**: River goddess, protector of water sources. (Neptune)
+- **Gün Ana**: Daylight goddess, bringer of dawn and new beginnings. (Sun)
 
 ### Mongolian
-- **Etugen Eke**: Earth Mother goddess, protector of nature and fertility.
-- **Itugen**: of earth and fertility, sometimes conflated with Etugen Eke.
-- **Umai**: of fertility, virginity, and childbirth.
-- **Ot Ana**: Fire goddess, protector of the hearth and family.
-- **Ai-Toyon**: Sun goddess, bringer of light and warmth.
-- **Tngri**: Sky goddess, sometimes depicted as female, associated with eternal blue sky.
-- **Oiuna**: of fate and destiny, weaver of life threads.
+- **Etugen Eke**: Earth Mother goddess, protector of nature and fertility. (Earth)
+- **Itugen**: of earth and fertility, sometimes conflated with Etugen Eke. (Earth)
+- **Umai**: of fertility, virginity, and childbirth. (Moon)
+- **Ot Ana**: Fire goddess, protector of the hearth and family. (Mars)
+- **Ai-Toyon**: Sun goddess, bringer of light and warmth. (Sun)
+- **Tngri**: Sky goddess, sometimes depicted as female, associated with eternal blue sky. (Jupiter)
+- **Oiuna**: of fate and destiny, weaver of life threads. (Saturn)
 - **Ongghot**: Female ancestral spirits, revered as protective deities.
-- **Natigai**: Earth goddess, responsible for the earth's fertility and abundance.
+- **Natigai**: Earth goddess, responsible for the earth's fertility and abundance. (Earth)
 - **Buga Deng**: Deer goddess, associated with forests and wildlife.
-- **Manakhan Tngri**: of happiness and joy, bringer of good fortune.
-- **Zaarin Tengri**: of dawn and new beginnings.
-- **Ülgen**: Creator goddess in some Mongolian and Siberian traditions.
+- **Manakhan Tngri**: of happiness and joy, bringer of good fortune. (Jupiter)
+- **Zaarin Tengri**: of dawn and new beginnings. (Sun)
+- **Ülgen**: Creator goddess in some Mongolian and Siberian traditions (Uranus)
 
 ### Tibetan
-- **Tara**: of compassion and protection, often depicted in green or white forms.
-- **Palden Lhamo**: Wrathful protector goddess, considered the principal protectress of Tibet.
-- **Vajrayogini**: Tantric goddess representing the wisdom and power of the feminine divine.
-- **Kurukulla**: Red Tara, associated with love, enchantment, and magnetism.
-- **Saraswati**: of knowledge, music, arts, and wisdom.
-- **Vajravarahi**: Fierce dakini goddess, embodiment of wisdom and transformation.
-- **Ekajati**: Protector goddess with one eye and one tooth, guardian of secret mantras.
-- **Marici**: of dawn and light, protector against thieves and wild animals.
-- **Ushnishavijaya**: of long life and purification.
-- **Sitatapatra**: of protection, depicted with a white parasol.
-- **Prajnaparamita**: of the perfection of wisdom in Mahayana Buddhism.
-- **Machig Labdron**: Tantric goddess and yogini associated with Chöd practice.
-- **Yeshe Tsogyal**: Enlightened female buddha, consort of Padmasambhava.
+- **Tara**: of compassion and protection, often depicted in green or white forms. (Venus)
+- **Palden Lhamo**: Wrathful protector goddess, considered the principal protectress of Tibet. (Saturn)
+- **Vajrayogini**: Tantric goddess representing the wisdom and power of the feminine divine. (Pluto)
+- **Kurukulla**: Red Tara, associated with love, enchantment, and magnetism. (Venus)
+- **Saraswati**: of knowledge, music, arts, and wisdom. (Mercury)
+- **Vajravarahi**: Fierce dakini goddess, embodiment of wisdom and transformation. (Pluto)
+- **Ekajati**: Protector goddess with one eye and one tooth, guardian of secret mantras. (Saturn)
+- **Marici**: of dawn and light, protector against thieves and wild animals. (Sun)
+- **Ushnishavijaya**: of long life and purification. (Jupiter)
+- **Sitatapatra**: of protection, depicted with a white parasol. (Moon)
+- **Prajnaparamita**: of the perfection of wisdom in Mahayana Buddhism. (Mercury)
+- **Machig Labdron**: Tantric goddess and yogini associated with Chöd practice. (Uranus)
+- **Yeshe Tsogyal**: Enlightened female buddha, consort of Padmasambhava. (Neptune)
 
 ## South Asia
 ### Buddhist
-- **Tara**: of compassion and protection, often depicted in green or white form.
-- **Guanyin**: Bodhisattva of mercy and compassion, popular in East Asian Buddhism.
-- **Prajnaparamita**: of perfect wisdom, often referred to as the "Mother of all Buddhas."
-- **Vajrayogini**: Tantric goddess representing the female Buddha and supreme wisdom.
-- **Marici**: of light and the dawn, associated with protection and abundance.
-- **Vasudhara**: of wealth, prosperity, and abundance.
-- **Hariti**: Former ogress turned protective goddess of children and childbirth.
-- **Parnashavari**: of healing and protection against diseases and epidemics.
-- **Kurukulla**: Red Tara, associated with love, enchantment, and magnetism.
-- **Sitatapatra**: of protection, known as the "Goddess with the White Parasol."
-- **Cundi**: of purity and longevity, popular in Chinese and Japanese Buddhism.
-- **Vajravarahi**: Tantric goddess representing the essence of all dakinis.
-- **Palden Lhamo**: Wrathful protective goddess, considered a dharmapala (dharma protector).
-- **Saraswati**: of knowledge, wisdom, and the arts, adopted from Hinduism.
+- **Tara**: of compassion and protection, often depicted in green or white form. (Venus)
+- **Guanyin**: Bodhisattva of mercy and compassion, popular in East Asian Buddhism. (Moon)
+- **Prajnaparamita**: of perfect wisdom, often referred to as the "Mother of all Buddhas." (Mercury)
+- **Vajrayogini**: Tantric goddess representing the female Buddha and supreme wisdom. (Uranus)
+- **Marici**: of light and the dawn, associated with protection and abundance. (Sun)
+- **Vasudhara**: of wealth, prosperity, and abundance. (Jupiter)
+- **Hariti**: Former ogress turned protective goddess of children and childbirth. (Moon)
+- **Parnashavari**: of healing and protection against diseases and epidemics. (Neptune)
+- **Kurukulla**: Red Tara, associated with love, enchantment, and magnetism. (Venus)
+- **Sitatapatra**: of protection, known as the "Goddess with the White Parasol." (Saturn)
+- **Cundi**: of purity and longevity, popular in Chinese and Japanese Buddhism. (Jupiter)
+- **Vajravarahi**: Tantric goddess representing the essence of all dakinis. (Pluto)
+- **Palden Lhamo**: Wrathful protective goddess, considered a dharmapala (dharma protector). (Mars)
+- **Saraswati**: of knowledge, wisdom, and the arts, adopted from Hinduism (Mercury)
 
 ### Jain
-- **Padmavati**: Yakshi (nature spirit) and consort of Parshvanatha, associated with protection and fertility.
-- **Ambika**: Yakshi and attendant of Neminatha, goddess of wealth and prosperity.
-- **Chakreshvari**: Yakshi and protector deity associated with Rishabhanatha, the first Tirthankara.
-- **Jwalamalini**: Fierce goddess of fire, associated with protection and purification.
-- **Lakshmi**: of wealth and prosperity, adapted from Hindu mythology.
-- **Saraswati**: of knowledge and arts, also adapted from Hindu mythology.
+- **Padmavati**: Yakshi (nature spirit) and consort of Parshvanatha, associated with protection and fertility. (Venus)
+- **Ambika**: Yakshi and attendant of Neminatha, goddess of wealth and prosperity. (Jupiter)
+- **Chakreshvari**: Yakshi and protector deity associated with Rishabhanatha, the first Tirthankara. (Mars)
+- **Jwalamalini**: Fierce goddess of fire, associated with protection and purification. (Mars)
+- **Lakshmi**: of wealth and prosperity, adapted from Hindu mythology. (Jupiter)
+- **Saraswati**: of knowledge and arts, also adapted from Hindu mythology. (Mercury)
 - **Saccika**: Yakshi associated with Mahavira, the last Tirthankara.
-- **Rohini**: Yakshi and attendant of Ajitanatha, associated with protection and guidance.
-- **Jvalamalini**: of fire and protection, often depicted with multiple arms.
-- **Kulishankusha**: Yakshi associated with Parshvanatha, known for her protective powers.
+- **Rohini**: Yakshi and attendant of Ajitanatha, associated with protection and guidance. (Moon)
+- **Jvalamalini**: of fire and protection, often depicted with multiple arms. (Mars)
+- **Kulishankusha**: Yakshi associated with Parshvanatha, known for her protective powers (Saturn)
 
 ### Sikh
-- **Mai Bhago**: A warrior-saint who led Sikh soldiers in battle, exemplifying courage and devotion.
-- **Mata Sahib Kaur**: Spiritual mother of the Khalsa, symbolizing leadership and nurturing.
-- **Mata Sundari**: Wife of Guru Gobind Singh, known for her wisdom and leadership after the Guru's death.
-- **Mata Gujri**: Mother of Guru Gobind Singh, revered for her strength and sacrifice.
-- **Bibi Nanaki**: Sister of Guru Nanak, recognized as his first disciple and spiritual companion.
-- **Mata Khivi**: Wife of Guru Angad Dev, known for her service and establishment of the langar tradition.
-- **Bibi Bhani**: Daughter of Guru Amar Das and mother of Guru Arjan Dev, exemplifying selfless service.
-- **Mata Ganga**: Mother of Guru Arjan Dev, known for her devotion and spiritual influence.
-- **Mata Damodari**: Wife of Guru Har Rai, respected for her piety and support of the Guru's mission.
-- **Mata Sulakhni**: Wife of Guru Nanak, honored for her support of his spiritual journey.
+- **Mai Bhago**: A warrior-saint who led Sikh soldiers in battle, exemplifying courage and devotion. (Mars)
+- **Mata Sahib Kaur**: Spiritual mother of the Khalsa, symbolizing leadership and nurturing. (Moon)
+- **Mata Sundari**: Wife of Guru Gobind Singh, known for her wisdom and leadership after the Guru's death. (Jupiter)
+- **Mata Gujri**: Mother of Guru Gobind Singh, revered for her strength and sacrifice. (Saturn)
+- **Bibi Nanaki**: Sister of Guru Nanak, recognized as his first disciple and spiritual companion. (Mercury)
+- **Mata Khivi**: Wife of Guru Angad Dev, known for her service and establishment of the langar tradition. (Venus)
+- **Bibi Bhani**: Daughter of Guru Amar Das and mother of Guru Arjan Dev, exemplifying selfless service. (Neptune)
+- **Mata Ganga**: Mother of Guru Arjan Dev, known for her devotion and spiritual influence. (Jupiter)
+- **Mata Damodari**: Wife of Guru Har Rai, respected for her piety and support of the Guru's mission. (Venus)
+- **Mata Sulakhni**: Wife of Guru Nanak, honored for her support of his spiritual journey (Moon)
 
 ### Hindu
-- **Saraswati**: of knowledge, music, arts, wisdom, and learning
-- **Lakshmi**: of wealth, fortune, prosperity, and beauty
-- **Parvati**: of love, fertility, devotion, and divine power
-- **Durga**: of war, strength, protection, and motherhood
-- **Kali**: of time, change, destruction, and empowerment
-- **Sita**: of sacrifice, purity, and marital devotion
-- **Radha**: of love, devotion, and supreme feminine energy
-- **Gayatri**: of the Vedas, knowledge, and enlightenment
-- **Aditi**: Mother of the gods and personification of infinite space
-- **Ganga**: of the holy Ganges river and purification
-- **Yamuna**: of the Yamuna river and sisterhood
-- **Manasa**: of snakes and fertility
-- **Shitala**: of smallpox and disease
-- **Annapurna**: of food and nourishment
-- **Bhumi**: of the earth and patience
-- **Shakti**: Divine feminine energy, the ultimate source of power
+- **Saraswati**: of knowledge, music, arts, wisdom, and learning (Mercury)
+- **Lakshmi**: of wealth, fortune, prosperity, and beauty (Venus)
+- **Parvati**: of love, fertility, devotion, and divine power (Venus)
+- **Durga**: of war, strength, protection, and motherhood (Mars)
+- **Kali**: of time, change, destruction, and empowerment (Saturn)
+- **Sita**: of sacrifice, purity, and marital devotion (Moon)
+- **Radha**: of love, devotion, and supreme feminine energy (Venus)
+- **Gayatri**: of the Vedas, knowledge, and enlightenment (Sun)
+- **Aditi**: Mother of the gods and personification of infinite space (Jupiter)
+- **Ganga**: of the holy Ganges river and purification (Neptune)
+- **Yamuna**: of the Yamuna river and sisterhood (Neptune)
+- **Manasa**: of snakes and fertility (Pluto)
+- **Shitala**: of smallpox and disease (Saturn)
+- **Annapurna**: of food and nourishment (Moon)
+- **Bhumi**: of the earth and patience (Earth)
+- **Shakti**: Divine feminine energy, the ultimate source of power (Uranus)
 
 ### South Indian
-- **Meenakshi**: Warrior goddess and consort of Shiva, patron deity of Madurai
-- **Mariamman**: of rain, disease, and protection
-- **Kamakshi**: Form of Parvati, goddess of love and devotion
-- **Kanaka Durga**: Powerful form of Durga, presiding deity of Vijayawada
-- **Padmavati**: Consort of Venkateshwara, goddess of wealth and prosperity
+- **Meenakshi**: Warrior goddess and consort of Shiva, patron deity of Madurai (Mars)
+- **Mariamman**: of rain, disease, and protection (Jupiter)
+- **Kamakshi**: Form of Parvati, goddess of love and devotion (Venus)
+- **Kanaka Durga**: Powerful form of Durga, presiding deity of Vijayawada (Mars)
+- **Padmavati**: Consort of Venkateshwara, goddess of wealth and prosperity (Venus)
 
 ### West Indian 
-- **Amba Mata**: A popular goddess in Gujarat, often associated with shakti (divine feminine power).
-- **Mumba Devi**: The patron goddess of Mumbai (formerly Bombay), after whom the city is named.
-- **Mahalakshmi**: While worshipped throughout India, she has a particularly important temple in Mumbai.
-- **Shantadurga**: A prominent goddess in Goa, representing peace and is a form of Durga.
-- **Bhavani**: A form of Parvati, widely worshipped in Maharashtra.
-- **Saptashrungi**: A manifestation of Durga, with a famous temple in Nashik, Maharashtra.
-- **Ashapura Mata**: An important goddess in Kutch, Gujarat, considered a form of Durga.
+- **Amba Mata**: A popular goddess in Gujarat, often associated with shakti (divine feminine power). (Moon)
+- **Mumba Devi**: The patron goddess of Mumbai (formerly Bombay), after whom the city is named. (Mercury)
+- **Mahalakshmi**: While worshipped throughout India, she has a particularly important temple in Mumbai. (Jupiter)
+- **Shantadurga**: A prominent goddess in Goa, representing peace and is a form of Durga. (Venus)
+- **Bhavani**: A form of Parvati, widely worshipped in Maharashtra. (Mars)
+- **Saptashrungi**: A manifestation of Durga, with a famous temple in Nashik, Maharashtra. (Mars)
+- **Ashapura Mata**: An important goddess in Kutch, Gujarat, considered a form of Durga. (Mars)
 
 ### Central Indian
-- **Santoshi Mata**: Modern goddess of satisfaction and contentment
+- **Santoshi Mata**: Modern goddess of satisfaction and contentment (Jupiter)
 
 ### Northeast Indian
-- **Kamakhya**: of desire and fertility
-- **Kechai-Khaiti**: of creation and destruction in Bodo mythology
-- **Nongthang-Leima**: Manipuri goddess of wealth and prosperity
-- **Phou-Oibi**: Manipuri goddess of crops and agricultural abundance
-- **Ima Leimarel Sidabi**: Meitei goddess of earth, nature, and fertility
+- **Kamakhya**: of desire and fertility (Venus)
+- **Kechai-Khaiti**: of creation and destruction in Bodo mythology (Pluto)
+- **Nongthang-Leima**: Manipuri goddess of wealth and prosperity (Jupiter)
+- **Phou-Oibi**: Manipuri goddess of crops and agricultural abundance (Venus)
+- **Ima Leimarel Sidabi**: Meitei goddess of earth, nature, and fertility (Earth)
 
 ## Southeast Asia
 ### Filipino
-- **Bathala**: Supreme goddess of the Tagalog people, associated with creation and the sky.
-- **Maria Makiling**: Mountain goddess and guardian of Mount Makiling, known for her beauty and benevolence.
-- **Maria Sinukuan**: Mountain goddess of Mount Arayat, protector of nature and animals.
-- **Maria Cacao**: of the cacao plant, associated with wealth and abundance.
-- **Mayari**: of the moon, beauty, and revolution in Tagalog mythology.
-- **Tala**: of the stars and patron of weavers in Tagalog mythology.
-- **Haliya**: Bicolano moon goddess who protects humans from wild beasts.
-- **Maguayan**: of the sea and punisher of those who abuse marine life.
-- **Mebuyan**: Underworld goddess associated with death and rebirth in Bagobo mythology.
-- **Bulan**: Moon goddess in Bicolano mythology, sister of Haliya.
-- **Lidagat**: Sea goddess in Bisayan mythology, protector of fishermen and sailors.
-- **Lakapati**: Hermaphrodite deity of fertility and agriculture in Tagalog mythology.
-- **Idianale**: Ilocano goddess of labor and good deeds.
-- **Mansilatan**: Bagobo goddess of love and reproduction.
-- **Magwayen**: Visayan goddess of the sea and death, ferrying souls to the afterlife.
+- **Bathala**: Supreme goddess of the Tagalog people, associated with creation and the sky. (Jupiter)
+- **Maria Makiling**: Mountain goddess and guardian of Mount Makiling, known for her beauty and benevolence. (Venus)
+- **Maria Sinukuan**: Mountain goddess of Mount Arayat, protector of nature and animals. (Earth)
+- **Maria Cacao**: of the cacao plant, associated with wealth and abundance. (Venus)
+- **Mayari**: of the moon, beauty, and revolution in Tagalog mythology. (Moon)
+- **Tala**: of the stars and patron of weavers in Tagalog mythology. (Mercury)
+- **Haliya**: Bicolano moon goddess who protects humans from wild beasts. (Moon)
+- **Maguayan**: of the sea and punisher of those who abuse marine life. (Neptune)
+- **Mebuyan**: Underworld goddess associated with death and rebirth in Bagobo mythology. (Pluto)
+- **Bulan**: Moon goddess in Bicolano mythology, sister of Haliya. (Moon)
+- **Lidagat**: Sea goddess in Bisayan mythology, protector of fishermen and sailors. (Neptune)
+- **Lakapati**: Hermaphrodite deity of fertility and agriculture in Tagalog mythology. (Venus)
+- **Idianale**: Ilocano goddess of labor and good deeds. (Saturn)
+- **Mansilatan**: Bagobo goddess of love and reproduction. (Venus)
+- **Magwayen**: Visayan goddess of the sea and death, ferrying souls to the afterlife. (Neptune)
 
 ### Indonesian
-- **Dewi Sri**: Javanese and Balinese goddess of rice, fertility, and abundance.
-- **Nyai Loro Kidul**: Javanese goddess of the southern sea, associated with beauty and power.
-- **Dewi Danu**: Balinese goddess of water, lakes, and fertility.
-- **Rangda**: Balinese demon queen and witch goddess, representing the destructive forces of nature.
-- **Dewi Saraswati**: Hindu-Javanese goddess of knowledge, wisdom, and the arts.
-- **Dewi Ratih**: Balinese goddess of love and the moon.
-- **Dewi Uma**: Balinese aspect of Parvati, goddess of fertility and nature.
-- **Batari Durga**: Javanese goddess of death and destruction, associated with the underworld.
-- **Setesuyara**: of rice fields in Sunda mythology.
-- **Nyi Pohaci Sanghyang Sri**: Sundanese rice goddess, similar to Dewi Sri.
-- **Nawang Wulan**: Javanese celestial goddess associated with rice cultivation.
-- **Dewi Shinta**: Javanese version of Sita, embodiment of loyalty and purity.
-- **Dewi Supraba**: Javanese goddess of beauty and grace.
-- **Dewi Urang Ayu**: of beauty in Sundanese mythology.
-- **Dewi Anjani**: of monkeys and forests in Javanese and Balinese mythology.
+- **Dewi Sri**: Javanese and Balinese goddess of rice, fertility, and abundance. (Venus)
+- **Nyai Loro Kidul**: Javanese goddess of the southern sea, associated with beauty and power. (Neptune)
+- **Dewi Danu**: Balinese goddess of water, lakes, and fertility. (Moon)
+- **Rangda**: Balinese demon queen and witch goddess, representing the destructive forces of nature. (Pluto)
+- **Dewi Saraswati**: Hindu-Javanese goddess of knowledge, wisdom, and the arts. (Mercury)
+- **Dewi Ratih**: Balinese goddess of love and the moon. (Venus/Moon)
+- **Dewi Uma**: Balinese aspect of Parvati, goddess of fertility and nature. (Venus)
+- **Batari Durga**: Javanese goddess of death and destruction, associated with the underworld. (Pluto)
+- **Setesuyara**: of rice fields in Sunda mythology. (Venus)
+- **Nyi Pohaci Sanghyang Sri**: Sundanese rice goddess, similar to Dewi Sri. (Venus)
+- **Nawang Wulan**: Javanese celestial goddess associated with rice cultivation. (Moon)
+- **Dewi Shinta**: Javanese version of Sita, embodiment of loyalty and purity. (Venus)
+- **Dewi Supraba**: Javanese goddess of beauty and grace. (Venus)
+- **Dewi Urang Ayu**: of beauty in Sundanese mythology. (Venus)
+- **Dewi Anjani**: of monkeys and forests in Javanese and Balinese mythology (Mars)
 
 ### Malay
-- **Dewi Sri**: Rice goddess associated with fertility, abundance, and prosperity.
-- **Sedna**: Sea goddess who controls marine life and is the mother of sea creatures.
-- **Pontianak**: Female vampire-like spirit associated with childbirth and vengeance.
-- **Nenek Kebayan**: Crone goddess of wisdom and magic, often depicted as an old woman.
-- **Bidadari**: Celestial nymphs or angels, associated with beauty and heavenly realms.
-- **Mambang Kuning**: Yellow-skinned goddess of sunsets and twilight.
-- **Si Kuntilanak**: Female spirit associated with childbirth and vengeance, similar to Pontianak.
-- **Dewi Kadita**: Sea goddess known as the Queen of the Southern Sea.
-- **Nawang Wulan**: Heavenly nymph associated with rice cultivation and domestic arts.
-- **Puteri Gunung Ledang**: Mountain goddess known for her beauty and magical powers.
+- **Dewi Sri**: Rice goddess associated with fertility, abundance, and prosperity. (Venus)
+- **Sedna**: Sea goddess who controls marine life and is the mother of sea creatures. (Neptune)
+- **Pontianak**: Female vampire-like spirit associated with childbirth and vengeance. (Pluto)
+- **Nenek Kebayan**: Crone goddess of wisdom and magic, often depicted as an old woman. (Saturn)
+- **Bidadari**: Celestial nymphs or angels, associated with beauty and heavenly realms. (Venus)
+- **Mambang Kuning**: Yellow-skinned goddess of sunsets and twilight. (Venus)
+- **Si Kuntilanak**: Female spirit associated with childbirth and vengeance, similar to Pontianak. (Pluto)
+- **Dewi Kadita**: Sea goddess known as the Queen of the Southern Sea. (Neptune)
+- **Nawang Wulan**: Heavenly nymph associated with rice cultivation and domestic arts. (Moon)
+- **Puteri Gunung Ledang**: Mountain goddess known for her beauty and magical powers. (Venus)
 
 ### Thai
-- **Phra Mae Thorani**: Earth goddess who wrings floodwaters from her hair to defeat Mara.
-- **Phra Mae Phosop**: Rice goddess who protects the rice fields and ensures bountiful harvests.
-- **Phra Mae Kongkha**: River goddess associated with water and fertility.
-- **Phra Mae Manee Mekhala**: of lightning, often depicted playing a game of catch with Ramasura.
-- **Nang Kwak**: of wealth and prosperity, commonly seen in Thai businesses.
-- **Phra Mae Uma**: Consort of Shiva, associated with power and motherhood.
-- **Phra Mae Laksmi**: of wealth, fortune, and beauty, adapted from Hindu mythology.
-- **Phra Mae Saraswati**: of knowledge, music, and the arts, also adapted from Hindu mythology.
-- **Nang Torani**: Another name for Phra Mae Thorani, the earth goddess.
-- **Phra Mae Kuan Im**: of mercy and compassion, adapted from Chinese Guanyin.
+- **Phra Mae Thorani**: Earth goddess who wrings floodwaters from her hair to defeat Mara. (Earth)
+- **Phra Mae Phosop**: Rice goddess who protects the rice fields and ensures bountiful harvests. (Venus)
+- **Phra Mae Kongkha**: River goddess associated with water and fertility. (Neptune)
+- **Phra Mae Manee Mekhala**: of lightning, often depicted playing a game of catch with Ramasura. (Uranus)
+- **Nang Kwak**: of wealth and prosperity, commonly seen in Thai businesses. (Jupiter)
+- **Phra Mae Uma**: Consort of Shiva, associated with power and motherhood. (Saturn)
+- **Phra Mae Laksmi**: of wealth, fortune, and beauty, adapted from Hindu mythology. (Venus)
+- **Phra Mae Saraswati**: of knowledge, music, and the arts, also adapted from Hindu mythology. (Mercury)
+- **Nang Torani**: Another name for Phra Mae Thorani, the earth goddess. (Earth)
+- **Phra Mae Kuan Im**: of mercy and compassion, adapted from Chinese Guanyin (Neptune)
 
 ### Vietnamese
-- **Au Co**: of mountains and forests, mythical mother of the Vietnamese people.
-- **Lieu Hanh**: of beauty and entertainment, one of the Four Immortals in Vietnamese folklore.
-- **Mau Thoai**: of water and rain, associated with fertility and agriculture.
-- **Ba Chua Xu**: of prosperity and business, widely worshipped in southern Vietnam.
-- **Thien Y A Na**: of the Cham people, associated with clouds and rain.
-- **Mau Thuong Ngan**: of forests and mountains, protector of hunters and lumberjacks.
-- **Tho Dia**: Earth goddess, protector of land and property.
-- **Quan Am/Quan Âm**: Vietnamese version of Guanyin, goddess of mercy and compassion, important in both traditional and Cao Dai beliefs.
-- **Mau Lieu**: of healing and medicine, often invoked for protection against diseases.
-- **Ba Trieu**: Deified female warrior, symbol of Vietnamese resistance and bravery.
-- **Chu Dong Tu's wife**: of commerce and prosperity, worshipped by merchants.
-- **Po Nagar**: Cham goddess of creation, associated with agriculture and the earth.
-- **Diêu Trì Kim Mẫu**: The Holy Mother or Eternal Venerable Mother, supreme goddess of creation and compassion in Cao Dai.
-- **Lý Thái Bạch Tiên Nương**: Female aspect of the poet Li Bai, associated with literature and spiritual guidance in Cao Dai.
-- **Jeanne d'Arc**: The French saint, revered as a spiritual guide and symbol of patriotism in Cao Dai.
-- **Quan Thế Âm Bồ Tát**: Another manifestation of the Goddess of Mercy in Cao Dai, emphasizing her bodhisattva nature.
-- **Bát Nương**: The Eighth Lady of the Nine Female Immortals, associated with arts and literature in Cao Dai.
-- **Thất Nương**: The Seventh Lady of the Nine Female Immortals, guide for the souls of the dead in Cao Dai.
+- **Au Co**: of mountains and forests, mythical mother of the Vietnamese people. (Earth)
+- **Lieu Hanh**: of beauty and entertainment, one of the Four Immortals in Vietnamese folklore. (Venus)
+- **Mau Thoai**: of water and rain, associated with fertility and agriculture. (Neptune)
+- **Ba Chua Xu**: of prosperity and business, widely worshipped in southern Vietnam. (Jupiter)
+- **Thien Y A Na**: of the Cham people, associated with clouds and rain. (Neptune)
+- **Mau Thuong Ngan**: of forests and mountains, protector of hunters and lumberjacks. (Mars)
+- **Tho Dia**: Earth goddess, protector of land and property. (Earth)
+- **Quan Am/Quan Âm**: Vietnamese version of Guanyin, goddess of mercy and compassion, important in both traditional and Cao Dai beliefs. (Neptune)
+- **Mau Lieu**: of healing and medicine, often invoked for protection against diseases. (Mercury)
+- **Ba Trieu**: Deified female warrior, symbol of Vietnamese resistance and bravery. (Mars)
+- **Chu Dong Tu's wife**: of commerce and prosperity, worshipped by merchants. (Mercury)
+- **Po Nagar**: Cham goddess of creation, associated with agriculture and the earth. (Venus)
+- **Diêu Trì Kim Mẫu**: The Holy Mother or Eternal Venerable Mother, supreme goddess of creation and compassion in Cao Dai. (Moon)
+- **Lý Thái Bạch Tiên Nương**: Female aspect of the poet Li Bai, associated with literature and spiritual guidance in Cao Dai. (Mercury)
+- **Jeanne d'Arc**: The French saint, revered as a spiritual guide and symbol of patriotism in Cao Dai. (Mars)
+- **Quan Thế Âm Bồ Tát**: Another manifestation of the Goddess of Mercy in Cao Dai, emphasizing her bodhisattva nature. (Neptune)
+- **Bát Nương**: The Eighth Lady of the Nine Female Immortals, associated with arts and literature in Cao Dai. (Venus)
+- **Thất Nương**: The Seventh Lady of the Nine Female Immortals, guide for the souls of the dead in Cao Dai. (Pluto)
 
 ## Middle East
 ### Persian
-- **Anahita**: of water, fertility, healing, and wisdom.
-- **Spenta Armaiti**: Earth goddess associated with devotion and righteous thinking.
-- **Ashi**: of fortune, wealth, and fertility.
-- **Daena**: of insight and revelation, guide of souls after death.
-- **Drvaspa**: of cattle and protector of horses.
-- **Armaiti**: of devotion and earth.
-- **Haurvatat**: of health, water, and prosperity.
-- **Ameretat**: of immortality and plants.
-- **Chista**: of wisdom and knowledge.
-- **Atar**: of fire (sometimes depicted as male in later traditions).
-- **Asman**: of the sky and heavens.
-- **Zam**: Earth goddess associated with the land and agriculture.
-- **Ushah**: of dawn and light.
+- **Anahita**: of water, fertility, healing, and wisdom. (Venus)
+- **Spenta Armaiti**: Earth goddess associated with devotion and righteous thinking. (Earth)
+- **Ashi**: of fortune, wealth, and fertility. (Jupiter)
+- **Daena**: of insight and revelation, guide of souls after death. (Mercury)
+- **Drvaspa**: of cattle and protector of horses. (Taurus)
+- **Armaiti**: of devotion and earth. (Earth)
+- **Haurvatat**: of health, water, and prosperity. (Neptune)
+- **Ameretat**: of immortality and plants. (Jupiter)
+- **Chista**: of wisdom and knowledge. (Mercury)
+- **Atar**: of fire (sometimes depicted as male in later traditions). (Mars)
+- **Asman**: of the sky and heavens. (Uranus)
+- **Zam**: Earth goddess associated with the land and agriculture. (Earth)
+- **Ushah**: of dawn and light. (Sun)
 
 ### Arabian
-- **Al-Lat**: Pre-Islamic goddess of fertility and motherhood, one of the three chief goddesses of Mecca.
-- **Al-Uzza**: Pre-Islamic goddess of power and might, associated with the planet Venus.
-- **Manat**: Pre-Islamic goddess of fate, destiny, and time.
-- **Allat**: Sun goddess worshipped in various parts of the Arabian Peninsula.
-- **Ruda**: of love and fortune, associated with the planet Venus.
-- **Atarsamain**: of fertility, associated with the morning star.
-- **Shams**: Sun goddess worshipped in some parts of pre-Islamic Arabia.
-- **Nuha**: of wisdom and intelligence in pre-Islamic Arabian mythology.
-- **Qaynan**: of love and beauty in pre-Islamic South Arabian mythology.
-- **Dat-Badan**: of oases and palm trees in pre-Islamic Arabian mythology.
-- **Dhat-Anwat**: Tree goddess worshipped by some pre-Islamic Arabian tribes.
-- **Malakbel**: of vegetation and fertility in Palmyrene mythology.
-- **Atargatis**: Fertility goddess worshipped in parts of pre-Islamic northern Arabia.
+- **Al-Lat**: Pre-Islamic goddess of fertility and motherhood, one of the three chief goddesses of Mecca. (Moon)
+- **Al-Uzza**: Pre-Islamic goddess of power and might, associated with the planet Venus. (Venus)
+- **Manat**: Pre-Islamic goddess of fate, destiny, and time. (Saturn)
+- **Allat**: Sun goddess worshipped in various parts of the Arabian Peninsula. (Sun)
+- **Ruda**: of love and fortune, associated with the planet Venus. (Venus)
+- **Atarsamain**: of fertility, associated with the morning star. (Venus)
+- **Shams**: Sun goddess worshipped in some parts of pre-Islamic Arabia. (Sun)
+- **Nuha**: of wisdom and intelligence in pre-Islamic Arabian mythology. (Mercury)
+- **Qaynan**: of love and beauty in pre-Islamic South Arabian mythology. (Venus)
+- **Dat-Badan**: of oases and palm trees in pre-Islamic Arabian mythology. (Jupiter)
+- **Dhat-Anwat**: Tree goddess worshipped by some pre-Islamic Arabian tribes. (Earth)
+- **Malakbel**: of vegetation and fertility in Palmyrene mythology. (Venus)
+- **Atargatis**: Fertility goddess worshipped in parts of pre-Islamic northern Arabia (Venus)
 
 ### Armenian
-- **Anahit**: of fertility, healing, wisdom, and water.
-- **Astghik**: of love, beauty, and water, associated with Venus.
-- **Nane**: of war, motherhood, and wisdom.
-- **Tsovinar**: of water, sea, and rain.
-- **Spandaramet**: of the underworld and fertility of the earth.
-- **Tork Angegh**: of strength, courage, and fertility.
-- **Nvard**: of water and the sea, wife of Ara the Beautiful.
+- **Anahit**: of fertility, healing, wisdom, and water. (Venus)
+- **Astghik**: of love, beauty, and water, associated with Venus. (Venus)
+- **Nane**: of war, motherhood, and wisdom. (Mars)
+- **Tsovinar**: of water, sea, and rain. (Neptune)
+- **Spandaramet**: of the underworld and fertility of the earth. (Pluto)
+- **Tork Angegh**: of strength, courage, and fertility. (Mars)
+- **Nvard**: of water and the sea, wife of Ara the Beautiful. (Neptune)
 - **Hayk's wife**: Unnamed goddess, wife of the legendary patriarch Hayk.
-- **Sandaramet**: of the underworld and the dead.
+- **Sandaramet**: of the underworld and the dead. (Pluto)
 - **Aralez**: Dog-like goddesses who could resurrect fallen warriors by licking their wounds.
-- **Amanor**: of the Armenian New Year and fertility.
-- **Angegh**: of the invisible, the underground, and the ugly.
-- **Barsamin**: of sky and weather, from Semitic god Baal Shamin.
+- **Amanor**: of the Armenian New Year and fertility. (Jupiter)
+- **Angegh**: of the invisible, the underground, and the ugly. (Pluto)
+- **Barsamin**: of sky and weather, from Semitic god Baal Shamin. (Jupiter)
 
 ### Zoroastrianism
-- **Spenta Armaiti**: of devotion and earth, embodying holy devotion and nurturing the world.
-- **Ashi**: of fortune, wealth, and blessings, rewarding the righteous.
-- **Anahita**: of water, fertility, and wisdom, associated with purification and life-giving forces.
-- **Daena**: of insight and revelation, guiding souls to the afterlife.
-- **Atar**: of fire and purity, though sometimes considered male in certain traditions.
-- **Chista**: of wisdom and knowledge, illuminating the path of righteousness.
-- **Haurvatat**: of health and wholeness, representing perfection and immortality.
-- **Ameretat**: of immortality and plant life, often paired with Haurvatat.
-- **Drvaspa**: of cattle and protector of horses, associated with animal husbandry.
-- **Ushah**: of dawn, bringing light and dispelling darkness.
+- **Spenta Armaiti**: of devotion and earth, embodying holy devotion and nurturing the world. (Earth)
+- **Ashi**: of fortune, wealth, and blessings, rewarding the righteous. (Jupiter)
+- **Anahita**: of water, fertility, and wisdom, associated with purification and life-giving forces. (Venus)
+- **Daena**: of insight and revelation, guiding souls to the afterlife. (Mercury)
+- **Atar**: of fire and purity, though sometimes considered male in certain traditions. (Mars)
+- **Chista**: of wisdom and knowledge, illuminating the path of righteousness. (Mercury)
+- **Haurvatat**: of health and wholeness, representing perfection and immortality. (Sun)
+- **Ameretat**: of immortality and plant life, often paired with Haurvatat. (Jupiter)
+- **Drvaspa**: of cattle and protector of horses, associated with animal husbandry. (Venus)
+- **Ushah**: of dawn, bringing light and dispelling darkness (Venus)
 
 ### Mandaeism
-- **Ruha**: of the material world and mother of the planets, often associated with chaos and darkness.
-- **Hawa**: The Mandaean equivalent of Eve, considered a divine feminine figure in some interpretations.
-- **Nuraita**: Light goddess, sometimes referred to as the female counterpart to the supreme god of light.
-- **Simat Hiia**: of fate and destiny, often invoked in Mandaean prayers and rituals.
-- **Anhura**: of fertility and childbirth, associated with the protection of mothers and infants.
+- **Ruha**: of the material world and mother of the planets, often associated with chaos and darkness. (Saturn)
+- **Hawa**: The Mandaean equivalent of Eve, considered a divine feminine figure in some interpretations. (Venus)
+- **Nuraita**: Light goddess, sometimes referred to as the female counterpart to the supreme god of light. (Sun)
+- **Simat Hiia**: of fate and destiny, often invoked in Mandaean prayers and rituals. (Jupiter)
+- **Anhura**: of fertility and childbirth, associated with the protection of mothers and infants. (Moon)
 
 ### Yazidism
-- **Xatuna Fexra**: of love and fertility, associated with spring and new beginnings.
-- **Isaya**: of health and healing, protector against diseases and ailments.
-- **Pira Fat**: of fate and destiny, believed to determine the course of one's life.
-- **Stêrka Zêrîn**: The "Golden Star" goddess, associated with celestial bodies and guidance.
-- **Xudana Êzîd**: Female aspect of the supreme being, representing divine wisdom and creation.
-- **Tawûsê Melek**: While often depicted as male, sometimes considered a feminine peacock angel and chief angel of the Yazidi faith.
+- **Xatuna Fexra**: of love and fertility, associated with spring and new beginnings. (Venus)
+- **Isaya**: of health and healing, protector against diseases and ailments. (Mercury)
+- **Pira Fat**: of fate and destiny, believed to determine the course of one's life. (Jupiter)
+- **Stêrka Zêrîn**: The "Golden Star" goddess, associated with celestial bodies and guidance. (Venus)
+- **Xudana Êzîd**: Female aspect of the supreme being, representing divine wisdom and creation. (Uranus)
+- **Tawûsê Melek**: While often depicted as male, sometimes considered a feminine peacock angel and chief angel of the Yazidi faith. (Jupiter)
 
 ## Mesopotamia
 ### Sumerian
-- **Inanna**: of love, beauty, sex, war, justice, and political power.
-- **Ninhursag**: Mother goddess associated with fertility, mountains, and nature.
-- **Ereshkigal**: Queen of the underworld and goddess of death and darkness.
-- **Nammu**: Primordial goddess of the sea and creation.
-- **Nisaba/Nidaba**: of writing, learning, and grain harvests.
-- **Ninkasi**: of beer and alcohol.
-- **Bau**: of healing and patron deity of Lagash.
-- **Gula/Ninkarrak**: of healing.
-- **Ningal**: Moon goddess and consort of Nanna, goddess of reeds.
-- **Nanshe**: of social justice, prophecy, fertility, and fishing.
-- **Ninlil**: of air, south wind, and grain.
-- **Geshtinanna**: of agriculture, fertility, and dream interpretation.
-- **Uttu**: of weaving and clothing.
-- **Ninmug**: of metalworking and fine arts.
-- **Ninsun**: of the wild cow, mother of Gilgamesh.
-- **Nintu**: of birth and creation.
-- **Ninmah**: of creation and mother of the gods.
-- **Damgalnuna/Damkina**: of the earth, consort of Enki.
-- **Nanaya**: of sensuality, fertility, and warfare.
-- **Ninsumun**: Mother goddess, associated with the city of Lagash.
-- **Ninisinna**: of medicine, healing, and interpretation of dreams.
-- **Ninimma**: of the moon and agriculture.
+- **Inanna**: of love, beauty, sex, war, justice, and political power. (Venus)
+- **Ninhursag**: Mother goddess associated with fertility, mountains, and nature. (Earth)
+- **Ereshkigal**: Queen of the underworld and goddess of death and darkness. (Pluto)
+- **Nammu**: Primordial goddess of the sea and creation. (Neptune)
+- **Nisaba/Nidaba**: of writing, learning, and grain harvests. (Mercury)
+- **Ninkasi**: of beer and alcohol. (Jupiter)
+- **Bau**: of healing and patron deity of Lagash. (Mercury)
+- **Gula/Ninkarrak**: of healing. (Mercury)
+- **Ningal**: Moon goddess and consort of Nanna, goddess of reeds. (Moon)
+- **Nanshe**: of social justice, prophecy, fertility, and fishing. (Neptune)
+- **Ninlil**: of air, south wind, and grain. (Jupiter)
+- **Geshtinanna**: of agriculture, fertility, and dream interpretation. (Venus)
+- **Uttu**: of weaving and clothing. (Mercury)
+- **Ninmug**: of metalworking and fine arts. (Venus)
+- **Ninsun**: of the wild cow, mother of Gilgamesh. (Moon)
+- **Nintu**: of birth and creation. (Venus)
+- **Ninmah**: of creation and mother of the gods. (Saturn)
+- **Damgalnuna/Damkina**: of the earth, consort of Enki. (Earth)
+- **Nanaya**: of sensuality, fertility, and warfare. (Venus/Mars)
+- **Ninsumun**: Mother goddess, associated with the city of Lagash. (Moon)
+- **Ninisinna**: of medicine, healing, and interpretation of dreams. (Mercury)
+- **Ninimma**: of the moon and agriculture (Moon)
 
 ### Akkadian
-- **Ishtar**: of love, war, and fertility, associated with the planet Venus.
-- **Ereshkigal**: Queen of the underworld and goddess of death.
-- **Ninhursag**: Mother goddess associated with earth and fertility.
-- **Gula**: of healing and patron deity of doctors.
-- **Nisaba**: of writing, learning, and grain harvests.
-- **Nanshe**: of social justice, prophecy, and fertility.
-- **Belet-ili/Mami**: Mother goddess associated with creation.
-- **Sarpanitum**: Consort of Marduk, goddess of childbirth and fertility.
-- **Aya**: of light and dawn, consort of Shamash.
-- **Antu**: Consort of Anu, sky goddess and mother of gods.
-- **Mamitu**: of oaths and treaties.
-- **Shala**: of grain and compassion.
-- **Lahar**: of cattle.
-- **Ashnan**: of grain.
-- **Ninlil**: of air, associated with grain and the south wind.
+- **Ishtar**: of love, war, and fertility, associated with the planet Venus. (Venus)
+- **Ereshkigal**: Queen of the underworld and goddess of death. (Pluto)
+- **Ninhursag**: Mother goddess associated with earth and fertility. (Earth)
+- **Gula**: of healing and patron deity of doctors. (Mercury)
+- **Nisaba**: of writing, learning, and grain harvests. (Mercury)
+- **Nanshe**: of social justice, prophecy, and fertility. (Neptune)
+- **Belet-ili/Mami**: Mother goddess associated with creation. (Moon)
+- **Sarpanitum**: Consort of Marduk, goddess of childbirth and fertility. (Venus)
+- **Aya**: of light and dawn, consort of Shamash. (Sun)
+- **Antu**: Consort of Anu, sky goddess and mother of gods. (Uranus)
+- **Mamitu**: of oaths and treaties. (Saturn)
+- **Shala**: of grain and compassion. (Venus)
+- **Lahar**: of cattle. (Taurus)
+- **Ashnan**: of grain. (Virgo)
+- **Ninlil**: of air, associated with grain and the south wind. (Mercury)
 
 ### Babylonian
-- **Ishtar**: of love, war, fertility, and sex, associated with the planet Venus.
-- **Tiamat**: Primordial goddess of the salt sea, representing chaos and creation.
-- **Ereshkigal**: Queen of the underworld and goddess of death and darkness.
-- **Ninhursag**: Mother goddess associated with earth, fertility, and mountains.
-- **Gula**: of healing, health, and medicine.
-- **Nisaba**: of writing, learning, and grain harvest.
-- **Nanshe**: of social justice, prophecy, fertility, and fishing.
-- **Belet-ili/Mami**: Mother goddess associated with creation of humans.
-- **Sarpanitum**: Consort of Marduk, associated with fertility and childbirth.
-- **Aya**: of dawn and light, consort of the sun god Shamash.
-- **Antu**: Consort of Anu, the sky god, associated with creation and fertility.
-- **Mamitu**: of destiny and fate, associated with oaths and judgment.
+- **Ishtar**: of love, war, fertility, and sex, associated with the planet Venus. (Venus)
+- **Tiamat**: Primordial goddess of the salt sea, representing chaos and creation. (Neptune)
+- **Ereshkigal**: Queen of the underworld and goddess of death and darkness. (Pluto)
+- **Ninhursag**: Mother goddess associated with earth, fertility, and mountains. (Earth)
+- **Gula**: of healing, health, and medicine. (Mercury)
+- **Nisaba**: of writing, learning, and grain harvest. (Mercury)
+- **Nanshe**: of social justice, prophecy, fertility, and fishing. (Neptune)
+- **Belet-ili/Mami**: Mother goddess associated with creation of humans. (Moon)
+- **Sarpanitum**: Consort of Marduk, associated with fertility and childbirth. (Venus)
+- **Aya**: of dawn and light, consort of the sun god Shamash. (Sun)
+- **Antu**: Consort of Anu, the sky god, associated with creation and fertility. (Uranus)
+- **Mamitu**: of destiny and fate, associated with oaths and judgment (Saturn)
 
 ### Assyrian
-- **Ishtar**: of love, war, fertility, and sexuality, associated with the planet Venus.
-- **Mullissu**: Chief goddess of Assyria, consort of Ashur, associated with motherhood and fertility.
-- **Gula**: of healing and medicine, often depicted with a dog.
-- **Ninhursag**: Mother goddess associated with earth and mountains, involved in creation myths.
-- **Nisaba**: of writing, learning, and grain harvests.
-- **Shala**: Weather goddess associated with rain and abundance.
-- **Kubaba**: of urban life, commerce, and political power.
-- **Nanshe**: of social justice, prophecy, and fishing.
-- **Belet-ili**: Mother goddess involved in the creation of humans.
-- **Aya**: of dawn and light, consort of the sun god Shamash.
-- **Antu**: Consort of Anu, the sky god, associated with creation and fertility.
-- **Ereshkigal**: Queen of the underworld and goddess of death.
-- **Sarpanitum**: Consort of Marduk, associated with fertility and childbirth.
-- **Tiamat**: Primordial goddess of salt water and chaos, featured in creation myths.
+- **Ishtar**: of love, war, fertility, and sexuality, associated with the planet Venus. (Venus)
+- **Mullissu**: Chief goddess of Assyria, consort of Ashur, associated with motherhood and fertility. (Moon)
+- **Gula**: of healing and medicine, often depicted with a dog. (Mercury)
+- **Ninhursag**: Mother goddess associated with earth and mountains, involved in creation myths. (Earth)
+- **Nisaba**: of writing, learning, and grain harvests. (Mercury)
+- **Shala**: Weather goddess associated with rain and abundance. (Jupiter)
+- **Kubaba**: of urban life, commerce, and political power. (Mercury)
+- **Nanshe**: of social justice, prophecy, and fishing. (Neptune)
+- **Belet-ili**: Mother goddess involved in the creation of humans. (Earth)
+- **Aya**: of dawn and light, consort of the sun god Shamash. (Sun)
+- **Antu**: Consort of Anu, the sky god, associated with creation and fertility. (Uranus)
+- **Ereshkigal**: Queen of the underworld and goddess of death. (Pluto)
+- **Sarpanitum**: Consort of Marduk, associated with fertility and childbirth. (Venus)
+- **Tiamat**: Primordial goddess of salt water and chaos, featured in creation myths. (Neptune)
 
 ## North American
 ### Lakota 
 - **Wakanka (Sacred)**: the sacred feminine principle
-- **White Buffalo Calf Woman (Pte San Win)**: taught wisdom, compassion, and harmony with nature.
-- **Wohpe (Falling Star)**: of peace, harmony, and beauty.
-- **Hanwi (Night Sun)**: of the Moon, represents feminine power, intuition, and the mysteries.
-- **Unk (Mother Earth)**: honored for her fertility and abundance.
-- **Whope (Radiant One)**: emphasizing radiance, beauty, and the Morning Star.
+- **White Buffalo Calf Woman (Pte San Win)**: taught wisdom, compassion, and harmony with nature. (Venus)
+- **Wohpe (Falling Star)**: of peace, harmony, and beauty. (Venus)
+- **Hanwi (Night Sun)**: of the Moon, represents feminine power, intuition, and the mysteries. (Moon)
+- **Unk (Mother Earth)**: honored for her fertility and abundance. (Earth)
+- **Whope (Radiant One)**: emphasizing radiance, beauty, and the Morning Star. (Venus)
 
 ### Navajo 
-- **Changing Woman (Asdzáá Nádleehé)**: of fertility, sustenance, and the cycles of life
+- **Changing Woman (Asdzáá Nádleehé)**: of fertility, sustenance, and the cycles of life (Moon)
 - **First Woman (Asdzáá Náđééh)**: representing the female aspect
-- **Spider Woman (Na'ashjé'ii Asdzáá)**: Creator goddess, associated with weaving and the arts
-- **White Shell Woman (Yoołgaii Asdzáá)**: of the east, associated with dawn, beauty, and renewal
-- **Turquoise Woman (Dootł'izhii Asdzáá)**: of the south, associated with growth, fertility, and sustenance
-- **Abalone Shell Woman (Diichiłí Asdzáá)**: of the west, associated with sunset, maturity, and wisdom
-- **Jet Black Woman (Báshzhinii Asdzáá)**: of the north, associated with night, introspection, and transformation
-- **Salt Woman (Ashįįh Asdzáá)**: of salt, protection, and purification
-- **Corn Mother (Naadąą Asdzáá)**: of corn, agriculture, and fertility
-- **Pollen Woman (Tádídíín Asdzáá)**: of pollen, blessings, and healing
-- **Water Woman (Tó Asdzáá)**: of water, purification, and life
-- **Sunlight Girl (Jóhonaa'éí At'ééd)**: of the sun, warmth, and growth
-- **Moon Girl (Tł'éhonaa'éí At'ééd)**: of the moon, cycles, and change
-- **Earth Woman (Nahasdzáán Asdzáá)**: Mother Earth goddess, associated with nurturing and sustenance
-- **Sky Woman (Yádiłhił Asdzáá)**: of the sky, associated with creativity and inspiration
+- **Spider Woman (Na'ashjé'ii Asdzáá)**: Creator goddess, associated with weaving and the arts (Mercury)
+- **White Shell Woman (Yoołgaii Asdzáá)**: of the east, associated with dawn, beauty, and renewal (Venus)
+- **Turquoise Woman (Dootł'izhii Asdzáá)**: of the south, associated with growth, fertility, and sustenance (Venus)
+- **Abalone Shell Woman (Diichiłí Asdzáá)**: of the west, associated with sunset, maturity, and wisdom (Saturn)
+- **Jet Black Woman (Báshzhinii Asdzáá)**: of the north, associated with night, introspection, and transformation (Pluto)
+- **Salt Woman (Ashįįh Asdzáá)**: of salt, protection, and purification (Neptune)
+- **Corn Mother (Naadąą Asdzáá)**: of corn, agriculture, and fertility (Venus)
+- **Pollen Woman (Tádídíín Asdzáá)**: of pollen, blessings, and healing (Jupiter)
+- **Water Woman (Tó Asdzáá)**: of water, purification, and life (Neptune)
+- **Sunlight Girl (Jóhonaa'éí At'ééd)**: of the sun, warmth, and growth (Sun)
+- **Moon Girl (Tł'éhonaa'éí At'ééd)**: of the moon, cycles, and change (Moon)
+- **Earth Woman (Nahasdzáán Asdzáá)**: Mother Earth goddess, associated with nurturing and sustenance (Earth)
+- **Sky Woman (Yádiłhił Asdzáá)**: of the sky, associated with creativity and inspiration (Uranus)
 
 ### Inuit 
-- **Sedna**: of the sea, marine animals, and the underworld. She is the most well-known Inuit goddess and is considered the mother of all sea creatures.
-- **Pinga**: of the hunt, fertility, and medicine. She is associated with caribou and is believed to help hunters find food.
-- **Nuliajuk**: of the ocean and its creatures. She is sometimes considered another name for Sedna or a separate deity altogether.
-- **Akna**: of fertility and childbirth. She is believed to protect pregnant women and ensure safe deliveries.
-- **Malina**: of the sun. In some Inuit stories, she is the sister of the moon god Anningan, and their rivalry causes the changing of the seasons.
-- **Asiaq**: of weather, storms, and the sky. She is believed to control the elements and can provide favorable conditions for hunting and traveling.
-- **Aulanerk**: of the sea and its bounty. She is associated with the tides and the abundance of sea life.
-- **Tootega**: of the earth and its creatures. She is believed to protect the land animals and ensure successful hunts.
-- **Pukimna**: of the underworld. She is associated with death and the afterlife and is sometimes considered the wife of the moon god Anningan.
+- **Sedna**: of the sea, marine animals, and the underworld. She is the most well-known Inuit goddess and is considered the mother of all sea creatures. (Neptune)
+- **Pinga**: of the hunt, fertility, and medicine. She is associated with caribou and is believed to help hunters find food. (Venus, Mars)
+- **Nuliajuk**: of the ocean and its creatures. She is sometimes considered another name for Sedna or a separate deity altogether. (Neptune)
+- **Akna**: of fertility and childbirth. She is believed to protect pregnant women and ensure safe deliveries. (Moon)
+- **Malina**: of the sun. In some Inuit stories, she is the sister of the moon god Anningan, and their rivalry causes the changing of the seasons. (Sun)
+- **Asiaq**: of weather, storms, and the sky. She is believed to control the elements and can provide favorable conditions for hunting and traveling. (Uranus)
+- **Aulanerk**: of the sea and its bounty. She is associated with the tides and the abundance of sea life. (Moon, Neptune)
+- **Tootega**: of the earth and its creatures. She is believed to protect the land animals and ensure successful hunts. (Earth)
+- **Pukimna**: of the underworld. She is associated with death and the afterlife and is sometimes considered the wife of the moon god Anningan (Pluto)
 
 ### Cherokee 
-- **Selu (Corn Mother)**: of corn, agriculture, and fertility
-- **Agan-uni'tsi (Sun Goddess)**: of the sun, warmth, and light
-- **Nun'Yunu'Wi (Stone-Clad Woman)**: A powerful figure associated with hunting and protection
-- **Oonawleh (White-Tailed Deer Woman)**: A spirit guide and protector of hunters
-- **Tsulkalu (Slant-Eyed Giant Woman)**: A powerful figure associated with hunting and the mountains
-- **Galunlati (Long Hair)**: A spirit associated with health, healing, and long life
-- **Atagahi (Enchanted Lake)**: A spirit associated with water, rain, and fertility
-- **Awi Usdi (Little Deer)**: A spirit associated with hunting and the deer population
-- **Agisegua (Grasshopper)**: A spirit associated with harvests and fertility
-- **Oonawieh Unggi (Water Cannibals)**: Female water spirits that can be both helpful and dangerous
-- **Grandmother Spider (Kanene'skwa)**: associated with creativity, wisdom, and the cycle of life. 
+- **Selu (Corn Mother)**: of corn, agriculture, and fertility (Venus)
+- **Agan-uni'tsi (Sun Goddess)**: of the sun, warmth, and light (Sun)
+- **Nun'Yunu'Wi (Stone-Clad Woman)**: A powerful figure associated with hunting and protection (Mars)
+- **Oonawleh (White-Tailed Deer Woman)**: A spirit guide and protector of hunters (Mercury)
+- **Tsulkalu (Slant-Eyed Giant Woman)**: A powerful figure associated with hunting and the mountains (Mars)
+- **Galunlati (Long Hair)**: A spirit associated with health, healing, and long life (Jupiter)
+- **Atagahi (Enchanted Lake)**: A spirit associated with water, rain, and fertility (Neptune)
+- **Awi Usdi (Little Deer)**: A spirit associated with hunting and the deer population (Mercury)
+- **Agisegua (Grasshopper)**: A spirit associated with harvests and fertility (Venus)
+- **Oonawieh Unggi (Water Cannibals)**: Female water spirits that can be both helpful and dangerous (Neptune)
+- **Grandmother Spider (Kanene'skwa)**: associated with creativity, wisdom, and the cycle of life. (Saturn)
 
 ### Iroquois 
-- **Sky Woman (Atahensic)**: Mother goddess, associated with creation and the earth
-- **Eithinoha (Eyatahentsik)**: of maize, agriculture, and fertility
-- **Gaol**: of the wind, associated with the breath of life
-- **Gegosasa**: of the harvest and agriculture
-- **Gendenwitha (Jikonsaseh)**: Mother of Nations
-- **Nohkomis**: Grandmother goddess, associated with wisdom and guidance
-- **Onatha**: of wheat, grains, and fertility
-- **Onatah**: of the corn, associated with sustenance and abundance
-- **Sosondowah**: of the moon, time, and seasons
+- **Sky Woman (Atahensic)**: Mother goddess, associated with creation and the earth (Earth)
+- **Eithinoha (Eyatahentsik)**: of maize, agriculture, and fertility (Venus)
+- **Gaol**: of the wind, associated with the breath of life (Mercury)
+- **Gegosasa**: of the harvest and agriculture (Venus)
+- **Gendenwitha (Jikonsaseh)**: Mother of Nations (Jupiter)
+- **Nohkomis**: Grandmother goddess, associated with wisdom and guidance (Saturn)
+- **Onatha**: of wheat, grains, and fertility (Venus)
+- **Onatah**: of the corn, associated with sustenance and abundance (Venus)
+- **Sosondowah**: of the moon, time, and seasons (Moon)
 - **Tekakwitha (Kateri Tekakwitha)**: A young woman revered for her devotion to the Christian faith and her people
-- **Tsiakka**: of the earth, nature, and fertility
-- **Tuscarora**: of the corn, associated with agriculture and nourishment
-- **Vehea**: of the stars, associated with the night sky and celestial bodies
+- **Tsiakka**: of the earth, nature, and fertility (Earth)
+- **Tuscarora**: of the corn, associated with agriculture and nourishment (Venus)
+- **Vehea**: of the stars, associated with the night sky and celestial bodies (Uranus)
 
 ### Pawnee 
-- **Evening Star (Cupernenicā)**: of the night sky, love, and fertility
-- **Corn Mother (Atira)**: of agriculture, fertility, and sustenance
-- **Moon Woman (Pah)**: of the moon, cycles, and change
-- **Morning Star (Opirikucu)**: of the morning star, associated with renewal and hope
-- **Mother Earth (Atius Tirawa)**: The earth itself, revered as a feminine creative force
-- **North Star Woman (Skiritiuhcitu)**: of the North Star, associated with guidance and wisdom
+- **Evening Star (Cupernenicā)**: of the night sky, love, and fertility (Venus)
+- **Corn Mother (Atira)**: of agriculture, fertility, and sustenance (Earth)
+- **Moon Woman (Pah)**: of the moon, cycles, and change (Moon)
+- **Morning Star (Opirikucu)**: of the morning star, associated with renewal and hope (Venus)
+- **Mother Earth (Atius Tirawa)**: The earth itself, revered as a feminine creative force (Earth)
+- **North Star Woman (Skiritiuhcitu)**: of the North Star, associated with guidance and wisdom (Polaris)
 - **South Star Woman (Uraru)**: of the South Star, associated with warmth and growth
-- **Pawnee Star Woman (Tcahiks-taka)**: of the Pawnee star (likely Sirius), associated with the summer season
+- **Pawnee Star Woman (Tcahiks-taka)**: of the Pawnee star (likely Sirius), associated with the summer season (Sirius)
 - **Spring Maiden**: of spring, new beginnings, and young love
-- **Old Woman (Cūruxti)**: Wise elder goddess, associated with wisdom and counsel
+- **Old Woman (Cūruxti)**: Wise elder goddess, associated with wisdom and counsel (Saturn)
 
 ### Hopi
-- **Spider Grandmother (Kokyangwuti)**: Creator goddess, associated with weaning and the arts
-- **Hururtu**: of the earth, agriculture, and fertility
-- **Tuwapongtumsi**: of childbirth and sand painting
-- **Koyemsi**: of the bean sprouts and the dead
-- **Angwusnasomtaka**: of the underworld and death
-- **Crow Mother (Angwusnasomtaka)**: of the west, death, and purification
-- **Pookonghoya and Palunghoya**: Twin war gods, sons of the Sun and an earth goddess
-- **Kokyanwuhti**: of the sky, associated with the moon and stars
-- **Taiowa**: Creator goddess, associated with the sun and the earth
-- **Muiyinwu**: of the underworld, death, and rebirth
-- **Sotuknang**: of creation, associated with the earth and fertility
-- **Hahay'iwuhti**: of the sun, warmth, and light
-- **Muyingwa**: God of germination and fertility, often depicted as a male but possessing feminine qualities
-- **Kookyang-mana**: of the north, associated with winter and cold
-- **Eototo**: of the east, associated with spring and new beginnings
+- **Spider Grandmother (Kokyangwuti)**: Creator goddess, associated with weaning and the arts (Mercury)
+- **Hururtu**: of the earth, agriculture, and fertility (Earth)
+- **Tuwapongtumsi**: of childbirth and sand painting (Moon)
+- **Koyemsi**: of the bean sprouts and the dead (Pluto)
+- **Angwusnasomtaka**: of the underworld and death (Pluto)
+- **Crow Mother (Angwusnasomtaka)**: of the west, death, and purification (Pluto)
+- **Pookonghoya and Palunghoya**: Twin war gods, sons of the Sun and an earth goddess (Mars)
+- **Kokyanwuhti**: of the sky, associated with the moon and stars (Moon)
+- **Taiowa**: Creator goddess, associated with the sun and the earth (Sun)
+- **Muiyinwu**: of the underworld, death, and rebirth (Pluto)
+- **Sotuknang**: of creation, associated with the earth and fertility (Earth)
+- **Hahay'iwuhti**: of the sun, warmth, and light (Sun)
+- **Muyingwa**: God of germination and fertility, often depicted as a male but possessing feminine qualities (Venus)
+- **Kookyang-mana**: of the north, associated with winter and cold (Saturn)
+- **Eototo**: of the east, associated with spring and new beginnings (Mercury)
 
 ### Zuni
-- **Awonawilona**: Creator goddess, associated with the sun and the earth
+- **Awonawilona**: Creator goddess, associated with the sun and the earth (Sun)
 - **Salt Mother**: of salt, a precious commodity for the Zuni people
-- **Corn Maiden**: of maize, agriculture, and fertility
-- **Shakak**: of the night and dreams
-- **Earth Mother (Awitelin Tsita)**: of nurturance, agriculture, and fertility. 
-- **Corn Maiden (Ye'makwisu'se)**: of corn, agriculture, and fertility. 
-- **Turquoise Woman (Chothluknakwe)**: of turquoise, associated with beauty, wealth, and good fortune.
-- **Moon Mother (Yato'ka Nalin Tsitda)**: of the moon, associated with the cycles of life.
-- **Daylight Mother (Yan'a Tsitda)**: of the warmth and energy of the sun. 
-- **Bead Woman (Halokwe)**: associated with creativity, beauty, and adornment.
+- **Corn Maiden**: of maize, agriculture, and fertility (Venus)
+- **Shakak**: of the night and dreams (Moon)
+- **Earth Mother (Awitelin Tsita)**: of nurturance, agriculture, and fertility. (Earth)
+- **Corn Maiden (Ye'makwisu'se)**: of corn, agriculture, and fertility. (Venus)
+- **Turquoise Woman (Chothluknakwe)**: of turquoise, associated with beauty, wealth, and good fortune. (Venus)
+- **Moon Mother (Yato'ka Nalin Tsitda)**: of the moon, associated with the cycles of life. (Moon)
+- **Daylight Mother (Yan'a Tsitda)**: of the warmth and energy of the sun. (Sun)
+- **Bead Woman (Halokwe)**: associated with creativity, beauty, and adornment. (Venus)
 
 ### Acoma Pueblo
-- **Iatiku**: Creator goddess and mother of all people
-- **Nautsiti**: of the earth and agriculture
-- **Kochinako**: of the yellow corn
-- **Tsichtinako**: of thought and wisdom
+- **Iatiku**: Creator goddess and mother of all people (Earth)
+- **Nautsiti**: of the earth and agriculture (Earth)
+- **Kochinako**: of the yellow corn (Venus)
+- **Tsichtinako**: of thought and wisdom (Mercury)
 
 ### Laguna Pueblo
-- **Sussistanako**: Creator goddess, associated with the sun and the earth
-- **Naotsete**: of the moon and moisture
-- **Uretsete**: of the ocean and salt water
+- **Sussistanako**: Creator goddess, associated with the sun and the earth (Sun)
+- **Naotsete**: of the moon and moisture (Moon)
+- **Uretsete**: of the ocean and salt water (Neptune)
 
 ### San Ildefonso Pueblo
-- **Blue Corn Woman**: of blue corn, associated with agriculture and fertility
-- **Poshaiyanki**: of the Rio Grande river and its springs
+- **Blue Corn Woman**: of blue corn, associated with agriculture and fertility (Venus)
+- **Poshaiyanki**: of the Rio Grande river and its springs (Neptune)
 
 ### Taos Pueblo
-- **Corn Mother (Iyatiku)**: of maize, agriculture, and fertility
-- **Spider Woman**: Creator goddess, associated with weaving and the arts
-- **Clay Old Woman (Nung Ochuu)**: of pottery and the arts
+- **Corn Mother (Iyatiku)**: of maize, agriculture, and fertility (Venus)
+- **Spider Woman**: Creator goddess, associated with weaving and the arts (Mercury)
+- **Clay Old Woman (Nung Ochuu)**: of pottery and the arts (Venus)
 
 ### Blackfoot
-- **Feather Woman (Soatsaki)**: of the wind and the air, associated with the creation of the world
-- **Natosi (Naato'si)**: Sun goddess, associated with warmth, light, and the cycle of life
-- **Ksiistsikomm (Ksíístsikomm)**: Moon goddess, associated with the night sky and the passage of time
+- **Feather Woman (Soatsaki)**: of the wind and the air, associated with the creation of the world (Uranus)
+- **Natosi (Naato'si)**: Sun goddess, associated with warmth, light, and the cycle of life (Sun)
+- **Ksiistsikomm (Ksíístsikomm)**: Moon goddess, associated with the night sky and the passage of time (Moon)
 - **Sspommitapiiksi (Spómitápiikssi)**: Sky Woman, creator goddess who gave birth to the first Blackfoot people
-- **Iipisowaahs (Iipísówaahsi)**: Morning Star, goddess of the dawn and the eastern sky
-- **Ootositapiksi (Ootositápiikssi)**: of the night and dreams
-- **Komorkis (Komórkis)**: of the earth, plants, and agriculture
-- **Aohkii (Aahkóyiinaa)**: of water, rivers, and streams
-- **Ksaahkomm (Ksaahkommiitapiiksi)**: Earth goddess, associated with the land and the Blackfoot people
-- **Iipisowaahs (Iipísówaahsi)**: Morning Star, goddess of the dawn and the eastern sky
-- **Ootositapiksi (Ootositápiikssi)**: of the night and dreams
-- **Komorkis (Komórkis)**: of the earth, plants, and agriculture
-- **Aohkii (Aahkóyiinaa)**: of water, rivers, and streams
-- **Ksaahkomm (Ksaahkommiitapiiksi)**: Earth goddess, associated with the land and the Blackfoot people
-- **Kipitaakii (Kipitáákii)**: of childbirth and motherhood
-- **Sstaa (Sstáí'naa)**: of the rain and storms
-- **Napiwa (Napiwa)**: of the forest and wild plants
-- **Ksisstsikom (Ksisstsikomm)**: Thunder goddess, associated with rain and storms
-- **Mistasiniy (Mistasíni)**: of the buffalo and hunting
-- **Aawaatowapsiiks (Aawaatowapsiiks)**: of the stars and constellations
+- **Iipisowaahs (Iipísówaahsi)**: Morning Star, goddess of the dawn and the eastern sky (Venus)
+- **Ootositapiksi (Ootositápiikssi)**: of the night and dreams (Neptune)
+- **Komorkis (Komórkis)**: of the earth, plants, and agriculture (Venus)
+- **Aohkii (Aahkóyiinaa)**: of water, rivers, and streams (Neptune)
+- **Ksaahkomm (Ksaahkommiitapiiksi)**: Earth goddess, associated with the land and the Blackfoot people (Earth)
+- **Iipisowaahs (Iipísówaahsi)**: Morning Star, goddess of the dawn and the eastern sky (Venus)
+- **Ootositapiksi (Ootositápiikssi)**: of the night and dreams (Neptune)
+- **Komorkis (Komórkis)**: of the earth, plants, and agriculture (Venus)
+- **Aohkii (Aahkóyiinaa)**: of water, rivers, and streams (Neptune)
+- **Ksaahkomm (Ksaahkommiitapiiksi)**: Earth goddess, associated with the land and the Blackfoot people (Earth)
+- **Kipitaakii (Kipitáákii)**: of childbirth and motherhood (Moon)
+- **Sstaa (Sstáí'naa)**: of the rain and storms (Jupiter)
+- **Napiwa (Napiwa)**: of the forest and wild plants (Venus)
+- **Ksisstsikom (Ksisstsikomm)**: Thunder goddess, associated with rain and storms (Jupiter)
+- **Mistasiniy (Mistasíni)**: of the buffalo and hunting (Mars)
+- **Aawaatowapsiiks (Aawaatowapsiiks)**: of the stars and constellations (Uranus)
 
 ### Algonquian
-- **Nokomis**: Grandmother Earth figure, associated with wisdom, protection, and healing
-- **First Mother**: Creator goddess who gave birth to the Algonquian people and their world
-- **Geezhigo-Quae**: Sky Woman, central figure in Algonquian creation stories
-- **Ataensic**: Iroquois goddess, similar to Sky Woman, who fell from the sky and created the world
-- **Manitou-Ahbee**: Ojibwe goddess, mother of Nanabozho, the central figure in many Algonquian stories
-- **Niskam**: Abenaki goddess, associated with the sun and the creator of the world
-- **Odzihozo**: Abenaki goddess who created the rivers and streams
-- **Coyote's Wife**: A powerful female figure in Algonquian, often associated with creation and the natural world
-- **Corn Mother**: A common figure in many Algonquian traditions, associated with agriculture, fertility, and sustenance
-- **Sedna**: Inuit goddess of the sea, marine animals, and the underworld (also mentioned in the previous list)
+- **Nokomis**: Grandmother Earth figure, associated with wisdom, protection, and healing (Earth)
+- **First Mother**: Creator goddess who gave birth to the Algonquian people and their world (Sun)
+- **Geezhigo-Quae**: Sky Woman, central figure in Algonquian creation stories (Uranus)
+- **Ataensic**: Iroquois goddess, similar to Sky Woman, who fell from the sky and created the world (Uranus)
+- **Manitou-Ahbee**: Ojibwe goddess, mother of Nanabozho, the central figure in many Algonquian stories (Moon)
+- **Niskam**: Abenaki goddess, associated with the sun and the creator of the world (Sun)
+- **Odzihozo**: Abenaki goddess who created the rivers and streams (Neptune)
+- **Coyote's Wife**: A powerful female figure in Algonquian, often associated with creation and the natural world (Mercury)
+- **Corn Mother**: A common figure in many Algonquian traditions, associated with agriculture, fertility, and sustenance (Venus)
+- **Sedna**: Inuit goddess of the sea, marine animals, and the underworld (also mentioned in the previous list) (Neptune)
 
 ### Incan
-- **Pachamama**: Mother Earth goddess, associated with fertility, harvest, and the mountains
-- **Mama Killa**: of the moon, marriage, menstrual cycles, and fertility
-- **Mama Ocllo**: of fertility, weaving, and the arts
-- **Mama Cocha**: of the sea, fish, and seafood
-- **Mama Sara**: of grain, maize, and the harvest
-- **Mama Quilla**: Another name for Mama Killa, goddess of the moon
-- **Mama Allpa**: of the earth and terraces, associated with agriculture
-- **Mama Pacha**: Another name for Pachamama, Mother Earth goddess
-- **Mama Wayra**: of the wind and weather
-- **Mama Nina**: of fire and volcanoes
-- **Mama Choqui**: of precious metals, including gold and silver
-- **Mama Zara**: Another name for Mama Sara, goddess of maize
-- **Yakumama**: of water and rivers, often depicted as a snake
-- **Sachamama**: of the jungle, plants, and wildlife
-- **Urcaguary**: of love, pleasure, and beauty
+- **Pachamama**: Mother Earth goddess, associated with fertility, harvest, and the mountains (Earth)
+- **Mama Killa**: of the moon, marriage, menstrual cycles, and fertility (Moon)
+- **Mama Ocllo**: of fertility, weaving, and the arts (Venus)
+- **Mama Cocha**: of the sea, fish, and seafood (Neptune)
+- **Mama Sara**: of grain, maize, and the harvest (Venus)
+- **Mama Quilla**: Another name for Mama Killa, goddess of the moon (Moon)
+- **Mama Allpa**: of the earth and terraces, associated with agriculture (Earth)
+- **Mama Pacha**: Another name for Pachamama, Mother Earth goddess (Earth)
+- **Mama Wayra**: of the wind and weather (Mercury)
+- **Mama Nina**: of fire and volcanoes (Mars)
+- **Mama Choqui**: of precious metals, including gold and silver (Venus)
+- **Mama Zara**: Another name for Mama Sara, goddess of maize (Venus)
+- **Yakumama**: of water and rivers, often depicted as a snake (Neptune)
+- **Sachamama**: of the jungle, plants, and wildlife (Jupiter)
+- **Urcaguary**: of love, pleasure, and beauty (Venus)
 
 ### Aztec
-- **Coatlicue**: of fertility, life, death, and rebirth
-- **Xochiquetzal**: of love, beauty, and female sexual power
-- **Chalchiuhtlicue**: of water, lakes, rivers, and seas
-- **Tonantzin**: Mother goddess, associated with fertility, motherhood, and the earth
-- **Chicomecoatl**: of agriculture, corn, and fertility
-- **Toci**: of healing, midwifery, and steam baths
-- **Tlazolteotl**: of purification, sin, and sexual misdeeds
-- **Mayahuel**: of agave and pulque (an alcoholic beverage)
-- **Cihuacoatl**: of motherhood, fertility, and midwifery
-- **Chantico**: of hearths, fires, and volcanoes
-- **Xochipilli**: of love, art, games, beauty, and flowers (sometimes depicted as male)
-- **Itzpapalotl**: of sacrifice, purification, and rebirth
-- **Mictecacihuatl**: Queen of the underworld, goddess of death and the afterlife
+- **Coatlicue**: of fertility, life, death, and rebirth (Pluto)
+- **Xochiquetzal**: of love, beauty, and female sexual power (Venus)
+- **Chalchiuhtlicue**: of water, lakes, rivers, and seas (Neptune)
+- **Tonantzin**: Mother goddess, associated with fertility, motherhood, and the earth (Earth)
+- **Chicomecoatl**: of agriculture, corn, and fertility (Venus)
+- **Toci**: of healing, midwifery, and steam baths (Mercury)
+- **Tlazolteotl**: of purification, sin, and sexual misdeeds (Pluto)
+- **Mayahuel**: of agave and pulque (an alcoholic beverage) (Neptune)
+- **Cihuacoatl**: of motherhood, fertility, and midwifery (Moon)
+- **Chantico**: of hearths, fires, and volcanoes (Mars)
+- **Xochipilli**: of love, art, games, beauty, and flowers (sometimes depicted as male) (Venus)
+- **Itzpapalotl**: of sacrifice, purification, and rebirth (Pluto)
+- **Mictecacihuatl**: Queen of the underworld, goddess of death and the afterlife (Pluto)
 
 ### Mayan
-- **Ixchel**: of the moon, fertility, medicine, and weaving.
-- **Ix Chel**: Aspect of Ixchel, associated with rainbows and pregnancy.
-- **Ixtab**: of suicide and the gallows, protector of those who take their own lives.
-- **Ix Kanan**: of maize and abundance, protector of cornfields.
-- **Ixcacao**: of chocolate and fertility.
-- **Ix Chebel Yax**: Patroness of artists and writers, associated with creativity.
-- **Xmucane**: Grandmother goddess, creator of humans from maize.
-- **Xquic**: Moon goddess associated with pregnancy and childbirth.
-- **Colel Cab**: Earth goddess, sometimes associated with bees and honey.
-- **Ixazalvoh**: of weaving and female sexuality.
-- **Ixtab**: of suicide and the hanging dead.
-- **Ixcuiname**: of love, pleasure, and sexual relations.
-- **Ix Tub Tun**: of jade and precious stones.
-- **Akna**: of motherhood and childbirth.
-- **Ix Zacal Nok**: Patroness of weaving and textile arts.
+- **Ixchel**: of the moon, fertility, medicine, and weaving. (Moon)
+- **Ix Chel**: Aspect of Ixchel, associated with rainbows and pregnancy. (Moon, Jupiter)
+- **Ixtab**: of suicide and the gallows, protector of those who take their own lives. (Pluto)
+- **Ix Kanan**: of maize and abundance, protector of cornfields. (Venus)
+- **Ixcacao**: of chocolate and fertility. (Venus)
+- **Ix Chebel Yax**: Patroness of artists and writers, associated with creativity. (Mercury)
+- **Xmucane**: Grandmother goddess, creator of humans from maize. (Saturn)
+- **Xquic**: Moon goddess associated with pregnancy and childbirth. (Moon)
+- **Colel Cab**: Earth goddess, sometimes associated with bees and honey. (Earth, Venus)
+- **Ixazalvoh**: of weaving and female sexuality. (Venus)
+- **Ixtab**: of suicide and the hanging dead. (Pluto)
+- **Ixcuiname**: of love, pleasure, and sexual relations. (Venus)
+- **Ix Tub Tun**: of jade and precious stones. (Venus)
+- **Akna**: of motherhood and childbirth. (Moon)
+- **Ix Zacal Nok**: Patroness of weaving and textile arts (Mercury)
 
 ## Caribbean and South America:
-
 ### Santería (Cuba)
-- **Yemaya**: Mother goddess of the ocean, fertility, and motherhood.
-- **Oshun**: of love, beauty, and fresh water.
-- **Oya**: of winds, storms, and transformation.
-- **Obba**: of domesticity, marriage, and self-sacrifice.
-- **Yewa**: of death and the cemetery, associated with chastity and purity.
-- **Nana Buruku**: Ancient goddess of mud, swamps, and wisdom.
-- **Ochun Kole**: Aspect of Oshun associated with wealth and material abundance.
-- **Yemaya Okute**: Warrior aspect of Yemaya, protector of women.
-- **Oya Yansan**: Aspect of Oya associated with cemeteries and ancestral spirits.
-- **Ochun Yeyé Moro**: Aspect of Oshun associated with sensuality and seduction.
+- **Yemaya**: Mother goddess of the ocean, fertility, and motherhood. (Moon)
+- **Oshun**: of love, beauty, and fresh water. (Venus)
+- **Oya**: of winds, storms, and transformation. (Uranus)
+- **Obba**: of domesticity, marriage, and self-sacrifice. (Saturn)
+- **Yewa**: of death and the cemetery, associated with chastity and purity. (Pluto)
+- **Nana Buruku**: Ancient goddess of mud, swamps, and wisdom. (Saturn)
+- **Ochun Kole**: Aspect of Oshun associated with wealth and material abundance. (Venus)
+- **Yemaya Okute**: Warrior aspect of Yemaya, protector of women. (Mars)
+- **Oya Yansan**: Aspect of Oya associated with cemeteries and ancestral spirits. (Pluto)
+- **Ochun Yeyé Moro**: Aspect of Oshun associated with sensuality and seduction. (Venus)
 
 ### Candomblé
-- **Iemanjá**: of the sea, motherhood, and fertility, often depicted as a mermaid.
-- **Oxum**: of fresh water, beauty, wealth, and love.
-- **Iansã**: of winds, storms, and the spirits of the dead.
-- **Nanã**: Ancient goddess of mud, death, and rebirth.
-- **Obá**: of the river Obá, domestic life, and marriage.
-- **Ewá**: of beauty, sexuality, and transformation.
-- **Oxumaré**: Androgynous deity associated with the rainbow and cycles of nature.
-- **Ibeji**: Twin goddesses representing youth and vitality.
-- **Ajé Shaluga**: of wealth, prosperity, and the sea.
-- **Iroko**: of the sacred tree, time, and ancestral wisdom.
+- **Iemanjá**: of the sea, motherhood, and fertility, often depicted as a mermaid. (Moon)
+- **Oxum**: of fresh water, beauty, wealth, and love. (Venus)
+- **Iansã**: of winds, storms, and the spirits of the dead. (Uranus)
+- **Nanã**: Ancient goddess of mud, death, and rebirth. (Saturn)
+- **Obá**: of the river Obá, domestic life, and marriage. (Saturn)
+- **Ewá**: of beauty, sexuality, and transformation. (Venus)
+- **Oxumaré**: Androgynous deity associated with the rainbow and cycles of nature. (Mercury)
+- **Ibeji**: Twin goddesses representing youth and vitality. (Mercury)
+- **Ajé Shaluga**: of wealth, prosperity, and the sea. (Jupiter)
+- **Iroko**: of the sacred tree, time, and ancestral wisdom (Saturn)
 
 ### Umbanda
-- **Iemanjá**: of the sea, motherhood, and fertility, often depicted as a mermaid.
-- **Oxum**: of fresh water, beauty, wealth, and love.
-- **Iansã**: of winds, storms, and the spirits of the dead.
-- **Nanã**: Ancient goddess of mud, death, and rebirth.
-- **Obá**: of domestic life, marriage, and the river Obá.
-- **Ewá**: of beauty, harmony, and intuition, associated with the stars.
-- **Oxumaré**: Androgynous deity representing the rainbow and cycles of nature.
-- **Pomba Gira**: Female counterpart to Exu, associated with sexuality and crossroads.
-- **Cabocla Jurema**: Indigenous forest spirit, associated with healing and nature.
-- **Maria Padilha**: Powerful female spirit associated with love, passion, and sensuality.
+- **Iemanjá**: of the sea, motherhood, and fertility, often depicted as a mermaid. (Moon)
+- **Oxum**: of fresh water, beauty, wealth, and love. (Venus)
+- **Iansã**: of winds, storms, and the spirits of the dead. (Uranus)
+- **Nanã**: Ancient goddess of mud, death, and rebirth. (Pluto)
+- **Obá**: of domestic life, marriage, and the river Obá. (Saturn)
+- **Ewá**: of beauty, harmony, and intuition, associated with the stars. (Neptune)
+- **Oxumaré**: Androgynous deity representing the rainbow and cycles of nature. (Mercury)
+- **Pomba Gira**: Female counterpart to Exu, associated with sexuality and crossroads. (Venus)
+- **Cabocla Jurema**: Indigenous forest spirit, associated with healing and nature. (Jupiter)
+- **Maria Padilha**: Powerful female spirit associated with love, passion, and sensuality. (Venus)
 
 ### Rastafarianism
-- **Queen Omega**: The female counterpart to Haile Selassie, representing divine femininity and motherhood.
-- **Empress Menen**: Wife of Haile Selassie, revered as a symbol of feminine wisdom and strength.
-- **Mother Earth**: of the planet, viewed as a nurturing feminine force.
-- **Mama Africa**: Symbolic representation of the African continent as a divine mother figure.
-- **Queen of Sheba**: Ancient Ethiopian queen, sometimes associated with divine feminine wisdom.
+- **Queen Omega**: The female counterpart to Haile Selassie, representing divine femininity and motherhood. (Moon)
+- **Empress Menen**: Wife of Haile Selassie, revered as a symbol of feminine wisdom and strength. (Venus)
+- **Mother Earth**: of the planet, viewed as a nurturing feminine force. (Earth)
+- **Mama Africa**: Symbolic representation of the African continent as a divine mother figure. (Earth)
+- **Queen of Sheba**: Ancient Ethiopian queen, sometimes associated with divine feminine wisdom. (Mercury)
 
 ### Mapuche
-- **Küyen**: Moon goddess associated with fertility, menstrual cycles, and tides.
-- **Shumpall**: Powerful water spirit or mermaid-like goddess of the sea.
-- **Llao-Llao**: of volcanoes, earthquakes, and natural disasters.
-- **Ñuke Mapu**: Mother Earth goddess, representing fertility and abundance.
-- **Wangulén**: Evening star goddess associated with love and marriage.
-- **Millaray**: Golden flower goddess, associated with beauty and nature.
-- **Rayen**: Flower goddess symbolizing beauty, youth, and springtime.
-- **Huenchur**: of healing and medicinal plants.
-- **Püllomen**: of the underworld and the dead.
-- **Anchimallén**: Goddess or spirit associated with small, bright lights and mischief.
+- **Küyen**: Moon goddess associated with fertility, menstrual cycles, and tides. (Moon)
+- **Shumpall**: Powerful water spirit or mermaid-like goddess of the sea. (Neptune)
+- **Llao-Llao**: of volcanoes, earthquakes, and natural disasters. (Pluto)
+- **Ñuke Mapu**: Mother Earth goddess, representing fertility and abundance. (Earth)
+- **Wangulén**: Evening star goddess associated with love and marriage. (Venus)
+- **Millaray**: Golden flower goddess, associated with beauty and nature. (Venus)
+- **Rayen**: Flower goddess symbolizing beauty, youth, and springtime. (Venus)
+- **Huenchur**: of healing and medicinal plants. (Mercury)
+- **Püllomen**: of the underworld and the dead. (Pluto)
+- **Anchimallén**: Goddess or spirit associated with small, bright lights and mischief (Mercury)
 
 ### Guaraní
-- **Arasy**: Mother of the sky and creator goddess, associated with the origin of the universe.
-- **Kerana**: Mother of monsters, wife of the serpent god Tau.
-- **Porâsy**: of fertility and abundance, associated with agricultural prosperity.
-- **Jasy Jatere**: Moon goddess, protector of lovers and guardian of the night.
-- **Kuarahy Jasy**: Sun and moon goddess, representing celestial harmony.
-- **Yara**: Water goddess, protector of rivers and lakes, often depicted as a mermaid-like figure.
-- **Ka'a Jarýi**: of yerba mate, protector of the herb and its harvesters.
-- **Ñandutí**: Spider goddess, associated with weaving and craftsmanship.
-- **Tupã Sy**: Mother of Tupã (thunder god), associated with wisdom and guidance.
-- **Aña**: of evil and misfortune, often depicted as an old woman.
+- **Arasy**: Mother of the sky and creator goddess, associated with the origin of the universe. (Uranus)
+- **Kerana**: Mother of monsters, wife of the serpent god Tau. (Pluto)
+- **Porâsy**: of fertility and abundance, associated with agricultural prosperity. (Venus)
+- **Jasy Jatere**: Moon goddess, protector of lovers and guardian of the night. (Moon)
+- **Kuarahy Jasy**: Sun and moon goddess, representing celestial harmony. (Sun and Moon)
+- **Yara**: Water goddess, protector of rivers and lakes, often depicted as a mermaid-like figure. (Neptune)
+- **Ka'a Jarýi**: of yerba mate, protector of the herb and its harvesters. (Mercury)
+- **Ñandutí**: Spider goddess, associated with weaving and craftsmanship. (Mercury)
+- **Tupã Sy**: Mother of Tupã (thunder god), associated with wisdom and guidance. (Jupiter)
+- **Aña**: of evil and misfortune, often depicted as an old woman. (Saturn)
 
 ### Tupi
-- **Jaci**: Moon goddess associated with reproduction, vegetation, and tides.
-- **Ceuci**: Mother of the stars and protector of lovers.
-- **Guaraci**: Sun goddess, mother of all living creatures.
-- **Iara**: Water goddess or mermaid-like figure who protects rivers and lakes.
-- **Tupã-Sy**: Mother of Tupã, the supreme god, associated with the earth and fertility.
-- **Ci**: Mother of mankind and teacher of agriculture.
-- **Mani**: of manioc (cassava), associated with agriculture and sustenance.
-- **Jacimirim**: Daughter of Jaci, goddess of plants and flowers.
-- **Rudá**: of love and marriage.
-- **Caapora**: Forest goddess and protector of animals.
+- **Jaci**: Moon goddess associated with reproduction, vegetation, and tides. (Moon)
+- **Ceuci**: Mother of the stars and protector of lovers. (Venus)
+- **Guaraci**: Sun goddess, mother of all living creatures. (Sun)
+- **Iara**: Water goddess or mermaid-like figure who protects rivers and lakes. (Neptune)
+- **Tupã-Sy**: Mother of Tupã, the supreme god, associated with the earth and fertility. (Earth)
+- **Ci**: Mother of mankind and teacher of agriculture. (Venus)
+- **Mani**: of manioc (cassava), associated with agriculture and sustenance. (Venus)
+- **Jacimirim**: Daughter of Jaci, goddess of plants and flowers. (Moon)
+- **Rudá**: of love and marriage. (Venus)
+- **Caapora**: Forest goddess and protector of animals (Earth)
 
 ## Oceana
 ### Hawaiian
-- **Hina**: of the moon, fertility, and women
-- **Pele**: of volcanoes, fire, and creation
-- **Laka**: of hula, fertility, and the forest
-- **Kapo**: of sorcery, dark powers, and fertility
-- **Namaka**: Sea goddess, sister of Pele
-- **Haumea**: of fertility and childbirth
-- **Laka**: Patron goddess of hula dancers
-- **Hi'iaka**: of hula, sorcery, and medicine; sister of Pele
-- **Poliahu**: of snow-capped mountains
-- **Lilinoe**: of fine rain and mist
-- **Walinuu**: of flowing water and streams
-- **Papa**: Earth Mother goddess
-- **Nuakea**: of lactation
-- **Ulupoka**: of agriculture
-- **Hina-puku-i'a**: of spearfishing
-- **Kaiona**: of shellfish and seaweed
-- **Walinu'u**: of the ocean currents
-- **La'ahana**: of the morning sunrise
-- **Hina-ke-ka**: of the sea and coral reefs
-- **Hina-ulu-ohia**: of the ohia lehua tree
-- **Hina-i-ka-malama**: Alternative name for the goddess Hina, associated with the moon
-- **Ka-haka-hana-lani**: of the Milky Way
-- **Mapuana**: of song and dance
-- **Ukanipo**: Shark goddess who protected fishermen and sailors
+- **Hina**: of the moon, fertility, and women (Moon)
+- **Pele**: of volcanoes, fire, and creation (Mars)
+- **Laka**: of hula, fertility, and the forest (Venus)
+- **Kapo**: of sorcery, dark powers, and fertility (Pluto)
+- **Namaka**: Sea goddess, sister of Pele (Neptune)
+- **Haumea**: of fertility and childbirth (Venus)
+- **Laka**: Patron goddess of hula dancers (Venus)
+- **Hi'iaka**: of hula, sorcery, and medicine; sister of Pele (Mercury)
+- **Poliahu**: of snow-capped mountains (Saturn)
+- **Lilinoe**: of fine rain and mist (Neptune)
+- **Walinuu**: of flowing water and streams (Neptune)
+- **Papa**: Earth Mother goddess (Earth)
+- **Nuakea**: of lactation (Moon)
+- **Ulupoka**: of agriculture (Venus)
+- **Hina-puku-i'a**: of spearfishing (Neptune)
+- **Kaiona**: of shellfish and seaweed (Neptune)
+- **Walinu'u**: of the ocean currents (Neptune)
+- **La'ahana**: of the morning sunrise (Sun)
+- **Hina-ke-ka**: of the sea and coral reefs (Neptune)
+- **Hina-ulu-ohia**: of the ohia lehua tree (Venus)
+- **Hina-i-ka-malama**: Alternative name for the goddess Hina, associated with the moon (Moon)
+- **Ka-haka-hana-lani**: of the Milky Way (Uranus)
+- **Mapuana**: of song and dance (Venus)
+- **Ukanipo**: Shark goddess who protected fishermen and sailors (Neptune)
 
 ### Māori
-- **Papatūānuku**: Earth Mother goddess
-- **Hine-nui-te-pō**: of night and the underworld
-- **Hine-tītama**: of dawn and the first woman
-- **Hine-ahu-one**: First woman created by Tāne, god of forests and birds
-- **Hine-raukatauri**: of flute music
-- **Hine-ruhi**: of witchcraft and sorcery
-- **Hine-te-iwaiwa**: of childbirth, weaving, and the moon
-- **Hine-pūkohu-rangi**: of mist and fog
+- **Papatūānuku**: Earth Mother goddess (Earth)
+- **Hine-nui-te-pō**: of night and the underworld (Pluto)
+- **Hine-tītama**: of dawn and the first woman (Venus)
+- **Hine-ahu-one**: First woman created by Tāne, god of forests and birds (Venus)
+- **Hine-raukatauri**: of flute music (Mercury)
+- **Hine-ruhi**: of witchcraft and sorcery (Pluto)
+- **Hine-te-iwaiwa**: of childbirth, weaving, and the moon (Moon)
+- **Hine-pūkohu-rangi**: of mist and fog (Neptune)
 - **Hine-i-tīweka**: of shellfish
 - **Hine-ahu-one**: of sand and beaches
-- **Hine-moana**: of the sea
-- **Hine-wai**: of rivers and streams
+- **Hine-moana**: of the sea (Neptune)
+- **Hine-wai**: of rivers and streams (Neptune)
 - **Hine-peke**: of lizards and reptiles
-- **Hine-nui-te-rā**: of the sun
-- **Hine-takurua**: of winter
-- **Hine-raumati**: of summer
-- **Hine-ngaru**: of waves
+- **Hine-nui-te-rā**: of the sun (Sun)
+- **Hine-takurua**: of winter (Saturn)
+- **Hine-raumati**: of summer (Sun)
+- **Hine-ngaru**: of waves (Neptune)
 - **Hine-kōrako**: of white blossoms and albinism
-- **Hine-te-ihorangi**: of rain
+- **Hine-te-ihorangi**: of rain (Jupiter)
 - **Hine-pūtehue**: of gourds and calabashes
-- **Hine-tauira**: of students and learning
+- **Hine-tauira**: of students and learning (Mercury)
 - **Hine-te-otaota**: of weeds and uncultivated plants
-- **Hine-makehu**: of mist and fine rain
+- **Hine-makehu**: of mist and fine rain (Neptune)
 - **Hine-ruru**: of the morepork (native owl)
 - **Hine-kuku**: of mussels
 - **Hine-tuakirikiri**: of gravel and shingle
-- **Hine-tū-whenua**: of land and stability
+- **Hine-tū-whenua**: of land and stability (Earth)
 
 ### Tahitian
-- **Hina**: of the moon, fertility, and women
-- **Fatou**: Mother Earth goddess
-- **Roua**: of the sea and fishing
-- **Na-fatu-tini**: of the underworld
-- **Taonoui**: of beauty and the arts
-- **Tefatuou**: of dance and music
-- **Haua**: of childbirth and midwifery
-- **Taurua**: of healing and medicine
-- **Teuira**: of agriculture and fertility
-- **Punaruu**: of fresh water and streams
-- **Temeharo**: of the sky and weather
-- **Vai-ora**: of the ocean and its bounty
-- **Hina-nui-te-araara**: of the dawn and new beginnings
-- **Hina-rere**: of the evening star
-- **Hina-uri**: of the night and dreams
-- **Hina-te-iwa-iwa**: of rainbows and spiritual journeys
+- **Hina**: of the moon, fertility, and women (Moon)
+- **Fatou**: Mother Earth goddess (Earth)
+- **Roua**: of the sea and fishing (Neptune)
+- **Na-fatu-tini**: of the underworld (Pluto)
+- **Taonoui**: of beauty and the arts (Venus)
+- **Tefatuou**: of dance and music (Venus)
+- **Haua**: of childbirth and midwifery (Moon)
+- **Taurua**: of healing and medicine (Mercury)
+- **Teuira**: of agriculture and fertility (Venus)
+- **Punaruu**: of fresh water and streams (Neptune)
+- **Temeharo**: of the sky and weather (Jupiter)
+- **Vai-ora**: of the ocean and its bounty (Neptune)
+- **Hina-nui-te-araara**: of the dawn and new beginnings (Sun)
+- **Hina-rere**: of the evening star (Venus)
+- **Hina-uri**: of the night and dreams (Moon)
+- **Hina-te-iwa-iwa**: of rainbows and spiritual journeys (Jupiter)
 - **Tumu-nui**: Primordial goddess, mother of the gods
-- **Papa-raharaha**: of the earth's foundation
-- **Fati**: of the winds and air
-- **Ani**: of the stars and navigation
+- **Papa-raharaha**: of the earth's foundation (Earth)
+- **Fati**: of the winds and air (Mercury)
+- **Ani**: of the stars and navigation (Uranus)
 
 ### Tongan
-- **Hikule'o**: of the underworld and the Tongan pantheon's highest-ranking goddess
-- **Hina**: of the moon, fertility, and women
-- **Fehuluni**: of childbirth
-- **Hina 'Onoulu**: of the land, agriculture, and food production
-- **Hina Fulutonga**: of the sky and weather
-- **Hina Hololeva**: of the ocean and fishing
-- **Hina Nukulau**: of the forest and hunting
-- **Hina Taumai**: of war and strategy
-- **Hina Tuitupou**: of beauty, love, and the arts
-- **Hina Tuifua**: of the earth and earthquakes
-- **Lupe**: of peace and reconciliation
-- **Nafanua**: of war and patron of the Tongan royal family
-- **Seketoa**: of the winds
-- **Taufa**: of the sea and patron of sailors and navigators
-- **Tuitoga**: of the reef and lagoon
-- **Vaiola**: of fresh water, springs, and streams
+- **Hikule'o**: of the underworld and the Tongan pantheon's highest-ranking goddess (Pluto)
+- **Hina**: of the moon, fertility, and women (Moon)
+- **Fehuluni**: of childbirth (Moon)
+- **Hina 'Onoulu**: of the land, agriculture, and food production (Venus)
+- **Hina Fulutonga**: of the sky and weather (Jupiter)
+- **Hina Hololeva**: of the ocean and fishing (Neptune)
+- **Hina Nukulau**: of the forest and hunting (Mercury)
+- **Hina Taumai**: of war and strategy (Mars)
+- **Hina Tuitupou**: of beauty, love, and the arts (Venus)
+- **Hina Tuifua**: of the earth and earthquakes (Saturn)
+- **Lupe**: of peace and reconciliation (Venus)
+- **Nafanua**: of war and patron of the Tongan royal family (Mars)
+- **Seketoa**: of the winds (Mercury)
+- **Taufa**: of the sea and patron of sailors and navigators (Neptune)
+- **Tuitoga**: of the reef and lagoon (Neptune)
+- **Vaiola**: of fresh water, springs, and streams (Neptune)
 
 ### Samoan 
-- **Nafanua**: of war, known for her bravery and skills in battle
-- **Tilafaiga**: of life and death, one of the twin sisters who brought the art of tattooing to Samoa
-- **Taema**: of war and the other twin sister who brought the art of tattooing to Samoa
-- **Sina**: of the moon, often associated with beauty and fertility
-- **Leutogi**: of rain and fine weather
-- **Falelalupo**: of the forest and its creatures
-- **Matamolali**: of the sea and its creatures
-- **Faumea**: of plantations and agriculture
-- **Salamasina**: Legendary first female ruler of Samoa, sometimes regarded as a goddess
-- **Nāfanua**: Another name for the goddess of war, Nafanua
-- **Tilafaiga and Taema**: Sometimes referred to as a single entity, the twin goddesses of tattooing and war
-- **Losi**: of love and beauty
-- **Puapae**: of the underworld
-- **Moso**: of healing and medicine
+- **Nafanua**: of war, known for her bravery and skills in battle (Mars)
+- **Tilafaiga**: of life and death, one of the twin sisters who brought the art of tattooing to Samoa (Pluto)
+- **Taema**: of war and the other twin sister who brought the art of tattooing to Samoa (Mars)
+- **Sina**: of the moon, often associated with beauty and fertility (Moon)
+- **Leutogi**: of rain and fine weather (Jupiter)
+- **Falelalupo**: of the forest and its creatures (Mercury)
+- **Matamolali**: of the sea and its creatures (Neptune)
+- **Faumea**: of plantations and agriculture (Venus)
+- **Salamasina**: Legendary first female ruler of Samoa, sometimes regarded as a goddess (Sun)
+- **Nāfanua**: Another name for the goddess of war, Nafanua (Mars)
+- **Tilafaiga and Taema**: Sometimes referred to as a single entity, the twin goddesses of tattooing and war (Mars/Pluto)
+- **Losi**: of love and beauty (Venus)
+- **Puapae**: of the underworld (Pluto)
+- **Moso**: of healing and medicine (Mercury)
 
 ### Marquesan
-- **Atanua**: of fertility and the underworld
-- **Papa**: Earth Mother goddess
-- **Tana'oa**: Sea goddess
-- **Hina**: of the moon, fertility, and women
-- **Hina-tu-a-uta**: of the mountains and interior lands
-- **Hina-tu-a-tai**: of the sea and fishing
-- **Faumea**: of childbirth and fertility
-- **Haka-hau**: of the winds
-- **Hina-te-au-ihi**: of the dawn and twilight
-- **Hina-te-ao**: of the daytime
-- **Hina-te-po**: of the night
-- **Hina-moe-one**: of sandy beaches
-- **Hina-moe-hakaiki**: of rocky shores
-- **Hina-hau-one**: of the soil and earth
-- **Hina-te-kou**: of mist and fog
-- **Hina-te-ua**: of rain
-- **Hina-te-ao-meha**: of rainbows
-- **Hina-te-ata**: of clouds
-- **Hina-te-vai-puna**: of freshwater springs
-- **Hina-te-vai-tai**: of seawater
+- **Atanua**: of fertility and the underworld (Pluto)
+- **Papa**: Earth Mother goddess (Earth)
+- **Tana'oa**: Sea goddess (Neptune)
+- **Hina**: of the moon, fertility, and women (Moon)
+- **Hina-tu-a-uta**: of the mountains and interior lands (Saturn)
+- **Hina-tu-a-tai**: of the sea and fishing (Neptune)
+- **Faumea**: of childbirth and fertility (Venus)
+- **Haka-hau**: of the winds (Mercury)
+- **Hina-te-au-ihi**: of the dawn and twilight (Venus)
+- **Hina-te-ao**: of the daytime (Sun)
+- **Hina-te-po**: of the night (Moon)
+- **Hina-moe-one**: of sandy beaches (Venus)
+- **Hina-moe-hakaiki**: of rocky shores (Saturn)
+- **Hina-hau-one**: of the soil and earth (Earth)
+- **Hina-te-kou**: of mist and fog (Neptune)
+- **Hina-te-ua**: of rain (Jupiter)
+- **Hina-te-ao-meha**: of rainbows (Uranus)
+- **Hina-te-ata**: of clouds (Neptune)
+- **Hina-te-vai-puna**: of freshwater springs (Neptune)
+- **Hina-te-vai-tai**: of seawater (Neptune)
 
 ### Rapa Nui (Easter Island) 
-- **Hanau-eepe (or Papa)**: Mother Earth goddess, creator of life and the world
-- **Hina**: of the moon, fertility, and women
+- **Hanau-eepe (or Papa)**: Mother Earth goddess, creator of life and the world (Earth)
+- **Hina**: of the moon, fertility, and women (Moon)
 - **Hotu Matu'a**: Legendary female ancestor and first settler of Rapa Nui
-- **Vai-mata**: of rain and water
-- **Uke Mochi**: of food and cooking
-- **Hina-oio**: of the sea and fishing
-- **Hina-iti**: of the dawn and new beginnings
-- **Hina-nui**: of the night and dreams
-- **Hina-tokerau**: of the north wind
-- **Hina-tonga**: of the south wind
-- **Hina-uri**: of death and the underworld
-- **Nuahine**: of weaving and textile arts
-- **Hitirau**: of beauty and seduction
-- **Nuku-te-mangamanga**: of war and strategy
+- **Vai-mata**: of rain and water (Jupiter)
+- **Uke Mochi**: of food and cooking (Venus)
+- **Hina-oio**: of the sea and fishing (Neptune)
+- **Hina-iti**: of the dawn and new beginnings (Venus)
+- **Hina-nui**: of the night and dreams (Moon)
+- **Hina-tokerau**: of the north wind (Mercury)
+- **Hina-tonga**: of the south wind (Mercury)
+- **Hina-uri**: of death and the underworld (Pluto)
+- **Nuahine**: of weaving and textile arts (Venus)
+- **Hitirau**: of beauty and seduction (Venus)
+- **Nuku-te-mangamanga**: of war and strategy (Mars)
 
 ### Muisca
-- **Chía**: Moon goddess associated with night, time, and fertility.
-- **Bachué**: Mother goddess who emerged from a lake with a child, progenitor of humanity.
-- **Huitaca**: of arts, music, dance, and pleasure, often associated with the moon.
-- **Chie**: of wisdom and intelligence, taught weaving and morality to the Muisca.
-- **Cuchavira**: Rainbow goddess, protector of women in childbirth and the sick.
-- **Nencatacoa**: of intoxication, festivities, and arts, particularly dance and music.
-- **Chaquén**: of sports and fertility, protector of boundaries and frontiers.
-- **Guatavita**: Lake goddess associated with gold offerings and the El Dorado legend.
-- **Siachoque**: of water and lakes, protector of fishermen and sailors.
-- **Bochica's wife**: Unnamed goddess who caused a great flood, later transformed into the moon.
+- **Chía**: Moon goddess associated with night, time, and fertility. (Moon)
+- **Bachué**: Mother goddess who emerged from a lake with a child, progenitor of humanity. (Venus)
+- **Huitaca**: of arts, music, dance, and pleasure, often associated with the moon. (Moon, Venus)
+- **Chie**: of wisdom and intelligence, taught weaving and morality to the Muisca. (Mercury)
+- **Cuchavira**: Rainbow goddess, protector of women in childbirth and the sick. (Jupiter)
+- **Nencatacoa**: of intoxication, festivities, and arts, particularly dance and music. (Neptune)
+- **Chaquén**: of sports and fertility, protector of boundaries and frontiers. (Mars)
+- **Guatavita**: Lake goddess associated with gold offerings and the El Dorado legend. (Venus)
+- **Siachoque**: of water and lakes, protector of fishermen and sailors. (Neptune)
+- **Bochica's wife**: Unnamed goddess who caused a great flood, later transformed into the moon. (Moon)
 
 ### Fijian
-- **Lewatumomo**: of fire and volcanoes, associated with destruction and creation.
-- **Turukawa**: of seafaring and navigation, guiding fishermen and sailors.
-- **Makereta**: Ocean goddess who protects marine life and controls the tides.
-- **Nai Tiri**: of agriculture and fertility, ensuring bountiful harvests.
-- **Vilavilairevo**: Fire-walking goddess, patron of the firewalking ritual.
-- **Dakuwaqa**: Shape-shifting goddess who can take the form of a shark, protector of fishermen.
-- **Nanai**: Ancestral goddess associated with wisdom and guidance.
-- **Radi-ni-Wai**: Fresh water goddess, guardian of rivers and streams.
-- **Naivilawasa**: of traditional medicine and healing practices.
-- **Adi Senitoa**: of beauty and love, often invoked in courtship rituals.
+- **Lewatumomo**: of fire and volcanoes, associated with destruction and creation. (Mars, Pluto)
+- **Turukawa**: of seafaring and navigation, guiding fishermen and sailors. (Neptune)
+- **Makereta**: Ocean goddess who protects marine life and controls the tides. (Moon, Neptune)
+- **Nai Tiri**: of agriculture and fertility, ensuring bountiful harvests. (Venus)
+- **Vilavilairevo**: Fire-walking goddess, patron of the firewalking ritual. (Mars)
+- **Dakuwaqa**: Shape-shifting goddess who can take the form of a shark, protector of fishermen. (Neptune)
+- **Nanai**: Ancestral goddess associated with wisdom and guidance. (Saturn)
+- **Radi-ni-Wai**: Fresh water goddess, guardian of rivers and streams. (Neptune)
+- **Naivilawasa**: of traditional medicine and healing practices. (Mercury)
+- **Adi Senitoa**: of beauty and love, often invoked in courtship rituals (Venus)
 
 ### Dreamtime (Australian)
-- **Yhi**: Sun goddess of the Karraur people, associated with creation and light.
-- **Anjea**: Fertility goddess of the Karraur people, responsible for creating children from mud.
-- **Kunapipi**: Mother goddess and creator figure in Arnhem Land traditions.
-- **Julunggul**: Rainbow Serpent goddess associated with fertility and initiation rites.
-- **Walu**: Sun goddess of the Yolngu people, who lights a fire each day to warm the earth.
-- **Wuriupranili**: Sun goddess of the Tiwi people, who carries a torch across the sky.
-- **Ngalyod**: Rainbow Serpent goddess of the Gunwinggu people, associated with creation and fertility.
-- **Dilga**: Mother goddess of the Karadjeri people, associated with creation and the stars.
-- **Eingana**: Creator goddess of the Ngalagkan people, often depicted as a snake.
-- **Waramurungundi**: Creator goddess of the Yolngu people, associated with fertility and childbirth.
+- **Yhi**: Sun goddess of the Karraur people, associated with creation and light. (Sun)
+- **Anjea**: Fertility goddess of the Karraur people, responsible for creating children from mud. (Venus)
+- **Kunapipi**: Mother goddess and creator figure in Arnhem Land traditions. (Moon)
+- **Julunggul**: Rainbow Serpent goddess associated with fertility and initiation rites. (Uranus)
+- **Walu**: Sun goddess of the Yolngu people, who lights a fire each day to warm the earth. (Sun)
+- **Wuriupranili**: Sun goddess of the Tiwi people, who carries a torch across the sky. (Sun)
+- **Ngalyod**: Rainbow Serpent goddess of the Gunwinggu people, associated with creation and fertility. (Jupiter)
+- **Dilga**: Mother goddess of the Karadjeri people, associated with creation and the stars. (Saturn)
+- **Eingana**: Creator goddess of the Ngalagkan people, often depicted as a snake. (Pluto)
+- **Waramurungundi**: Creator goddess of the Yolngu people, associated with fertility and childbirth. (Venus)
 
 ## Syncretic and Modern Movements
 ### Gnosticism
-- **Sophia**: Wisdom goddess, often considered the feminine aspect of God and creator of the material world.
-- **Barbelo**: The first emanation of God, representing divine forethought and the perfect female principle.
-- **Zoe**: of life, often associated with Eve and the spark of divine wisdom in humans.
-- **Norea**: Daughter of Eve, represents spiritual knowledge and resistance against archons.
-- **Achamoth**: Lower aspect of Sophia, responsible for creating the material world and the Demiurge.
-- **Ennoia**: Divine thought or intention, often equated with Barbelo in some Gnostic systems.
-- **Protennoia**: The "First Thought" or primal aspect of the divine, associated with the power of thought and creation.
-- **Pistis**: of faith, sometimes equated with Sophia in certain Gnostic texts.
-- **Epinoia**: Divine afterthought or reflection, often associated with spiritual awakening.
-- **Helena**: In Simonian Gnosticism, the first thought of God, fallen into matter and redeemed by Simon Magus.
+- **Sophia**: Wisdom goddess, often considered the feminine aspect of God and creator of the material world. (Venus)
+- **Barbelo**: The first emanation of God, representing divine forethought and the perfect female principle. (Uranus)
+- **Zoe**: of life, often associated with Eve and the spark of divine wisdom in humans. (Sun)
+- **Norea**: Daughter of Eve, represents spiritual knowledge and resistance against archons. (Mercury)
+- **Achamoth**: Lower aspect of Sophia, responsible for creating the material world and the Demiurge. (Saturn)
+- **Ennoia**: Divine thought or intention, often equated with Barbelo in some Gnostic systems. (Mercury)
+- **Protennoia**: The "First Thought" or primal aspect of the divine, associated with the power of thought and creation. (Uranus)
+- **Pistis**: of faith, sometimes equated with Sophia in certain Gnostic texts. (Jupiter)
+- **Epinoia**: Divine afterthought or reflection, often associated with spiritual awakening. (Neptune)
+- **Helena**: In Simonian Gnosticism, the first thought of God, fallen into matter and redeemed by Simon Magus. (Venus)
 
 ### Hermeticism
-- **Isis**: of wisdom, magic, and nature, central to Hermetic teachings and rituals.
-- **Sophia**: of divine wisdom and knowledge in Hermetic and Gnostic traditions.
-- **Hathor**: Egyptian goddess associated with love, beauty, and music in Hermetic texts.
-- **Maat**: of truth, justice, and cosmic order, important in Hermetic philosophy.
-- **Nephthys**: Sister of Isis, associated with death, transition, and protective magic in Hermetic lore.
-- **Seshat**: of writing, measurement, and record-keeping, linked to Hermetic sciences.
-- **Nut**: Sky goddess, representing the celestial realm in Hermetic cosmology.
-- **Sekhmet**: Lioness goddess of healing and destruction, featured in Hermetic alchemical symbolism.
-- **Bast**: Cat goddess associated with protection and pleasure, mentioned in some Hermetic texts.
-- **Neith**: of creation and weaving, symbolizing the fabric of reality in Hermetic thought.
+- **Isis**: of wisdom, magic, and nature, central to Hermetic teachings and rituals. (Moon)
+- **Sophia**: of divine wisdom and knowledge in Hermetic and Gnostic traditions. (Venus)
+- **Hathor**: Egyptian goddess associated with love, beauty, and music in Hermetic texts. (Venus)
+- **Maat**: of truth, justice, and cosmic order, important in Hermetic philosophy. (Saturn)
+- **Nephthys**: Sister of Isis, associated with death, transition, and protective magic in Hermetic lore. (Pluto)
+- **Seshat**: of writing, measurement, and record-keeping, linked to Hermetic sciences. (Mercury)
+- **Nut**: Sky goddess, representing the celestial realm in Hermetic cosmology. (Uranus)
+- **Sekhmet**: Lioness goddess of healing and destruction, featured in Hermetic alchemical symbolism. (Mars)
+- **Bast**: Cat goddess associated with protection and pleasure, mentioned in some Hermetic texts. (Venus)
+- **Neith**: of creation and weaving, symbolizing the fabric of reality in Hermetic thought. (Saturn)
 
 ### Abrahmic
-- **Sophia**: of divine wisdom in the Old Testament and Jewish mysticism.
-- **Shekinah**: Divine presence or manifestation of God in Jewish tradition, often portrayed as feminine.
-- **Mary, Mother of Jesus**: Venerated as the Theotokos (God-bearer) in Christian tradition.
-- **Mary Magdalene**: Prominent disciple of Jesus, sometimes associated with divine feminine aspects.
-- **Asherah**: Ancient Semitic goddess, once worshipped alongside Yahweh in early Israelite religion.
-- **Holy Spirit**: Sometimes portrayed with feminine attributes in certain Christian traditions.
-- **Wisdom (Chokmah)**: Personified feminine aspect of God in Proverbs and Wisdom literature.
-- **Eve**: First woman in Genesis, sometimes seen as embodying feminine divine potential.
-- **Sarah**: Wife of Abraham, representing divine feminine aspects of faith and motherhood.
-- **Miriam**: Prophetess and sister of Moses, associated with leadership and divine inspiration.
-
-## Neolithic and Early Bronze Age
-### Old Europe (6500-3500 BCE)
-- **Gimbutas' "Mother Goddess"**: Representations of female divinity found across Neolithic Europe
-- **Bird Goddess**: Associated with regeneration and the soul
-- **Snake Goddess**: Linked to renewal and the underworld
-- **Bear Mother**: Symbol of motherhood and protection
-
-### Çatalhöyük (7500-5700 BCE)
-- **Seated Mother Goddess**: Fertility figure often depicted with leopards
-- **Bull Goddess**: Associated with strength and fertility
-
-### Malta (3600-2500 BCE)
-- **Fat Ladies of Malta**: Corpulent goddess figures representing abundance and fertility
-- **Sleeping Lady**: Unique reclining goddess figure, possibly representing death or rebirth
-
-## Ancient Serpent Worship
-### Old Europe
-- **Serpent Goddess of Crete**: Associated with the Minoan civilization (2700-1450 BCE)
-- **Sheela-na-gig**: Figurative carvings of naked women displaying enlarged vulvas, found in medieval European churches
-
-### Africa
-- **Mami Wata**: Water spirit venerated in West, Central, and Southern Africa, often depicted with a snake
-- **Wadjet**: Egyptian cobra goddess, protector of Lower Egypt
-
-### Asia
-- **Nüwa**: Chinese goddess of creation, often depicted with a snake's tail
-- **Manasa**: Hindu snake goddess, protector against snakebites and disease
-
-### Americas
-- **Cihuacoatl**: Aztec goddess, whose name means "Snake Woman"
-- **Coatlicue**: Aztec goddess, mother of the gods, often depicted with a skirt of snakes
-
-## Legendary Lost Continents
-### Lemurian Goddesses
-- **Amlee**: of wisdom and spiritual enlightenment
-- **Zaara**: of nature and elemental forces
-- **Naia**: of healing and crystal energy
-
-### Atlantean Goddesses
-- **Cleito**: Mortal woman who became the first queen of Atlantis
-- **Leucothea**: Sea goddess associated with Atlantean sailors
-- **Atabey**: of fresh water and fertility (sometimes linked to Atlantean origins)
+- **Sophia**: of divine wisdom in the Old Testament and Jewish mysticism. (Mercury)
+- **Shekinah**: Divine presence or manifestation of God in Jewish tradition, often portrayed as feminine. (Jupiter)
+- **Mary, Mother of Jesus**: Venerated as the Theotokos (God-bearer) in Christian tradition. (Moon)
+- **Mary Magdalene**: Prominent disciple of Jesus, sometimes associated with divine feminine aspects. (Venus)
+- **Asherah**: Ancient Semitic goddess, once worshipped alongside Yahweh in early Israelite religion. (Venus)
+- **Holy Spirit**: Sometimes portrayed with feminine attributes in certain Christian traditions. (Neptune)
+- **Wisdom (Chokmah)**: Personified feminine aspect of God in Proverbs and Wisdom literature. (Mercury)
+- **Eve**: First woman in Genesis, sometimes seen as embodying feminine divine potential. (Venus)
+- **Sarah**: Wife of Abraham, representing divine feminine aspects of faith and motherhood. (Moon)
+- **Miriam**: Prophetess and sister of Moses, associated with leadership and divine inspiration. (Mercury)
 
 ## Astrological Goddesses
 ### Zodiac Goddesses
-- **Aries**: Athena (Greek), Minerva (Roman) - goddesses of war and strategy
-- **Taurus**: Hathor (Egyptian), Aphrodite (Greek), Venus (Roman) - goddesses of love and beauty
-- **Gemini**: Artemis and Apollo's sister aspect (Greek), Diana (Roman) - goddesses of duality
-- **Cancer**: Selene (Greek), Luna (Roman), Ix Chel (Mayan) - moon goddesses
-- **Leo**: Sekhmet (Egyptian), Bast (Egyptian) - lioness goddesses associated with the sun
-- **Virgo**: Astraea (Greek), Isis (Egyptian), Demeter (Greek), Ceres (Roman) - harvest and purity goddesses
-- **Libra**: Themis (Greek), Maat (Egyptian), Justitia (Roman) - goddesses of justice and balance
-- **Scorpio**: Hekate (Greek), Kali (Hindu), Nephthys (Egyptian) - goddesses of transformation and the underworld
-- **Sagittarius**: Artemis (Greek), Diana (Roman) - goddesses of the hunt and freedom
-- **Capricorn**: Hestia (Greek), Vesta (Roman) - goddesses of hearth and structure
-- **Aquarius**: Hera (Greek), Juno (Roman), Saraswati (Hindu) - goddesses of higher wisdom
-- **Pisces**: Amphitrite (Greek), Tiamat (Babylonian), Yemaya (Yoruba) - ocean goddesses
+- **Aries**: Athena (Greek), Minerva (Roman) - goddesses of war and strategy (Mars)
+- **Taurus**: Hathor (Egyptian), Aphrodite (Greek), Venus (Roman) - goddesses of love and beauty (Venus)
+- **Gemini**: Artemis and Apollo's sister aspect (Greek), Diana (Roman) - goddesses of duality (Mercury)
+- **Cancer**: Selene (Greek), Luna (Roman), Ix Chel (Mayan) - moon goddesses (Moon)
+- **Leo**: Sekhmet (Egyptian), Bast (Egyptian) - lioness goddesses associated with the sun (Sun)
+- **Virgo**: Astraea (Greek), Isis (Egyptian), Demeter (Greek), Ceres (Roman) - harvest and purity goddesses (Mercury)
+- **Libra**: Themis (Greek), Maat (Egyptian), Justitia (Roman) - goddesses of justice and balance (Venus)
+- **Scorpio**: Hekate (Greek), Kali (Hindu), Nephthys (Egyptian) - goddesses of transformation and the underworld (Pluto)
+- **Sagittarius**: Artemis (Greek), Diana (Roman) - goddesses of the hunt and freedom (Jupiter)
+- **Capricorn**: Hestia (Greek), Vesta (Roman) - goddesses of hearth and structure (Saturn)
+- **Aquarius**: Hera (Greek), Juno (Roman), Saraswati (Hindu) - goddesses of higher wisdom (Uranus)
+- **Pisces**: Amphitrite (Greek), Tiamat (Babylonian), Yemaya (Yoruba) - ocean goddesses (Neptune)
 
 ### Planetary Goddesses
 - **Sun**: Amaterasu (Japanese), Sekhmet (Egyptian), Sunna (Norse)
@@ -1698,3 +1656,46 @@
 - **Dark Moon**: Lilith (Hebrew), Kali (Hindu), Hekate (Greek)
 - **Eclipses**: Rahu and Ketu's feminine aspects (Hindu), Ix Chel (Mayan)
 - **Comets**: Ishtar (Babylonian), Pele (Hawaiian) in some interpretations
+
+## Ancient World
+### Old Europe (6500-3500 BCE)
+- **Gimbutas' "Mother Goddess"**: Representations of female divinity found across Neolithic Europe (Earth)
+- **Bird Goddess**: Associated with regeneration and the soul (Mercury)
+- **Snake Goddess**: Linked to renewal and the underworld (Pluto)
+- **Bear Mother**: Symbol of motherhood and protection (Moon)
+
+### Çatalhöyük (7500-5700 BCE)
+- **Seated Mother Goddess**: Fertility figure often depicted with leopards (Venus)
+- **Bull Goddess**: Associated with strength and fertility (Taurus)
+
+### Malta (3600-2500 BCE)
+- **Fat Ladies of Malta**: Corpulent goddess figures representing abundance and fertility (Venus)
+- **Sleeping Lady**: Unique reclining goddess figure, possibly representing death or rebirth (Pluto)
+
+## Ancient Serpent Worship
+### Old Europe
+- **Serpent Goddess of Crete**: Associated with the Minoan civilization (2700-1450 BCE) (Pluto)
+- **Sheela-na-gig**: Figurative carvings of naked women displaying enlarged vulvas, found in medieval European churches (Venus)
+
+### Africa
+- **Mami Wata**: Water spirit venerated in West, Central, and Southern Africa, often depicted with a snake (Neptune)
+- **Wadjet**: Egyptian cobra goddess, protector of Lower Egypt (Mars)
+
+### Asia
+- **Nüwa**: Chinese goddess of creation, often depicted with a snake's tail (Saturn)
+- **Manasa**: Hindu snake goddess, protector against snakebites and disease (Mercury)
+
+### Americas
+- **Cihuacoatl**: Aztec goddess, whose name means "Snake Woman" (Moon)
+- **Coatlicue**: Aztec goddess, mother of the gods, often depicted with a skirt of snakes (Saturn)
+
+## Legendary Lost Continents
+### Lemurian Goddesses
+- **Amlee**: of wisdom and spiritual enlightenment (Jupiter)
+- **Zaara**: of nature and elemental forces (Earth)
+- **Naia**: of healing and crystal energy (Neptune)
+
+### Atlantean Goddesses
+- **Cleito**: Mortal woman who became the first queen of Atlantis (Venus)
+- **Leucothea**: Sea goddess associated with Atlantean sailors (Neptune)
+- **Atabey**: of fresh water and fertility (sometimes linked to Atlantean origins) (Venus)
