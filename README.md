@@ -852,11 +852,14 @@
 - **Kanaka Durga**: Powerful form of Durga, presiding deity of Vijayawada
 - **Padmavati**: Consort of Venkateshwara, goddess of wealth and prosperity
 
-### West Indian (Caribbean influence)
-- **Atabey**: Taíno mother goddess of fresh water, fertility, and childbirth
-- **Guabancex**: Taíno goddess of destructive winds and hurricanes
-- **Erzulie Freda**: Haitian Vodou goddess of love, beauty, and luxury
-- **Oshun**: Yoruba-derived goddess of love and fresh water in Santería and Candomblé
+### West Indian 
+- **Amba Mata**: A popular goddess in Gujarat, often associated with shakti (divine feminine power).
+- **Mumba Devi**: The patron goddess of Mumbai (formerly Bombay), after whom the city is named.
+- **Mahalakshmi**: While worshipped throughout India, she has a particularly important temple in Mumbai.
+- **Shantadurga**: A prominent goddess in Goa, representing peace and is a form of Durga.
+- **Bhavani**: A form of Parvati, widely worshipped in Maharashtra.
+- **Saptashrungi**: A manifestation of Durga, with a famous temple in Nashik, Maharashtra.
+- **Ashapura Mata**: An important goddess in Kutch, Gujarat, considered a form of Durga.
 
 ### Central Indian
 - **Santoshi Mata**: Modern goddess of satisfaction and contentment
